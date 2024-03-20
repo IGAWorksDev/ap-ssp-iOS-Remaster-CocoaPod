@@ -9,15 +9,16 @@ Pod::Spec.new do |s|
         "file": "LICENSE"
       }
     
-    s.ios.deployment_target = "12.0"
     s.author       = { "mick" => "mick@igaworks.com",
                        "mick.kim" => "mick.kim@adpopcorn.com",
                        "odin.song" => "odin.song@adpopcorn.com"
                      }
-    s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version}" }
-    s.default_subspecs = "AdPopcornSSP_SDK"
+    s.ios.deployment_target = "12.0"
+    s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
+    
+    s.default_subspecs = "AdPopcornSSP"
 
-    s.subspec 'AdPopcornSSP_SDK' do |sdk|
+    s.subspec 'AdPopcornSSP' do |sdk|
     sdk.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/AdPopcornSSP_SDK.xcframework"
     end
 
