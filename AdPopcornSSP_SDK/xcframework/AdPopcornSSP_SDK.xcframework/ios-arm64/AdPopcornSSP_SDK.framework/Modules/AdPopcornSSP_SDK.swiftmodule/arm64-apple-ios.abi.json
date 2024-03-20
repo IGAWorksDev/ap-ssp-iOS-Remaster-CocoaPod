@@ -1621,8 +1621,8 @@
       },
       {
         "kind": "Import",
-        "name": "os.log",
-        "printedName": "os.log",
+        "name": "OSLog",
+        "printedName": "OSLog",
         "declKind": "Import",
         "moduleName": "AdPopcornSSP_SDK"
       },
@@ -17401,203 +17401,203 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 264,
+      "offset": 263,
       "length": 14,
       "value": "\"🔵 Network\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 341,
+      "offset": 340,
       "length": 12,
       "value": "\"🟡 Debug\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 415,
+      "offset": 414,
       "length": 11,
       "value": "\"🟠 Info\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 489,
+      "offset": 488,
       "length": 12,
       "value": "\"🔴 Error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1299,
+      "offset": 1298,
       "length": 28,
       "value": "\"AdPopcornLogger 🟡 DEBUG\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1375,
+      "offset": 1374,
       "length": 27,
       "value": "\"AdPopcornLogger 🟠 INFO\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1453,
+      "offset": 1452,
       "length": 30,
       "value": "\"AdPopcornLogger 🔵 NETWORK\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1532,
+      "offset": 1531,
       "length": 28,
       "value": "\"AdPopcornLogger 🔴 ERROR\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1624,
+      "offset": 1623,
       "length": 28,
       "value": "\"AdPopcorn 🟢 \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 1651,
+      "offset": 1650,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 2799,
+      "offset": 2798,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 2927,
+      "offset": 2926,
       "length": 41,
       "value": "\" (\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 2937,
+      "offset": 2936,
       "length": 1,
       "value": "\")-> \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 2951,
+      "offset": 2950,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 2967,
+      "offset": 2966,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3069,
+      "offset": 3068,
       "length": 38,
       "value": "\"🟡 \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3106,
+      "offset": 3105,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3169,
+      "offset": 3168,
       "length": 38,
       "value": "\"🟠 \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3206,
+      "offset": 3205,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3271,
+      "offset": 3270,
       "length": 38,
       "value": "\"🔵 \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3308,
+      "offset": 3307,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3373,
+      "offset": 3372,
       "length": 38,
       "value": "\"🔴 \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3410,
+      "offset": 3409,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3555,
+      "offset": 3554,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3583,
+      "offset": 3582,
       "length": 12,
       "value": "\"%{public}@\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3638,
+      "offset": 3637,
       "length": 39,
       "value": "\"(\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3647,
+      "offset": 3646,
       "length": 1,
       "value": "\"), \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3660,
+      "offset": 3659,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 3676,
+      "offset": 3675,
       "length": 2,
       "value": "\"\""
     },

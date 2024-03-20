@@ -10,14 +10,13 @@ import CoreTelephony
 import Darwin
 import Foundation
 import Network
+import OSLog
 import Swift
 import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-import os.log
-import os
 @objc public protocol AdPopcornNativeAdLoaderDelegate {
   @objc optional func adPopcornNativeViewLoadSuccess(nativeAdView: AdPopcornSSP_SDK.AdPopcornNativeAdView)
   @objc optional func adPopcornnativeViewLoadFail(error: AdPopcornSSP_SDK.NetworkError)
