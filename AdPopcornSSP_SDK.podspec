@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "AdPopcornSSP_SDK"
-    s.version      = "0.0.1"
+    s.version      = "0.0.2"
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
 
     s.subspec 'AdPopcornSSP' do |sdk|
     sdk.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/AdPopcornSSP_SDK.xcframework"
+    
     end
 
 
