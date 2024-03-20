@@ -1,0 +1,246 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AdPopcornSSP_SDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+@_exported import AdPopcornSSP_SDK
+import AdSupport
+import AppTrackingTransparency
+import CoreTelephony
+import Darwin
+import Foundation
+import Network
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+@objc public protocol AdPopcornNativeAdLoaderDelegate {
+  @objc optional func adPopcornNativeViewLoadSuccess(nativeAdView: AdPopcornSSP_SDK.AdPopcornNativeAdView)
+  @objc optional func adPopcornnativeViewLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+}
+final public class AdPopcornNativeAdLoader {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornNativeAdLoaderDelegate)?
+  public init(placementID: Swift.String)
+  @objc deinit
+  final public func load()
+  final public func stop()
+}
+public protocol AdPopcornNativeAdRenderable {
+  func nativeView() -> UIKit.UIView
+  func adTitleLabel() -> UIKit.UILabel?
+  func adtextLabel() -> UIKit.UILabel?
+  func adMainImageView() -> UIKit.UIImageView?
+  func adAppIconView() -> UIKit.UIImageView?
+  func adCTAButton() -> UIKit.UIButton?
+}
+@objc public enum BannerSize : Swift.Int {
+  case banner320x50 = 1
+  case banner320x100 = 3
+  case banner300x250 = 2
+  case bannerAdaptiveSize = 4
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public protocol AdPopcornInterstitialVideoLoaderDelegate {
+  @objc optional func AdPopcornInterstitialVideoAdLoadSuccess(interstitialVideoAd: AdPopcornSSP_SDK.AdPopcornInterstitialVideoAd)
+  @objc optional func AdPopcornInterstitialVideoAdLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+}
+final public class AdPopcornInterstitialVideoLoader {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornInterstitialVideoLoaderDelegate)?
+  public init(placementID: Swift.String)
+  @objc deinit
+  final public func load()
+}
+@_hasMissingDesignatedInitializers public class APLogger {
+  public enum Log {
+    case all
+    case network
+    case debug
+    case error
+    case none
+    public static func == (a: AdPopcornSSP_SDK.APLogger.Log, b: AdPopcornSSP_SDK.APLogger.Log) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  @objc deinit
+}
+@objc public protocol AdPopcornInterstitialAdDelegate {
+  @objc optional func adPopcorninterstitialAdShowSuccess(message: Swift.String)
+  @objc optional func adPopcorninterstitialAdShowFail(message: Swift.String)
+  @objc optional func adPopcorninterstitialAdClicked(message: Swift.String)
+  @objc optional func adPopcorninterstitialAdClosed(message: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc final public class AdPopcornInterstitialAd : ObjectiveC.NSObject {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornInterstitialAdDelegate)?
+  @objc deinit
+  final public func present(from: UIKit.UIViewController)
+  @objc override dynamic public init()
+}
+@_hasMissingDesignatedInitializers final public class AdPopcornSSP {
+  public static func setUSerID(usn: Swift.String)
+  public static func initializeSDK(appKey: Swift.String)
+  public static func setLogType(_ type: AdPopcornSSP_SDK.APLogger.Log)
+  public static func presentCSViewController(_ rootViewController: UIKit.UIViewController, userID: Swift.String)
+  @objc deinit
+}
+@objc public protocol AdPopcornInterstitialVideoAdDelegate {
+  @objc optional func adPopcorninterstitialVideoAdShowSuccess(message: Swift.String)
+  @objc optional func adPopcorninterstitialVideoAdShowFail(message: Swift.String)
+  @objc optional func adPopcorninterstitialVideoAdClicked(message: Swift.String)
+  @objc optional func adPopcorninterstitialVideoAdClosed(message: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc final public class AdPopcornInterstitialVideoAd : ObjectiveC.NSObject {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornInterstitialVideoAdDelegate)?
+  @objc deinit
+  final public func present(from: UIKit.UIViewController)
+  @objc override dynamic public init()
+}
+@objc public protocol AdPopcornNativeAdDelegate {
+  @objc optional func adPopcornNativeViewShowSuccess(message: Swift.String)
+  @objc optional func adPopcornNativeViewShowFail(message: Swift.String)
+  @objc optional func adPopcornNativeViewClicked(message: Swift.String)
+  @objc optional func adPopcornNativeViewImpression(message: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class AdPopcornNativeAdView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any AdPopcornSSP_SDK.AdPopcornNativeAdDelegate)?
+  @_Concurrency.MainActor(unsafe) public func bind(_ view: UIKit.UIView)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class MySDK {
+  public static var bundle: Foundation.Bundle {
+    get
+  }
+  public static func loadJSONFile(named fileName: Swift.String) -> Foundation.Data?
+  @objc deinit
+}
+@objc public protocol AdPopcornInterstitialLoaderDelegate {
+  @objc optional func AdPopcornInterstitialAdLoadSuccess(interstitialAd: AdPopcornSSP_SDK.AdPopcornInterstitialAd)
+  @objc optional func AdPopcornInterstitialAdLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+}
+final public class AdPopcornInterstitialLoader {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornInterstitialLoaderDelegate)?
+  public init(placementID: Swift.String)
+  @objc deinit
+  final public func load()
+}
+@objc public protocol AdPopcornRewardVideoLoaderDelegate {
+  @objc optional func AdPopcornRewardVideoAdLoadSuccess(rewardVideoAd: AdPopcornSSP_SDK.AdPopcornRewardVideoAd)
+  @objc optional func AdPopcornRewardVideoAdLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+}
+final public class AdPopcornRewardVideoLoader {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornRewardVideoLoaderDelegate)?
+  public init(placementID: Swift.String)
+  @objc deinit
+  final public func load()
+}
+@objc public enum NetworkError : Swift.Int, Swift.Error {
+  case serverError = 200
+  case parameterError = 1000
+  case appKeyError = 2000
+  case placementIDError = 2030
+  case emptyCampaignError = 2100
+  case nativePlacementNoInitialized = 3200
+  case assetError = 3300
+  case mediationInvalidIntegrationKey = 4000
+  case mediationAdapterNotInitialized = 4001
+  case serverTimeout = 5000
+  case loadAdFailed = 5001
+  case noAdError = 5002
+  case noInterstitialLoaded = 5003
+  case noRewardVideoAdLoaded = 5005
+  case gdprConsentUnavailable = 5008
+  case noInterstitialVideoAdLoaded = 5009
+  case decodingError = 8888
+  case unknownServerError = 9999
+  case nextMediation = 100000
+  case vastParsingError = 200000
+  public var errorMessage: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public static var _nsErrorDomain: Swift.String {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public protocol BannerMediationAdapterDelegate : AnyObject {
+  func bannerViewSuccess(bannerView: UIKit.UIView)
+  func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSP_SDK.NetworkError)
+  func bannerViewClicked(message: Swift.String)
+  func bannerViewImpression(message: Swift.String)
+}
+@objc public protocol AdPopcornBannerViewDelegate : ObjectiveC.NSObjectProtocol {
+  @objc optional func adPopcornBannerViewLoadSuccess(bannerView: AdPopcornSSP_SDK.AdPopcornBannerView)
+  @objc optional func adPopcornBannerViewLoadFail(bannerView: AdPopcornSSP_SDK.AdPopcornBannerView, error: AdPopcornSSP_SDK.NetworkError)
+  @objc optional func adPopcornBannerViewClicked(message: Swift.String)
+  @objc optional func adPopcornBannerViewImpression(message: Swift.String)
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class AdPopcornBannerView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornBannerViewDelegate)?
+  @_Concurrency.MainActor(unsafe) public init(placementID: Swift.String, bannerSize: AdPopcornSSP_SDK.BannerSize, rootViewController: UIKit.UIViewController, adRefreshTime: Swift.Int = 60, animationType: AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType = .none)
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) final public func loadAd()
+  @_Concurrency.MainActor(unsafe) final public func stop()
+}
+extension AdPopcornSSP_SDK.AdPopcornBannerView : AdPopcornSSP_SDK.BannerMediationAdapterDelegate {
+  @_Concurrency.MainActor(unsafe) final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  @_Concurrency.MainActor(unsafe) final public func bannerViewClicked(message: Swift.String)
+  @_Concurrency.MainActor(unsafe) final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSP_SDK.NetworkError)
+  @_Concurrency.MainActor(unsafe) final public func bannerViewImpression(message: Swift.String)
+}
+extension AdPopcornSSP_SDK.AdPopcornBannerView {
+  public enum AnimationType : Swift.CaseIterable {
+    case none
+    case curlDown
+    case curlUp
+    case flipFromLeft
+    case flipFromRight
+    case fadeIn
+    public static func == (a: AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType, b: AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public typealias AllCases = [AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType]
+    public static var allCases: [AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType] {
+      get
+    }
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+@objc public protocol AdPopcornRewardVideoAdDelegate {
+  @objc optional func adPopcornRewardVideoAdShowSuccess(message: Swift.String)
+  @objc optional func adPopcornRewardVideoAdShowFail(message: Swift.String)
+  @objc optional func adPopcornRewardVideoAdClicked(message: Swift.String)
+  @objc optional func adPopcornRewardVideoAdClosed(message: Swift.String)
+  @objc optional func adPopcornRewardVideoAdCompleted(adNetworkNo: Swift.Int)
+}
+@_inheritsConvenienceInitializers @objc final public class AdPopcornRewardVideoAd : ObjectiveC.NSObject {
+  weak final public var delegate: (any AdPopcornSSP_SDK.AdPopcornRewardVideoAdDelegate)?
+  @objc deinit
+  final public func present(from: UIKit.UIViewController)
+  @objc override dynamic public init()
+}
+extension AdPopcornSSP_SDK.BannerSize : Swift.Equatable {}
+extension AdPopcornSSP_SDK.BannerSize : Swift.Hashable {}
+extension AdPopcornSSP_SDK.BannerSize : Swift.RawRepresentable {}
+extension AdPopcornSSP_SDK.APLogger.Log : Swift.Equatable {}
+extension AdPopcornSSP_SDK.APLogger.Log : Swift.Hashable {}
+extension AdPopcornSSP_SDK.NetworkError : Swift.Equatable {}
+extension AdPopcornSSP_SDK.NetworkError : Swift.Hashable {}
+extension AdPopcornSSP_SDK.NetworkError : Swift.RawRepresentable {}
+extension AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType : Swift.Equatable {}
+extension AdPopcornSSP_SDK.AdPopcornBannerView.AnimationType : Swift.Hashable {}
