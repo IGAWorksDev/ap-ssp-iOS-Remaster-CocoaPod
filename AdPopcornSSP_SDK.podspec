@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
                        "mick.kim" => "mick.kim@adpopcorn.com",
                        "odin.song" => "odin.song@adpopcorn.com"
                      }
-    s.ios.deployment_target = "12.0"
+    s.ios.deployment_target = "13.0"
     s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
     
     s.default_subspecs = "AdPopcornSSP"
@@ -23,11 +23,11 @@ Pod::Spec.new do |s|
     
     end
     
-      s.subspec 'MediationAdMob' do |admob|
-      admob.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationAdMob.xcframework"
-      admob.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-      admob.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
-  end
+    s.subspec 'MediationAdMob' do |admob|
+    admob.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationAdMob.xcframework"
+    admob.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    admob.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
+    end
 
 
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
