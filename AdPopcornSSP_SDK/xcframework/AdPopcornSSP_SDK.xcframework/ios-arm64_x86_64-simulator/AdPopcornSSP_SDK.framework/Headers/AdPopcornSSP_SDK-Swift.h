@@ -388,37 +388,38 @@ SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK40AdPopcornInterstitialVideoLoaderDelegate
 @end
 
 
-SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK25AdPopcornNativeAdDelegate_")
-@protocol AdPopcornNativeAdDelegate
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK27AdPopcornNativeAdRenderable")
+@interface AdPopcornNativeAdRenderable : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
+@interface AdPopcornNativeAdView : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK19AdPopcornNativeView")
+@interface AdPopcornNativeView : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
+
+
+SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK27AdPopcornNativeViewDelegate_")
+@protocol AdPopcornNativeViewDelegate <NSObject>
 @optional
-- (void)adPopcornNativeViewShowSuccessWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornNativeViewShowFailWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornNativeViewLoadSuccessWithNativewAdView:(AdPopcornNativeView * _Nonnull)nativewAdView;
+- (void)adPopcornnativeViewLoadFailWithError:(enum NetworkError)error;
 - (void)adPopcornNativeViewClickedWithMessage:(NSString * _Nonnull)message;
 - (void)adPopcornNativeViewImpressionWithMessage:(NSString * _Nonnull)message;
 @end
-
-@class AdPopcornNativeAdView;
-
-SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK31AdPopcornNativeAdLoaderDelegate_")
-@protocol AdPopcornNativeAdLoaderDelegate
-@optional
-- (void)adPopcornNativeViewLoadSuccessWithNativeAdView:(AdPopcornNativeAdView * _Nonnull)nativeAdView;
-- (void)adPopcornnativeViewLoadFailWithError:(enum NetworkError)error;
-@end
-
-
-/// <h1>AdPopcornNativeAdView</h1>
-/// <ul>
-///   <li>
-///     Native
-///   </li>
-/// </ul>
-SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
-@interface AdPopcornNativeAdView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
 
 
 SWIFT_CLASS("_TtC16AdPopcornSSP_SDK22AdPopcornRewardVideoAd")
@@ -490,10 +491,15 @@ typedef SWIFT_ENUM(NSInteger, NetworkError, open) {
   NetworkErrorDecodingError = 8888,
 /// 9999, 알 수 없는 Server Error
   NetworkErrorUnknownServerError = 9999,
+/// 임의 설정은 6자리로 처리하였음
 /// mediation 광고가 없을 때 (임의로 설정)
   NetworkErrorNextMediation = 100000,
 /// vast parsing 에서 error 가 발생했을 경우  (임의로 설정)
   NetworkErrorVastParsingError = 200000,
+/// delegate 연결 실패로 인한 error
+  NetworkErrorDelegateError = 300000,
+/// native View 직접 custom 해야 함
+  NetworkErrorNativeViewCustomError = 300001,
 };
 static NSString * _Nonnull const NetworkErrorDomain = @"AdPopcornSSP_SDK.NetworkError";
 
@@ -898,37 +904,38 @@ SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK40AdPopcornInterstitialVideoLoaderDelegate
 @end
 
 
-SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK25AdPopcornNativeAdDelegate_")
-@protocol AdPopcornNativeAdDelegate
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK27AdPopcornNativeAdRenderable")
+@interface AdPopcornNativeAdRenderable : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
+@interface AdPopcornNativeAdView : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK19AdPopcornNativeView")
+@interface AdPopcornNativeView : UIView
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
+
+
+SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK27AdPopcornNativeViewDelegate_")
+@protocol AdPopcornNativeViewDelegate <NSObject>
 @optional
-- (void)adPopcornNativeViewShowSuccessWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornNativeViewShowFailWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornNativeViewLoadSuccessWithNativewAdView:(AdPopcornNativeView * _Nonnull)nativewAdView;
+- (void)adPopcornnativeViewLoadFailWithError:(enum NetworkError)error;
 - (void)adPopcornNativeViewClickedWithMessage:(NSString * _Nonnull)message;
 - (void)adPopcornNativeViewImpressionWithMessage:(NSString * _Nonnull)message;
 @end
-
-@class AdPopcornNativeAdView;
-
-SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK31AdPopcornNativeAdLoaderDelegate_")
-@protocol AdPopcornNativeAdLoaderDelegate
-@optional
-- (void)adPopcornNativeViewLoadSuccessWithNativeAdView:(AdPopcornNativeAdView * _Nonnull)nativeAdView;
-- (void)adPopcornnativeViewLoadFailWithError:(enum NetworkError)error;
-@end
-
-
-/// <h1>AdPopcornNativeAdView</h1>
-/// <ul>
-///   <li>
-///     Native
-///   </li>
-/// </ul>
-SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
-@interface AdPopcornNativeAdView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
 
 
 SWIFT_CLASS("_TtC16AdPopcornSSP_SDK22AdPopcornRewardVideoAd")
@@ -1000,10 +1007,15 @@ typedef SWIFT_ENUM(NSInteger, NetworkError, open) {
   NetworkErrorDecodingError = 8888,
 /// 9999, 알 수 없는 Server Error
   NetworkErrorUnknownServerError = 9999,
+/// 임의 설정은 6자리로 처리하였음
 /// mediation 광고가 없을 때 (임의로 설정)
   NetworkErrorNextMediation = 100000,
 /// vast parsing 에서 error 가 발생했을 경우  (임의로 설정)
   NetworkErrorVastParsingError = 200000,
+/// delegate 연결 실패로 인한 error
+  NetworkErrorDelegateError = 300000,
+/// native View 직접 custom 해야 함
+  NetworkErrorNativeViewCustomError = 300001,
 };
 static NSString * _Nonnull const NetworkErrorDomain = @"AdPopcornSSP_SDK.NetworkError";
 
