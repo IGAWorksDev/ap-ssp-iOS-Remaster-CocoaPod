@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
     
       s.subspec 'MediationAdMob' do |admob|
       admob.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationAdMob.xcframework"
-      admob.dependency 'AdPopcornSSP_SDK/MediationAdMob'
+      admob.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
       admob.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
   end
 
