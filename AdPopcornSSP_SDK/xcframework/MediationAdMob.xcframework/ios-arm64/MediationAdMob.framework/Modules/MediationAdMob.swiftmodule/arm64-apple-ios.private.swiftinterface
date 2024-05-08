@@ -1,0 +1,165 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MediationAdMob
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import GoogleMobileAds
+@_exported import MediationAdMob
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public protocol AdMobInterstitialAdapterDelegate : AnyObject {
+  func interstitialAdLoadSuccess(mediationInterstitialAd: MediationAdMob.AdMobMediationInterstitialAd)
+  func interstitialAdLoadFail(errorCode: Swift.Int)
+  func interstitialAdShowSuccess(message: Swift.String)
+  func interstitialAdShowFail(message: Swift.String)
+  func interstitialAdClicked(message: Swift.String)
+  func interstitialAdClosed(message: Swift.String)
+}
+final public class AdMobInterstitialAdapter {
+  public init(placementID: Swift.String)
+  final public func connectDelegate(delegate: any MediationAdMob.AdMobInterstitialAdapterDelegate)
+  final public func disconnectDelegate()
+  @objc deinit
+}
+extension MediationAdMob.AdMobInterstitialAdapter : MediationAdMob.AdMobInterstitialAdapterDelegate {
+  final public func interstitialAdLoadSuccess(mediationInterstitialAd: MediationAdMob.AdMobMediationInterstitialAd)
+  final public func interstitialAdLoadFail(errorCode: Swift.Int)
+  final public func interstitialAdShowSuccess(message: Swift.String)
+  final public func interstitialAdShowFail(message: Swift.String)
+  final public func interstitialAdClicked(message: Swift.String)
+  final public func interstitialAdClosed(message: Swift.String)
+}
+@objc @_hasMissingDesignatedInitializers final public class AdMobMediationInterstitialVideoAd : ObjectiveC.NSObject {
+  final public func present(from: UIKit.UIViewController)
+  @objc deinit
+}
+extension MediationAdMob.AdMobMediationInterstitialVideoAd : GoogleMobileAds.GADFullScreenContentDelegate {
+  @objc final public func adWillPresentFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+  @objc final public func ad(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd, didFailToPresentFullScreenContentWithError error: any Swift.Error)
+  @objc final public func adDidRecordClick(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+  @objc final public func adDidDismissFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+}
+public protocol AdMobRewardVideoAdapterDelegate : AnyObject {
+  func rewardVideoAdLoadSuccess(mediationRewardVideoAd: MediationAdMob.AdMobMediationRewardVideoAd)
+  func rewardVideoAdLoadFail(errorCode: Swift.Int)
+  func rewardVideoAdShowSuccess(message: Swift.String)
+  func rewardVideoAdShowFail(message: Swift.String)
+  func rewardVideoAdClicked(message: Swift.String)
+  func rewardVideoAdClosed(message: Swift.String)
+}
+final public class AdMobRewardVideoAdapter {
+  public init(placementID: Swift.String, rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any MediationAdMob.AdMobRewardVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  @objc deinit
+}
+extension MediationAdMob.AdMobRewardVideoAdapter : MediationAdMob.AdMobRewardVideoAdapterDelegate {
+  final public func rewardVideoAdLoadSuccess(mediationRewardVideoAd: MediationAdMob.AdMobMediationRewardVideoAd)
+  final public func rewardVideoAdLoadFail(errorCode: Swift.Int)
+  final public func rewardVideoAdShowSuccess(message: Swift.String)
+  final public func rewardVideoAdShowFail(message: Swift.String)
+  final public func rewardVideoAdClicked(message: Swift.String)
+  final public func rewardVideoAdClosed(message: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc final public class AdMobNativeAdRenderable : ObjectiveC.NSObject {
+  final public var admobNativewAdView: GoogleMobileAds.GADNativeAdView?
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) final public class AdMobMediationNativeAdView : UIKit.UIView {
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) final public func AdMobBindRenderable(renderable: MediationAdMob.AdMobNativeAdRenderable?)
+}
+extension MediationAdMob.AdMobMediationNativeAdView : GoogleMobileAds.GADNativeAdLoaderDelegate, GoogleMobileAds.GADNativeAdDelegate {
+  @_Concurrency.MainActor(unsafe) @objc final public func adLoader(_ adLoader: GoogleMobileAds.GADAdLoader, didFailToReceiveAdWithError error: any Swift.Error)
+  @_Concurrency.MainActor(unsafe) @objc final public func adLoaderDidFinishLoading(_ adLoader: GoogleMobileAds.GADAdLoader)
+  @_Concurrency.MainActor(unsafe) @objc final public func adLoader(_ adLoader: GoogleMobileAds.GADAdLoader, didReceive nativeAd: GoogleMobileAds.GADNativeAd)
+}
+@objc @_hasMissingDesignatedInitializers final public class AdMobMediationRewardVideoAd : ObjectiveC.NSObject {
+  final public func present(from: UIKit.UIViewController)
+  @objc deinit
+}
+extension MediationAdMob.AdMobMediationRewardVideoAd : GoogleMobileAds.GADFullScreenContentDelegate {
+  @objc final public func ad(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd, didFailToPresentFullScreenContentWithError error: any Swift.Error)
+  @objc final public func adWillPresentFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+  @objc final public func adDidDismissFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+}
+@_hasMissingDesignatedInitializers final public class AdMobInitialization {
+  public static func start()
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers final public class AdMobMediationInterstitialAd : ObjectiveC.NSObject {
+  final public func present(from: UIKit.UIViewController)
+  @objc deinit
+}
+extension MediationAdMob.AdMobMediationInterstitialAd : GoogleMobileAds.GADFullScreenContentDelegate {
+  @objc final public func adWillPresentFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+  @objc final public func ad(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd, didFailToPresentFullScreenContentWithError error: any Swift.Error)
+  @objc final public func adDidRecordClick(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+  @objc final public func adDidDismissFullScreenContent(_ ad: any GoogleMobileAds.GADFullScreenPresentingAd)
+}
+public protocol AdMobInterstitialVideoAdapterDelegate : AnyObject {
+  func interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd: MediationAdMob.AdMobMediationInterstitialVideoAd)
+  func interstitialVideoAdLoadFail(errorCode: Swift.Int)
+  func interstitialVideoAdShowSuccess(message: Swift.String)
+  func interstitialVideoAdShowFail(message: Swift.String)
+  func interstitialVideoAdClicked(message: Swift.String)
+  func interstitialVideoAdClosed(message: Swift.String)
+}
+final public class AdMobInterstitialVideoAdapter {
+  public init(placementID: Swift.String)
+  final public func connectDelegate(delegate: any MediationAdMob.AdMobInterstitialVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  @objc deinit
+}
+extension MediationAdMob.AdMobInterstitialVideoAdapter : MediationAdMob.AdMobInterstitialVideoAdapterDelegate {
+  final public func interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd: MediationAdMob.AdMobMediationInterstitialVideoAd)
+  final public func interstitialVideoAdLoadFail(errorCode: Swift.Int)
+  final public func interstitialVideoAdShowSuccess(message: Swift.String)
+  final public func interstitialVideoAdShowFail(message: Swift.String)
+  final public func interstitialVideoAdClicked(message: Swift.String)
+  final public func interstitialVideoAdClosed(message: Swift.String)
+}
+public protocol AdmobNativeAdapterDelegate : AnyObject {
+  func NativeAdLoadSuccess(nativeAdView: MediationAdMob.AdMobMediationNativeAdView)
+  func NativeAdLoadFailed(errorCode: Swift.Int)
+  func NativeAdClicked(message: Swift.String)
+  func NativeAdImpression(message: Swift.String)
+}
+final public class AdMobNativeAdAdapter {
+  weak final public var delegate: (any MediationAdMob.AdmobNativeAdapterDelegate)?
+  public init(placementID: Swift.String, rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any MediationAdMob.AdmobNativeAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension MediationAdMob.AdMobNativeAdAdapter : MediationAdMob.AdmobNativeAdapterDelegate {
+  final public func NativeAdLoadSuccess(nativeAdView: MediationAdMob.AdMobMediationNativeAdView)
+  final public func NativeAdLoadFailed(errorCode: Swift.Int)
+  final public func NativeAdClicked(message: Swift.String)
+  final public func NativeAdImpression(message: Swift.String)
+}
+public protocol AdMobBannerAdapterDelegate : AnyObject {
+  func bannerViewSuccess(bannerView: UIKit.UIView)
+  func bannerViewFailed(errorCode: Swift.Int)
+  func bannerViewClicked(message: Swift.String)
+  func bannerViewImpression(message: Swift.String)
+}
+final public class AdMobBannerAdapter {
+  weak final public var delegate: (any MediationAdMob.AdMobBannerAdapterDelegate)?
+  public init(placementID: Swift.String, width: CoreFoundation.CGFloat, height: CoreFoundation.CGFloat, rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any MediationAdMob.AdMobBannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension MediationAdMob.AdMobBannerAdapter : MediationAdMob.AdMobBannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(errorCode: Swift.Int)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}
