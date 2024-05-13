@@ -3884,7 +3884,7 @@
       "kind": "StringLiteral",
       "offset": 1196,
       "length": 50,
-      "value": "\"❤️❤️ AdMobBannerView 제거 ❤️❤️\""
+      "value": "\"❤️❤️ AdMobNativeView 제거 ❤️❤️\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
@@ -4008,21 +4008,21 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 1395,
+      "offset": 1357,
       "length": 70,
       "value": "\"Failed to load rewarded ad with error: \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 1464,
+      "offset": 1426,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 1562,
+      "offset": 1524,
       "length": 21,
       "value": "\"Rewarded ad loaded.\""
     },
@@ -4036,21 +4036,21 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 2028,
+      "offset": 2007,
       "length": 45,
       "value": "\"Ad did fail to present full screen content.\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 2249,
+      "offset": 2228,
       "length": 38,
       "value": "\"Ad will present full screen content.\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 2459,
+      "offset": 2438,
       "length": 37,
       "value": "\"Ad did dismiss full screen content.\""
     },
