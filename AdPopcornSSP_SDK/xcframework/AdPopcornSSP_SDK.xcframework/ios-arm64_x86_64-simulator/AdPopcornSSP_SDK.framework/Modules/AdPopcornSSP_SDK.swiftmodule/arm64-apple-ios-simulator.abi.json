@@ -3284,6 +3284,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AdPopcornSSP_SDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -14193,232 +14203,246 @@
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3661,
+      "length": 74,
+      "value": "\"mediation Admob is not import, AdUnitID: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3734,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3658,
+      "offset": 3780,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3805,
+      "offset": 3927,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3889,
+      "offset": 4011,
       "length": 6,
       "value": "\"none\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4007,
+      "offset": 4129,
       "length": 7,
       "value": "\"No Ad\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4293,
+      "offset": 4415,
       "length": 33,
       "value": "\"adPopcorn NoAd, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4730,
+      "offset": 4852,
       "length": 24,
       "value": "\"error, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 5043,
+      "offset": 5165,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5495,
+      "offset": 5617,
       "length": 102,
       "value": "\"(GET) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5548,
+      "offset": 5670,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5578,
+      "offset": 5700,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5584,
+      "offset": 5706,
       "length": 5,
       "value": "\" Video Start\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 5687,
+      "offset": 5809,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5805,
+      "offset": 5927,
       "length": 122,
       "value": "\"(Response) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5869,
+      "offset": 5991,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5899,
+      "offset": 6021,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5905,
+      "offset": 6027,
       "length": 5,
       "value": "\" Video start: Success\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5963,
+      "offset": 6085,
       "length": 119,
       "value": "\"(Response) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6027,
+      "offset": 6149,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6057,
+      "offset": 6179,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6063,
+      "offset": 6185,
       "length": 5,
       "value": "\" Video start: Fail\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6725,
+      "offset": 6847,
       "length": 106,
       "value": "\"(GET) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6778,
+      "offset": 6900,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6808,
+      "offset": 6930,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6814,
+      "offset": 6936,
       "length": 5,
       "value": "\" Video Completed\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 6922,
+      "offset": 7044,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7039,
+      "offset": 7161,
       "length": 126,
       "value": "\"(Response) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7103,
+      "offset": 7225,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7133,
+      "offset": 7255,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7139,
+      "offset": 7261,
       "length": 5,
       "value": "\" Video Completed: Success\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7201,
+      "offset": 7323,
       "length": 123,
       "value": "\"(Response) Mediation Type = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7265,
+      "offset": 7387,
       "length": 1,
       "value": "\", usn = \""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7295,
+      "offset": 7417,
       "length": 5,
       "value": "\"nil\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/RewardVideo\/RewardVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 7301,
+      "offset": 7423,
       "length": 5,
       "value": "\" Video Completed: Fail\""
     },
@@ -16510,50 +16534,64 @@
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3621,
+      "length": 74,
+      "value": "\"mediation Admob is not import, AdUnitID: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3694,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3613,
+      "offset": 3740,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3760,
+      "offset": 3887,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3844,
+      "offset": 3971,
       "length": 6,
       "value": "\"none\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3963,
+      "offset": 4090,
       "length": 7,
       "value": "\"No Ad\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4247,
+      "offset": 4374,
       "length": 33,
       "value": "\"adPopcorn NoAd, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4655,
+      "offset": 4782,
       "length": 5,
       "value": "\"???\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Interstitial\/InterstitialMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4947,
+      "offset": 5074,
       "length": 1,
       "value": "1"
     },
@@ -18026,6 +18064,13 @@
       "offset": 1022,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Initialization\/APInitialization.swift",
+      "kind": "StringLiteral",
+      "offset": 1346,
+      "length": 31,
+      "value": "\"AdMob Mediation is not import\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Utils\/VASTParser\/models\/VMAP\/VMAPAdSource.swift",
@@ -21985,21 +22030,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Extension\/String+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 775,
-      "length": 66,
-      "value": "\"JSON 파싱에 실패했습니다: \""
+      "offset": 800,
+      "length": 50,
+      "value": "\"setPlacementID JSON 파싱에 실패했습니다\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Extension\/String+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 840,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/Extension\/String+Extension.swift",
-      "kind": "StringLiteral",
-      "offset": 863,
+      "offset": 872,
       "length": 2,
       "value": "\"\""
     },
@@ -22048,63 +22086,77 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3402,
-      "length": 31,
-      "value": "\"mediation Admob is not import\""
+      "offset": 2870,
+      "length": 33,
+      "value": "\"AdPopcornSSP-SDK.MediationAdMob\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3582,
+      "length": 74,
+      "value": "\"mediation Admob is not import, AdUnitID: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3655,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3478,
+      "offset": 3705,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3625,
+      "offset": 4085,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3709,
+      "offset": 4169,
       "length": 6,
       "value": "\"none\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4073,
+      "offset": 4533,
       "length": 33,
       "value": "\"adPopcorn NoAd, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4463,
+      "offset": 4923,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4570,
+      "offset": 5030,
       "length": 5,
       "value": "\"???\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4934,
+      "offset": 5394,
       "length": 5,
       "value": "\"???\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Native\/NativeMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 5225,
+      "offset": 5685,
       "length": 1,
       "value": "1"
     },
@@ -25968,84 +26020,98 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 804,
+      "offset": 864,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 1358,
+      "offset": 1418,
       "length": 57,
       "value": "\"❤️❤️ BannerMediationAdapter 제거 ❤️❤️\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2038,
+      "offset": 2098,
       "length": 18,
       "value": "\"AdPopcorn stopAd\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 2322,
+      "offset": 2382,
       "length": 5,
       "value": "\"???\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 2965,
+      "offset": 3025,
       "length": 5,
       "value": "99999"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3270,
+      "offset": 3330,
       "length": 27,
       "value": "\"Start mediation adPopcorn\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 4175,
+      "length": 74,
+      "value": "\"mediation Admob is not import, AdUnitID: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 4248,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4086,
+      "offset": 4294,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4233,
+      "offset": 4441,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4317,
+      "offset": 4525,
       "length": 6,
       "value": "\"none\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 5131,
+      "offset": 5339,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5814,
+      "offset": 6022,
       "length": 16,
       "value": "\"adPopcorn NoAd\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/Banner\/BannerMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 6153,
+      "offset": 6361,
       "length": 5,
       "value": "\"???\""
     },
@@ -26415,71 +26481,85 @@
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3658,
+      "length": 74,
+      "value": "\"mediation Admob is not import, AdUnitID: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
+      "kind": "StringLiteral",
+      "offset": 3731,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3650,
+      "offset": 3777,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3814,
+      "offset": 3941,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 3884,
+      "offset": 4011,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3985,
+      "offset": 4112,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4110,
+      "offset": 4237,
       "length": 14,
       "value": "\"no Mediation\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4242,
+      "offset": 4369,
       "length": 7,
       "value": "\"No Ad\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 4503,
+      "offset": 4630,
       "length": 33,
       "value": "\"adPopcorn NoAd, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 4892,
+      "offset": 5019,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "StringLiteral",
-      "offset": 5019,
+      "offset": 5146,
       "length": 24,
       "value": "\"error, delegate remove\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/AdPopcornSSP-SDK\/Sources\/MediationAdapter\/InterstitialVideo\/InterstitialVideoMediationAdapter.swift",
       "kind": "IntegerLiteral",
-      "offset": 5344,
+      "offset": 5471,
       "length": 1,
       "value": "1"
     },
