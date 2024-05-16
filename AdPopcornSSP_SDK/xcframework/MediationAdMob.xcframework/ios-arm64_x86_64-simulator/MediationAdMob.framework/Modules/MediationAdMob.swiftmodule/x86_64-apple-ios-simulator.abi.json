@@ -33,6 +33,729 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "AdMobInterstitialVideoAdapterDelegate",
+        "printedName": "AdMobInterstitialVideoAdapterDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdLoadSuccess",
+            "printedName": "interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobMediationInterstitialVideoAd",
+                "printedName": "MediationAdMob.AdMobMediationInterstitialVideoAd",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialVideoAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdLoadFail",
+            "printedName": "interstitialVideoAdLoadFail(errorCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8LoadFail9errorCodeySi_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8LoadFail9errorCodeySi_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdShowSuccess",
+            "printedName": "interstitialVideoAdShowSuccess(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11ShowSuccess7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11ShowSuccess7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdShowFail",
+            "printedName": "interstitialVideoAdShowFail(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8ShowFail7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8ShowFail7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdClicked",
+            "printedName": "interstitialVideoAdClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB7Clicked7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB7Clicked7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdClosed",
+            "printedName": "interstitialVideoAdClosed(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB6Closed7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB6Closed7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
+        "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
+        "moduleName": "MediationAdMob",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobInterstitialVideoAdapter",
+        "printedName": "AdMobInterstitialVideoAdapter",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(placementID:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobInterstitialVideoAdapter",
+                "printedName": "MediationAdMob.AdMobInterstitialVideoAdapter",
+                "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC11placementIDACSS_tcfc",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC11placementIDACSS_tcfc",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "connectDelegate",
+            "printedName": "connectDelegate(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobInterstitialVideoAdapterDelegate",
+                "printedName": "MediationAdMob.AdMobInterstitialVideoAdapterDelegate",
+                "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC15connectDelegate8delegateyAA0bcdefH0_p_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC15connectDelegate8delegateyAA0bcdefH0_p_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "disconnectDelegate",
+            "printedName": "disconnectDelegate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdLoadSuccess",
+            "printedName": "interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobMediationInterstitialVideoAd",
+                "printedName": "MediationAdMob.AdMobMediationInterstitialVideoAd",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialVideoAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdLoadFail",
+            "printedName": "interstitialVideoAdLoadFail(errorCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8LoadFail9errorCodeySi_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8LoadFail9errorCodeySi_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdShowSuccess",
+            "printedName": "interstitialVideoAdShowSuccess(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11ShowSuccess7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11ShowSuccess7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdShowFail",
+            "printedName": "interstitialVideoAdShowFail(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8ShowFail7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8ShowFail7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdClicked",
+            "printedName": "interstitialVideoAdClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB7Clicked7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB7Clicked7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "interstitialVideoAdClosed",
+            "printedName": "interstitialVideoAdClosed(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB6Closed7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB6Closed7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC",
+        "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "AdMobInterstitialVideoAdapterDelegate",
+            "printedName": "AdMobInterstitialVideoAdapterDelegate",
+            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
+            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobMediationInterstitialAd",
+        "printedName": "AdMobMediationInterstitialAd",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bca12InterstitialB0C7present4fromySo16UIViewControllerC_tF",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C7present4fromySo16UIViewControllerC_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobMediationInterstitialAd",
+                "printedName": "MediationAdMob.AdMobMediationInterstitialAd",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)init",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0CACycfc",
+            "moduleName": "MediationAdMob",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "adWillPresentFullScreenContent",
+            "printedName": "adWillPresentFullScreenContent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adWillPresentFullScreenContent:",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C30adWillPresentFullScreenContentyySo07GADFulli10PresentingB0_pF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adWillPresentFullScreenContent:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "ad",
+            "printedName": "ad(_:didFailToPresentFullScreenContentWithError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)ad:didFailToPresentFullScreenContentWithError:",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C2ad_42didFailToPresentFullScreenContentWithErrorySo07GADFullk10PresentingB0_p_s0N0_ptF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "ad:didFailToPresentFullScreenContentWithError:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adDidRecordClick",
+            "printedName": "adDidRecordClick(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adDidRecordClick:",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C16adDidRecordClickyySo023GADFullScreenPresentingB0_pF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adDidRecordClick:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adDidDismissFullScreenContent",
+            "printedName": "adDidDismissFullScreenContent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adDidDismissFullScreenContent:",
+            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C29adDidDismissFullScreenContentyySo07GADFulli10PresentingB0_pF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adDidDismissFullScreenContent:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd",
+        "mangledName": "$s14MediationAdMob0bca12InterstitialB0C",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "AccessControl",
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "AdMobInterstitialAdapterDelegate",
         "printedName": "AdMobInterstitialAdapterDelegate",
         "children": [
@@ -473,6 +1196,1257 @@
             "printedName": "AdMobInterstitialAdapterDelegate",
             "usr": "s:14MediationAdMob0bC27InterstitialAdapterDelegateP",
             "mangledName": "$s14MediationAdMob0bC27InterstitialAdapterDelegateP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobMediationRewardVideoAd",
+        "printedName": "AdMobMediationRewardVideoAd",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bca11RewardVideoB0C7present4fromySo16UIViewControllerC_tF",
+            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C7present4fromySo16UIViewControllerC_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobMediationRewardVideoAd",
+                "printedName": "MediationAdMob.AdMobMediationRewardVideoAd",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)init",
+            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0CACycfc",
+            "moduleName": "MediationAdMob",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "ad",
+            "printedName": "ad(_:didFailToPresentFullScreenContentWithError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)ad:didFailToPresentFullScreenContentWithError:",
+            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C2ad_42didFailToPresentFullScreenContentWithErrorySo07GADFulll10PresentingB0_p_s0O0_ptF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "ad:didFailToPresentFullScreenContentWithError:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adWillPresentFullScreenContent",
+            "printedName": "adWillPresentFullScreenContent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)adWillPresentFullScreenContent:",
+            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C30adWillPresentFullScreenContentyySo07GADFullj10PresentingB0_pF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adWillPresentFullScreenContent:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adDidDismissFullScreenContent",
+            "printedName": "adDidDismissFullScreenContent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADFullScreenPresentingAd",
+                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
+                "usr": "c:objc(pl)GADFullScreenPresentingAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)adDidDismissFullScreenContent:",
+            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C29adDidDismissFullScreenContentyySo07GADFullj10PresentingB0_pF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adDidDismissFullScreenContent:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd",
+        "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "AccessControl",
+          "Final",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobNativeAdRenderable",
+        "printedName": "AdMobNativeAdRenderable",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "admobNativewAdView",
+            "printedName": "admobNativewAdView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "GoogleMobileAds.GADNativeAdView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GADNativeAdView",
+                    "printedName": "GoogleMobileAds.GADNativeAdView",
+                    "usr": "c:objc(cs)GADNativeAdView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvp",
+            "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvp",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "GoogleMobileAds.GADNativeAdView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GADNativeAdView",
+                        "printedName": "GoogleMobileAds.GADNativeAdView",
+                        "usr": "c:objc(cs)GADNativeAdView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvg",
+                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvg",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "GoogleMobileAds.GADNativeAdView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GADNativeAdView",
+                        "printedName": "GoogleMobileAds.GADNativeAdView",
+                        "usr": "c:objc(cs)GADNativeAdView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvs",
+                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvs",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvM",
+                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvM",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobNativeAdRenderable",
+                "printedName": "MediationAdMob.AdMobNativeAdRenderable",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable(im)init",
+            "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableCACycfc",
+            "moduleName": "MediationAdMob",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable",
+        "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobMediationNativeAdView",
+        "printedName": "AdMobMediationNativeAdView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "AdMobBindRenderable",
+            "printedName": "AdMobBindRenderable(renderable:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "MediationAdMob.AdMobNativeAdRenderable?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdMobNativeAdRenderable",
+                    "printedName": "MediationAdMob.AdMobNativeAdRenderable",
+                    "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bca6NativeB4ViewC0bC14BindRenderable10renderableyAA0bcdbG0CSg_tF",
+            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC0bC14BindRenderable10renderableyAA0bcdbG0CSg_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobMediationNativeAdView",
+                "printedName": "MediationAdMob.AdMobMediationNativeAdView",
+                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)initWithFrame:",
+            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC5frameACSo6CGRectV_tcfc",
+            "moduleName": "MediationAdMob",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "adLoader",
+            "printedName": "adLoader(_:didFailToReceiveAdWithError:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADAdLoader",
+                "printedName": "GoogleMobileAds.GADAdLoader",
+                "usr": "c:objc(cs)GADAdLoader"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoader:didFailToReceiveAdWithError:",
+            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC8adLoader_016didFailToReceiveB9WithErrorySo05GADAdG0C_s0M0_ptF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adLoader:didFailToReceiveAdWithError:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adLoaderDidFinishLoading",
+            "printedName": "adLoaderDidFinishLoading(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADAdLoader",
+                "printedName": "GoogleMobileAds.GADAdLoader",
+                "usr": "c:objc(cs)GADAdLoader"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoaderDidFinishLoading:",
+            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC24adLoaderDidFinishLoadingyySo05GADAdG0CF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adLoaderDidFinishLoading:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "adLoader",
+            "printedName": "adLoader(_:didReceive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADAdLoader",
+                "printedName": "GoogleMobileAds.GADAdLoader",
+                "usr": "c:objc(cs)GADAdLoader"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GADNativeAd",
+                "printedName": "GoogleMobileAds.GADNativeAd",
+                "usr": "c:objc(cs)GADNativeAd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoader:didReceiveNativeAd:",
+            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC8adLoader_10didReceiveySo05GADAdG0C_So09GADNativeB0CtF",
+            "moduleName": "MediationAdMob",
+            "objc_name": "adLoader:didReceiveNativeAd:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView",
+        "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "Custom",
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobBannerAdapterDelegate",
+        "printedName": "AdMobBannerAdapterDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "bannerViewSuccess",
+            "printedName": "bannerViewSuccess(bannerView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewSuccess0gH0ySo6UIViewC_tF",
+            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewSuccess0gH0ySo6UIViewC_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewFailed",
+            "printedName": "bannerViewFailed(errorCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP16bannerViewFailed9errorCodeySi_tF",
+            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP16bannerViewFailed9errorCodeySi_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewClicked",
+            "printedName": "bannerViewClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewClicked7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewClicked7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewImpression",
+            "printedName": "bannerViewImpression(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP20bannerViewImpression7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP20bannerViewImpression7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP",
+        "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP",
+        "moduleName": "MediationAdMob",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AdMobBannerAdapter",
+        "printedName": "AdMobBannerAdapter",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvp",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvp",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ReferenceOwnership"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdMobBannerAdapterDelegate",
+                        "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
+                        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvg",
+                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvg",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdMobBannerAdapterDelegate",
+                        "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
+                        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvs",
+                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvs",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvM",
+                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvM",
+                "moduleName": "MediationAdMob",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(placementID:width:height:rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobBannerAdapter",
+                "printedName": "MediationAdMob.AdMobBannerAdapter",
+                "usr": "s:14MediationAdMob0bC13BannerAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC11placementID5width6height18rootViewControllerACSS_14CoreFoundation7CGFloatVAJSo06UIViewL0CSgtcfc",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC11placementID5width6height18rootViewControllerACSS_12CoreGraphics7CGFloatVAJSo06UIViewL0CSgtcfc",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "connectDelegate",
+            "printedName": "connectDelegate(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdMobBannerAdapterDelegate",
+                "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
+                "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC15connectDelegate8delegateyAA0bcdeG0_p_tF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC15connectDelegate8delegateyAA0bcdeG0_p_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "disconnectDelegate",
+            "printedName": "disconnectDelegate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC18disconnectDelegateyyF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC18disconnectDelegateyyF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC4stopyyF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC4stopyyF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewSuccess",
+            "printedName": "bannerViewSuccess(bannerView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewFailed",
+            "printedName": "bannerViewFailed(errorCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC16bannerViewFailed9errorCodeySi_tF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC16bannerViewFailed9errorCodeySi_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewClicked",
+            "printedName": "bannerViewClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewImpression",
+            "printedName": "bannerViewImpression(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:14MediationAdMob0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
+            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
+            "moduleName": "MediationAdMob",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14MediationAdMob0bC13BannerAdapterC",
+        "mangledName": "$s14MediationAdMob0bC13BannerAdapterC",
+        "moduleName": "MediationAdMob",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "AdMobBannerAdapterDelegate",
+            "printedName": "AdMobBannerAdapterDelegate",
+            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP",
+            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP"
           }
         ]
       },
@@ -1224,1530 +3198,6 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "GoogleMobileAds",
-        "printedName": "GoogleMobileAds",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobNativeAdRenderable",
-        "printedName": "AdMobNativeAdRenderable",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "admobNativewAdView",
-            "printedName": "admobNativewAdView",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "GoogleMobileAds.GADNativeAdView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "GADNativeAdView",
-                    "printedName": "GoogleMobileAds.GADNativeAdView",
-                    "usr": "c:objc(cs)GADNativeAdView"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvp",
-            "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvp",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "GoogleMobileAds.GADNativeAdView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "GADNativeAdView",
-                        "printedName": "GoogleMobileAds.GADNativeAdView",
-                        "usr": "c:objc(cs)GADNativeAdView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvg",
-                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvg",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "GoogleMobileAds.GADNativeAdView?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "GADNativeAdView",
-                        "printedName": "GoogleMobileAds.GADNativeAdView",
-                        "usr": "c:objc(cs)GADNativeAdView"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvs",
-                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvs",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvM",
-                "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC012admobNativewB4ViewSo09GADNativebH0CSgvM",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobNativeAdRenderable",
-                "printedName": "MediationAdMob.AdMobNativeAdRenderable",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable(im)init",
-            "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableCACycfc",
-            "moduleName": "MediationAdMob",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable",
-        "mangledName": "$s14MediationAdMob0bc6NativeB10RenderableC",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "Final",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobMediationNativeAdView",
-        "printedName": "AdMobMediationNativeAdView",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "AdMobBindRenderable",
-            "printedName": "AdMobBindRenderable(renderable:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "MediationAdMob.AdMobNativeAdRenderable?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "AdMobNativeAdRenderable",
-                    "printedName": "MediationAdMob.AdMobNativeAdRenderable",
-                    "usr": "c:@M@MediationAdMob@objc(cs)AdMobNativeAdRenderable"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bca6NativeB4ViewC0bC14BindRenderable10renderableyAA0bcdbG0CSg_tF",
-            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC0bC14BindRenderable10renderableyAA0bcdbG0CSg_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Custom",
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobMediationNativeAdView",
-                "printedName": "MediationAdMob.AdMobMediationNativeAdView",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)initWithFrame:",
-            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "MediationAdMob",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "adLoader",
-            "printedName": "adLoader(_:didFailToReceiveAdWithError:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADAdLoader",
-                "printedName": "GoogleMobileAds.GADAdLoader",
-                "usr": "c:objc(cs)GADAdLoader"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Error",
-                "printedName": "Swift.Error",
-                "usr": "s:s5ErrorP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoader:didFailToReceiveAdWithError:",
-            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC8adLoader_016didFailToReceiveB9WithErrorySo05GADAdG0C_s0M0_ptF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adLoader:didFailToReceiveAdWithError:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adLoaderDidFinishLoading",
-            "printedName": "adLoaderDidFinishLoading(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADAdLoader",
-                "printedName": "GoogleMobileAds.GADAdLoader",
-                "usr": "c:objc(cs)GADAdLoader"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoaderDidFinishLoading:",
-            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC24adLoaderDidFinishLoadingyySo05GADAdG0CF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adLoaderDidFinishLoading:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adLoader",
-            "printedName": "adLoader(_:didReceive:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADAdLoader",
-                "printedName": "GoogleMobileAds.GADAdLoader",
-                "usr": "c:objc(cs)GADAdLoader"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADNativeAd",
-                "printedName": "GoogleMobileAds.GADNativeAd",
-                "usr": "c:objc(cs)GADNativeAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationNativeAdView(im)adLoader:didReceiveNativeAd:",
-            "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC8adLoader_10didReceiveySo05GADAdG0C_So09GADNativeB0CtF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adLoader:didReceiveNativeAd:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "Custom",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationNativeAdView",
-        "mangledName": "$s14MediationAdMob0bca6NativeB4ViewC",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "Custom",
-          "Final",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)UIView",
-        "hasMissingDesignatedInitializers": true,
-        "superclassNames": [
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "GoogleMobileAds",
-        "printedName": "GoogleMobileAds",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobMediationRewardVideoAd",
-        "printedName": "AdMobMediationRewardVideoAd",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "present",
-            "printedName": "present(from:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bca11RewardVideoB0C7present4fromySo16UIViewControllerC_tF",
-            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C7present4fromySo16UIViewControllerC_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobMediationRewardVideoAd",
-                "printedName": "MediationAdMob.AdMobMediationRewardVideoAd",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)init",
-            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0CACycfc",
-            "moduleName": "MediationAdMob",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "ad",
-            "printedName": "ad(_:didFailToPresentFullScreenContentWithError:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Error",
-                "printedName": "Swift.Error",
-                "usr": "s:s5ErrorP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)ad:didFailToPresentFullScreenContentWithError:",
-            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C2ad_42didFailToPresentFullScreenContentWithErrorySo07GADFulll10PresentingB0_p_s0O0_ptF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "ad:didFailToPresentFullScreenContentWithError:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adWillPresentFullScreenContent",
-            "printedName": "adWillPresentFullScreenContent(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)adWillPresentFullScreenContent:",
-            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C30adWillPresentFullScreenContentyySo07GADFullj10PresentingB0_pF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adWillPresentFullScreenContent:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adDidDismissFullScreenContent",
-            "printedName": "adDidDismissFullScreenContent(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd(im)adDidDismissFullScreenContent:",
-            "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C29adDidDismissFullScreenContentyySo07GADFullj10PresentingB0_pF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adDidDismissFullScreenContent:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationRewardVideoAd",
-        "mangledName": "$s14MediationAdMob0bca11RewardVideoB0C",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "AccessControl",
-          "Final",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "hasMissingDesignatedInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "GoogleMobileAds",
-        "printedName": "GoogleMobileAds",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobInitialization",
-        "printedName": "AdMobInitialization",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "start",
-            "printedName": "start()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC14InitializationC5startyyFZ",
-            "mangledName": "$s14MediationAdMob0bC14InitializationC5startyyFZ",
-            "moduleName": "MediationAdMob",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:14MediationAdMob0bC14InitializationC",
-        "mangledName": "$s14MediationAdMob0bC14InitializationC",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "Final",
-          "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "GoogleMobileAds",
-        "printedName": "GoogleMobileAds",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobMediationInterstitialAd",
-        "printedName": "AdMobMediationInterstitialAd",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "present",
-            "printedName": "present(from:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bca12InterstitialB0C7present4fromySo16UIViewControllerC_tF",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C7present4fromySo16UIViewControllerC_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobMediationInterstitialAd",
-                "printedName": "MediationAdMob.AdMobMediationInterstitialAd",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)init",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0CACycfc",
-            "moduleName": "MediationAdMob",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "init",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "adWillPresentFullScreenContent",
-            "printedName": "adWillPresentFullScreenContent(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adWillPresentFullScreenContent:",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C30adWillPresentFullScreenContentyySo07GADFulli10PresentingB0_pF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adWillPresentFullScreenContent:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "ad",
-            "printedName": "ad(_:didFailToPresentFullScreenContentWithError:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Error",
-                "printedName": "Swift.Error",
-                "usr": "s:s5ErrorP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)ad:didFailToPresentFullScreenContentWithError:",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C2ad_42didFailToPresentFullScreenContentWithErrorySo07GADFullk10PresentingB0_p_s0N0_ptF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "ad:didFailToPresentFullScreenContentWithError:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adDidRecordClick",
-            "printedName": "adDidRecordClick(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adDidRecordClick:",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C16adDidRecordClickyySo023GADFullScreenPresentingB0_pF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adDidRecordClick:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "adDidDismissFullScreenContent",
-            "printedName": "adDidDismissFullScreenContent(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "GADFullScreenPresentingAd",
-                "printedName": "GoogleMobileAds.GADFullScreenPresentingAd",
-                "usr": "c:objc(pl)GADFullScreenPresentingAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@CM@MediationAdMob@objc(cs)AdMobMediationInterstitialAd(im)adDidDismissFullScreenContent:",
-            "mangledName": "$s14MediationAdMob0bca12InterstitialB0C29adDidDismissFullScreenContentyySo07GADFulli10PresentingB0_pF",
-            "moduleName": "MediationAdMob",
-            "objc_name": "adDidDismissFullScreenContent:",
-            "declAttributes": [
-              "Final",
-              "ObjC",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialAd",
-        "mangledName": "$s14MediationAdMob0bca12InterstitialB0C",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "AccessControl",
-          "Final",
-          "ObjC"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "hasMissingDesignatedInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobInterstitialVideoAdapterDelegate",
-        "printedName": "AdMobInterstitialVideoAdapterDelegate",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdLoadSuccess",
-            "printedName": "interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobMediationInterstitialVideoAd",
-                "printedName": "MediationAdMob.AdMobMediationInterstitialVideoAd",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialVideoAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdLoadFail",
-            "printedName": "interstitialVideoAdLoadFail(errorCode:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8LoadFail9errorCodeySi_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8LoadFail9errorCodeySi_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdShowSuccess",
-            "printedName": "interstitialVideoAdShowSuccess(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11ShowSuccess7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB11ShowSuccess7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdShowFail",
-            "printedName": "interstitialVideoAdShowFail(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8ShowFail7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB8ShowFail7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdClicked",
-            "printedName": "interstitialVideoAdClicked(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB7Clicked7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB7Clicked7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdClosed",
-            "printedName": "interstitialVideoAdClosed(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB6Closed7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP012interstitialeB6Closed7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobInterstitialVideoAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
-        "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
-        "moduleName": "MediationAdMob",
-        "genericSig": "<τ_0_0 : AnyObject>",
-        "sugared_genericSig": "<Self : AnyObject>",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AdMobInterstitialVideoAdapter",
-        "printedName": "AdMobInterstitialVideoAdapter",
-        "children": [
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(placementID:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobInterstitialVideoAdapter",
-                "printedName": "MediationAdMob.AdMobInterstitialVideoAdapter",
-                "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC11placementIDACSS_tcfc",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC11placementIDACSS_tcfc",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "connectDelegate",
-            "printedName": "connectDelegate(delegate:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobInterstitialVideoAdapterDelegate",
-                "printedName": "MediationAdMob.AdMobInterstitialVideoAdapterDelegate",
-                "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC15connectDelegate8delegateyAA0bcdefH0_p_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC15connectDelegate8delegateyAA0bcdefH0_p_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "disconnectDelegate",
-            "printedName": "disconnectDelegate()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdLoadSuccess",
-            "printedName": "interstitialVideoAdLoadSuccess(mediationInterstitialVideoAd:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobMediationInterstitialVideoAd",
-                "printedName": "MediationAdMob.AdMobMediationInterstitialVideoAd",
-                "usr": "c:@M@MediationAdMob@objc(cs)AdMobMediationInterstitialVideoAd"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11LoadSuccess09mediationdeB0yAA0bcadeB0C_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdLoadFail",
-            "printedName": "interstitialVideoAdLoadFail(errorCode:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8LoadFail9errorCodeySi_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8LoadFail9errorCodeySi_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdShowSuccess",
-            "printedName": "interstitialVideoAdShowSuccess(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11ShowSuccess7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB11ShowSuccess7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdShowFail",
-            "printedName": "interstitialVideoAdShowFail(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8ShowFail7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB8ShowFail7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdClicked",
-            "printedName": "interstitialVideoAdClicked(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB7Clicked7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB7Clicked7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "interstitialVideoAdClosed",
-            "printedName": "interstitialVideoAdClosed(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB6Closed7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC012interstitialeB6Closed7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:14MediationAdMob0bC24InterstitialVideoAdapterC",
-        "mangledName": "$s14MediationAdMob0bC24InterstitialVideoAdapterC",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "AccessControl",
-          "Final"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "AdMobInterstitialVideoAdapterDelegate",
-            "printedName": "AdMobInterstitialVideoAdapterDelegate",
-            "usr": "s:14MediationAdMob0bC32InterstitialVideoAdapterDelegateP",
-            "mangledName": "$s14MediationAdMob0bC32InterstitialVideoAdapterDelegateP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MediationAdMob",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
         "kind": "TypeDecl",
         "name": "AdmobNativeAdapterDelegate",
         "printedName": "AdmobNativeAdapterDelegate",
@@ -3232,8 +3682,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "MediationAdMob",
         "declAttributes": [
@@ -3241,331 +3691,21 @@
         ]
       },
       {
-        "kind": "TypeDecl",
-        "name": "AdMobBannerAdapterDelegate",
-        "printedName": "AdMobBannerAdapterDelegate",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "bannerViewSuccess",
-            "printedName": "bannerViewSuccess(bannerView:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIView",
-                "printedName": "UIKit.UIView",
-                "usr": "c:objc(cs)UIView"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewSuccess0gH0ySo6UIViewC_tF",
-            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewSuccess0gH0ySo6UIViewC_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewFailed",
-            "printedName": "bannerViewFailed(errorCode:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP16bannerViewFailed9errorCodeySi_tF",
-            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP16bannerViewFailed9errorCodeySi_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewClicked",
-            "printedName": "bannerViewClicked(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewClicked7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP17bannerViewClicked7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewImpression",
-            "printedName": "bannerViewImpression(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP20bannerViewImpression7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP20bannerViewImpression7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "genericSig": "<τ_0_0 where τ_0_0 : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "sugared_genericSig": "<Self where Self : MediationAdMob.AdMobBannerAdapterDelegate>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Protocol",
-        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP",
-        "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP",
-        "moduleName": "MediationAdMob",
-        "genericSig": "<τ_0_0 : AnyObject>",
-        "sugared_genericSig": "<Self : AnyObject>",
-        "declAttributes": [
-          "AccessControl"
-        ]
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "MediationAdMob"
       },
       {
         "kind": "TypeDecl",
-        "name": "AdMobBannerAdapter",
-        "printedName": "AdMobBannerAdapter",
+        "name": "AdMobInitialization",
+        "printedName": "AdMobInitialization",
         "children": [
           {
-            "kind": "Var",
-            "name": "delegate",
-            "printedName": "delegate",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WeakStorage",
-                "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvp",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvp",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "HasInitialValue",
-              "Final",
-              "HasStorage",
-              "AccessControl",
-              "ReferenceOwnership"
-            ],
-            "ownership": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "AdMobBannerAdapterDelegate",
-                        "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
-                        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvg",
-                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvg",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "MediationAdMob.AdMobBannerAdapterDelegate?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "AdMobBannerAdapterDelegate",
-                        "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
-                        "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvs",
-                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvs",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvM",
-                "mangledName": "$s14MediationAdMob0bC13BannerAdapterC8delegateAA0bcdE8Delegate_pSgvM",
-                "moduleName": "MediationAdMob",
-                "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(placementID:width:height:rootViewController:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobBannerAdapter",
-                "printedName": "MediationAdMob.AdMobBannerAdapter",
-                "usr": "s:14MediationAdMob0bC13BannerAdapterC"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIViewController?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIViewController",
-                    "printedName": "UIKit.UIViewController",
-                    "usr": "c:objc(cs)UIViewController"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC11placementID5width6height18rootViewControllerACSS_14CoreFoundation7CGFloatVAJSo06UIViewL0CSgtcfc",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC11placementID5width6height18rootViewControllerACSS_12CoreGraphics7CGFloatVAJSo06UIViewL0CSgtcfc",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
             "kind": "Function",
-            "name": "connectDelegate",
-            "printedName": "connectDelegate(delegate:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "AdMobBannerAdapterDelegate",
-                "printedName": "MediationAdMob.AdMobBannerAdapterDelegate",
-                "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC15connectDelegate8delegateyAA0bcdeG0_p_tF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC15connectDelegate8delegateyAA0bcdeG0_p_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "disconnectDelegate",
-            "printedName": "disconnectDelegate()",
+            "name": "start",
+            "printedName": "start()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3574,546 +3714,406 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC18disconnectDelegateyyF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC18disconnectDelegateyyF",
+            "usr": "s:14MediationAdMob0bC14InitializationC5startyyFZ",
+            "mangledName": "$s14MediationAdMob0bC14InitializationC5startyyFZ",
             "moduleName": "MediationAdMob",
+            "static": true,
             "declAttributes": [
               "Final",
               "AccessControl"
             ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "stop",
-            "printedName": "stop()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC4stopyyF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC4stopyyF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewSuccess",
-            "printedName": "bannerViewSuccess(bannerView:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIView",
-                "printedName": "UIKit.UIView",
-                "usr": "c:objc(cs)UIView"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewFailed",
-            "printedName": "bannerViewFailed(errorCode:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC16bannerViewFailed9errorCodeySi_tF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC16bannerViewFailed9errorCodeySi_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewClicked",
-            "printedName": "bannerViewClicked(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "bannerViewImpression",
-            "printedName": "bannerViewImpression(message:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:14MediationAdMob0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
-            "mangledName": "$s14MediationAdMob0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
-            "moduleName": "MediationAdMob",
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
-        "usr": "s:14MediationAdMob0bC13BannerAdapterC",
-        "mangledName": "$s14MediationAdMob0bC13BannerAdapterC",
+        "usr": "s:14MediationAdMob0bC14InitializationC",
+        "mangledName": "$s14MediationAdMob0bC14InitializationC",
         "moduleName": "MediationAdMob",
         "declAttributes": [
-          "AccessControl",
-          "Final"
+          "Final",
+          "AccessControl"
         ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "AdMobBannerAdapterDelegate",
-            "printedName": "AdMobBannerAdapterDelegate",
-            "usr": "s:14MediationAdMob0bC21BannerAdapterDelegateP",
-            "mangledName": "$s14MediationAdMob0bC21BannerAdapterDelegateP"
-          }
-        ]
+        "hasMissingDesignatedInitializers": true
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "StringLiteral",
       "offset": 781,
       "length": 50,
       "value": "\"❤️❤️ AdMobBannerView 제거 ❤️❤️\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "StringLiteral",
       "offset": 900,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 1554,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 1897,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 1938,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2225,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2266,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "StringLiteral",
       "offset": 142,
       "length": 24,
       "value": "\"MediationAdMob.AdMobMediationBannerView\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2634,
       "length": 6,
       "value": "100000"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "StringLiteral",
       "offset": 2778,
       "length": 20,
       "value": "\"adMob Banner Click\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Banner\/AdMobMediationBannerView.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Banner\/AdMobMediationBannerView.swift",
       "kind": "StringLiteral",
       "offset": 2929,
       "length": 25,
       "value": "\"adMob Banner Impression\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 704,
-      "length": 30,
-      "value": "\"AdMob Intersititial ShowFail\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1055,
-      "length": 74,
-      "value": "\"Failed to load interstitial ad with error: \""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1128,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1213,
-      "length": 6,
-      "value": "100000"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 176,
-      "length": 33,
-      "value": "\"MediationAdMob.AdMobMediationInterstitialVideoAd\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1688,
-      "length": 19,
-      "value": "\"AdMob ShowSuccess\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1888,
-      "length": 6,
-      "value": "100000"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 2029,
-      "length": 13,
-      "value": "\"adMob Click\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 2189,
-      "length": 14,
-      "value": "\"AdMob Closed\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 1196,
-      "length": 50,
-      "value": "\"❤️❤️ AdMobNativeView 제거 ❤️❤️\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 1315,
-      "length": 39,
-      "value": "\"init(coder:) has not been implemented\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1961,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2104,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2870,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3139,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3205,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3248,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4704,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 539,
-      "length": 26,
-      "value": "\"MediationAdMob.AdMobMediationNativeAdView\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 5166,
-      "length": 13,
-      "value": "\"admob Error\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 5274,
-      "length": 26,
-      "value": "\"adLoaderDidFinishLoading\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 5476,
-      "length": 33,
-      "value": "\"Received native ad: \""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Native\/AdMobMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 5508,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 757,
-      "length": 18,
-      "value": "\"Ad wasn't ready.\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 993,
-      "length": 85,
-      "value": "\"Reward received with currency \""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1040,
-      "length": 1,
-      "value": "\", amount \""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1077,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1357,
-      "length": 70,
-      "value": "\"Failed to load rewarded ad with error: \""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1426,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 1524,
-      "length": 21,
-      "value": "\"Rewarded ad loaded.\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 170,
-      "length": 27,
-      "value": "\"MediationAdMob.AdMobMediationRewardVideoAd\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 2007,
-      "length": 45,
-      "value": "\"Ad did fail to present full screen content.\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 2228,
-      "length": 38,
-      "value": "\"Ad will present full screen content.\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 2438,
-      "length": 37,
-      "value": "\"Ad did dismiss full screen content.\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 667,
       "length": 30,
       "value": "\"AdMob Intersititial ShowFail\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 1018,
       "length": 74,
       "value": "\"Failed to load interstitial ad with error: \""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 1091,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "IntegerLiteral",
       "offset": 1171,
       "length": 6,
       "value": "100000"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 171,
       "length": 28,
       "value": "\"MediationAdMob.AdMobMediationInterstitialAd\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 1623,
       "length": 19,
       "value": "\"AdMob ShowSuccess\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "IntegerLiteral",
       "offset": 1818,
       "length": 6,
       "value": "100000"
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 1954,
       "length": 13,
       "value": "\"adMob Click\""
     },
     {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/MediationAdMob\/MediationAdMob\/Sources\/Interstitial\/AdMobMediationInterstitialAd.swift",
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Interstitial\/AdMobMediationInterstitialAd.swift",
       "kind": "StringLiteral",
       "offset": 2109,
+      "length": 14,
+      "value": "\"AdMob Closed\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 757,
+      "length": 18,
+      "value": "\"Ad wasn't ready.\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 993,
+      "length": 85,
+      "value": "\"Reward received with currency \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1040,
+      "length": 1,
+      "value": "\", amount \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1077,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1357,
+      "length": 70,
+      "value": "\"Failed to load rewarded ad with error: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1426,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1524,
+      "length": 21,
+      "value": "\"Rewarded ad loaded.\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 170,
+      "length": 27,
+      "value": "\"MediationAdMob.AdMobMediationRewardVideoAd\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 2007,
+      "length": 45,
+      "value": "\"Ad did fail to present full screen content.\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 2228,
+      "length": 38,
+      "value": "\"Ad will present full screen content.\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/RewardVideo\/AdMobMediationRewardVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 2438,
+      "length": 37,
+      "value": "\"Ad did dismiss full screen content.\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 1196,
+      "length": 50,
+      "value": "\"❤️❤️ AdMobNativeView 제거 ❤️❤️\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 1315,
+      "length": 39,
+      "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1961,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2104,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2870,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3139,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3205,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3248,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4704,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 539,
+      "length": 26,
+      "value": "\"MediationAdMob.AdMobMediationNativeAdView\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 5166,
+      "length": 13,
+      "value": "\"admob Error\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 5274,
+      "length": 26,
+      "value": "\"adLoaderDidFinishLoading\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 5476,
+      "length": 33,
+      "value": "\"Received native ad: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/Native\/AdMobMediationNativeAdView.swift",
+      "kind": "StringLiteral",
+      "offset": 5508,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 704,
+      "length": 30,
+      "value": "\"AdMob Intersititial ShowFail\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1055,
+      "length": 74,
+      "value": "\"Failed to load interstitial ad with error: \""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1128,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1213,
+      "length": 6,
+      "value": "100000"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 176,
+      "length": 33,
+      "value": "\"MediationAdMob.AdMobMediationInterstitialVideoAd\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 1688,
+      "length": 19,
+      "value": "\"AdMob ShowSuccess\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1888,
+      "length": 6,
+      "value": "100000"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 2029,
+      "length": 13,
+      "value": "\"adMob Click\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/FrameWorks\/AdPopcornSSP-SDK\/MediationAdMob\/InterstitialVideo\/AdMobMediationInterstitialVideoAd.swift",
+      "kind": "StringLiteral",
+      "offset": 2189,
       "length": 14,
       "value": "\"AdMob Closed\""
     }
