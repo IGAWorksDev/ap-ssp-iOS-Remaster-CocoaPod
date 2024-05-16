@@ -2,7 +2,7 @@
 //  MediationAdMob.h
 //  MediationAdMob
 //
-//  Created by Odin.송황호 on 2023/05/12.
+//  Created by Odin.송황호 on 5/16/24.
 //
 
 #import <Foundation/Foundation.h>
