@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "AdPopcornSSP_SDK"
-    s.version      = "0.0.6"
+    s.version      = "0.0.7"
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -26,12 +26,10 @@ Pod::Spec.new do |s|
     s.subspec 'MediationAdMob' do |admob|
     admob.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationAdMob.xcframework"
     admob.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-    admob.dependency 'Google-Mobile-Ads-SDK', '11.4.0'
+    admob.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
     end
 
 
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
 
-
-    s.static_framework = true
 end

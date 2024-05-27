@@ -4,13 +4,65 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
+		<data>
+		21Zha6r7SuD/SUTOYjRp7z729lE=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
+		<data>
+		Yd4QSzwoD+wAFRNgEUSieibaL0U=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		sXj+NZEfmXcJs9iJ9FsK7jOUphY=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
+		<data>
+		Q5GFmluE8intPUBWydskg6FX3dc=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_B.json</key>
+		<data>
+		iF0UW40GD47nDjrIOGIhcs1t+tE=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_A.json</key>
+		<data>
+		bfiCTHaUfJZwyPVpAZxKiVgllpU=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_B.json</key>
+		<data>
+		e4w/q0YC+hes/e8PGXyU3Ujyh1U=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_C.json</key>
+		<data>
+		iH638eyVPPMYwn9D18Rs4zSimbg=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x50_A.json</key>
+		<data>
+		s9isWu9mKiVeWZUrgJ/j7HLpI0Y=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_A.json</key>
+		<data>
+		WHMAB1/pK8sm4AI7SxuUCZlXcv4=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_B.json</key>
+		<data>
+		QXIq/yrLDAgN+eYuAHVgF5tjkNg=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_A.json</key>
+		<data>
+		IEPljdQuOwprRxckY1xqr199uhA=
+		</data>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_B.json</key>
+		<data>
+		F9l7QXh+P1m3BP8SI8Sva75ajxw=
+		</data>
 		<key>Frameworks/GoogleMobileAds.framework/GoogleMobileAds</key>
 		<data>
-		H14kt7f8gtI/sWQNV3bT1TPpwvA=
+		3PVQhAdg5UeKlyUqCYFXxsyvUzc=
 		</data>
 		<key>Frameworks/GoogleMobileAds.framework/Info.plist</key>
 		<data>
-		O47YH90skf8MfjQexwHb8gCcnTU=
+		GI4HY6lvPUFyl3mQsSopfVDYbOc=
 		</data>
 		<key>Frameworks/GoogleMobileAds.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -18,7 +70,7 @@
 		</data>
 		<key>Frameworks/GoogleMobileAds.framework/_CodeSignature/CodeResources</key>
 		<data>
-		s3CJdzEbGdocC1JWbZ3T88pIlNw=
+		GnjFkpKQFbGxjd7nL1rw82Caqxc=
 		</data>
 		<key>Frameworks/UserMessagingPlatform.framework/Info.plist</key>
 		<data>
@@ -30,7 +82,7 @@
 		</data>
 		<key>Frameworks/UserMessagingPlatform.framework/UserMessagingPlatform</key>
 		<data>
-		i8sJFdmL90uWSkMqxHd80fXnkns=
+		yH+M2Wn99vWLO655Y0EenKj+vIE=
 		</data>
 		<key>Frameworks/UserMessagingPlatform.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -38,7 +90,7 @@
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		Z5448pAtGlb4C+T4RuI30Kg0FT8=
+		5YtZqZ7WH1tkdbhYXtS+1b4h3/4=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -46,7 +98,7 @@
 		</data>
 		<key>Headers/MediationAdMob-Swift.h</key>
 		<data>
-		wYURWZm5/ubvxV8cYijvNP8832Q=
+		tc7bXLVsDx9wgxulpOCiPZ9ooUs=
 		</data>
 		<key>Headers/MediationAdMob.h</key>
 		<data>
@@ -58,11 +110,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QnsGarCGGZFf4wwxDjXrQJFxBPg=
+		UCvnRG0xMwKRjhSwJXXW3Aq7hJ4=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bLwwPWVLTOadlo5xL4q9Z7l7zxE=
+		zMbNdocSu8gpvg7UTykpIQRxHSE=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,19 +122,19 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bLwwPWVLTOadlo5xL4q9Z7l7zxE=
+		zMbNdocSu8gpvg7UTykpIQRxHSE=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qg6/LEb8UG7f6i4nCAaLPQHgu84=
+		F5m5tltUfwHMuybi8eD5ZNUYLO4=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QnsGarCGGZFf4wwxDjXrQJFxBPg=
+		UCvnRG0xMwKRjhSwJXXW3Aq7hJ4=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cJNfETFY8x9ViVBfO17oV46wwHc=
+		MBpCALA6AkA5aoz7SPS1qiA3Geo=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,11 +142,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cJNfETFY8x9ViVBfO17oV46wwHc=
+		MBpCALA6AkA5aoz7SPS1qiA3Geo=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZmJy2oSEoosL21IA3WGP2P5VWwQ=
+		DZpPg3rXc+66vY3Zumz/vpaAg6U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,18 +163,109 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9AJneZTk8JvJPt+Pz2lmjbyp7ebserkzbO8JH24QlP8=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IbqdU5Pum0LedXIAXNbIYCLF+s+nldAv+qS9FPLyDmo=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BjohpMVyXJ1l7e1IE6vz8gMLEXjINs6TQxGSsW7Jf48=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VV5u79BJVXXYnXiUGoUsaogSaEJbkT3ubd49/8923eU=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_B.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e5hOzM/PCcaHaNVDHpkOZYMC1dF+a/chbtXgJcqvWHM=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_A.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iPXAJZ2yTru7SUOHhFNXDL3/91n0GnFmWXor90uy63Q=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_B.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EEWT0n74+cXnT2k64FnoU30PVi5hedQD/iowMNnUf6c=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_C.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sb2g9d2PzCfV8VBT4Lv0FXpYKRSwLn6y6Z4R5CNENtc=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x50_A.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uhT847Ipqy/myr2K5wnmqGxWgiRFdR3J9g+u607OYuQ=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_A.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m5MXqyxXQq9HxhAbtWgciT5lIHFgsqwwbTLD0mpGBCw=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_B.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T1/yxJpMqtzR1Cw7GMh0cKUOCZDrheyk3EhIgq6f6bs=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_A.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bIzLJRmers6XKdUlikDYinpTWOjY491O4AoVBNojSok=
+			</data>
+		</dict>
+		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_B.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N1TT409jTmh99Ug5fsMVXgXkvkbqpID9menaoyKbEoc=
+			</data>
+		</dict>
 		<key>Frameworks/GoogleMobileAds.framework/GoogleMobileAds</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C4Fd2BZCbR0ppd8jNBQMctUZTNTwZbAet4kXptwkVFE=
+			PYHFUCVWEAuUKuzKFmHnUF7ripWxtdg48ZCT2cbPx/E=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMobileAds.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CIqJNGXx4I60gAawHxv7j5kHp707xSwk3xce0MPQZNU=
+			KS2pLtQOx0/m7MgbXt263inyNIklIEAhn/YEkaQF4To=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMobileAds.framework/PrivacyInfo.xcprivacy</key>
@@ -136,7 +279,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqkoMMOrbi2CLjzXHD1S50W4eH92gSLaApNtFrUkYfo=
+			KKgnNZX7ZX20gc+VWtV0pUXV4Mik9k28rHfUyftZMaE=
 			</data>
 		</dict>
 		<key>Frameworks/UserMessagingPlatform.framework/Info.plist</key>
@@ -157,7 +300,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			snMNeqTHZaHKr+2Z18+fBJ2WYpaqzxI1M8eJqN3uSNQ=
+			J2W7T4O2FV/B9AXS797cMgTu7pKPwDY2E0GZDQeUirU=
 			</data>
 		</dict>
 		<key>Frameworks/UserMessagingPlatform.framework/_CodeSignature/CodeResources</key>
@@ -171,7 +314,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cyQtqqP4saLMK0CMVFom7SZflyM2SWYidBVBTCC1b9c=
+			GdD9L2+SchptTbImv147Po1gAWD01EG4ckwqqTXgLWU=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -185,7 +328,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UYPVo+pp+6oG1Xhu2qKPKKTaTwTni1GE50pDfuRma4k=
+			V/5RmhNffJ4t9FC0MKX/YQfIa2Ia4L1FQD7JSTHLzus=
 			</data>
 		</dict>
 		<key>Headers/MediationAdMob.h</key>
@@ -199,14 +342,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9PKVl0/KSUfxhiY++I5DY8GnzLVqdYduB81Wf+v74Zk=
+			RsmXrZ6V6Xxi4/8+XF3wHKbkuF938Lwj+amTECEU3I8=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nn+blfZbm/JCVNWMo0xsUnQweki2K32WIHy0OnFqQL8=
+			H9Wcz4SUdnObfyh7VeJPgNkyxFUzidFvhV8PUEbszRE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -220,28 +363,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nn+blfZbm/JCVNWMo0xsUnQweki2K32WIHy0OnFqQL8=
+			H9Wcz4SUdnObfyh7VeJPgNkyxFUzidFvhV8PUEbszRE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7az1zniLPphGe/fwwRSBvw9mERiOT05+UTMT4uG8QSA=
+			exo1csmcBnTYRP2HUMuNZN2479VS6i6PBCLFfLnKOsI=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9PKVl0/KSUfxhiY++I5DY8GnzLVqdYduB81Wf+v74Zk=
+			RsmXrZ6V6Xxi4/8+XF3wHKbkuF938Lwj+amTECEU3I8=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k5dlwGNmftiCv1STmDFQ6XN15pCruCp+vvfAeSt5rEE=
+			M2tN9B4yf9RDvubtS4X3khWbr03EY8uqnKErneD4880=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -255,14 +398,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k5dlwGNmftiCv1STmDFQ6XN15pCruCp+vvfAeSt5rEE=
+			M2tN9B4yf9RDvubtS4X3khWbr03EY8uqnKErneD4880=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EqEURn3sR9T4bD5TkCN7FW4Dr032MHFMCS5nxFjPJK0=
+			Mdu3V75qfZwQPlqfrV4eJ/hugDON1MwJIckx4nMuR7U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
