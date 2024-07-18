@@ -1,0 +1,123 @@
+
+
+{
+    "AdRequestNo": "sample_request_no",
+    "CampaignList": [
+        {
+            "ClickTrackersList": [
+                "https://ssptrk.adpopcorn.com/tracker/click?ad_request_no=None&receive_datetime=20240307004819842"
+            ],
+            "Height": 480,
+            "ImageList": null,
+            "ImpTrackersList": [
+                "https://ssptrk.adpopcorn.com/tracker/impression?ad_request_no=None&receive_datetime=20240307004819842"
+            ],
+            "InAppThirdpartyInfo": null,
+            "IsWebContent": false,
+            "IsWebView": false,
+            "Key": "0_test_campaign",
+            "Name": "test_campaign",
+            "RedirectURL": null,
+            "WebData": "<html><head><style>html,body{overflow:hidden;position:relative;width:100%;height:100%;margin:0;padding:0}</style></head><body><a href=\"https://www.adpopcorn.com/\" target=\"_blank\"><img src=\"https://static.adbrix.igaworks.com/adpopcorn-ssp/test_campaign/300x250.JPG\" width=\"300\" height=\"250\" /></a></body></html><style>html,body{overflow:hidden;position:relative;width:100%;height:100%;margin:0;padding:0}</style>",
+            "Width": 320,
+            "WinNoticeURL": null,
+            "CtaText": {
+                "Required": 0,
+                "Text": "게임하기"
+            },
+            "Desc": {
+                "Required": 1,
+                "Text": "어둠의 추격이 시작됐다\n\n24.01.11 신규 캐릭터 카인 출시!"
+            },
+            "IconImage": {
+                "Height": 160,
+                "Required": 0,
+                "Url": "https://ad.appier.net/i/4427e3fe-6fa6-4a10-811d-2a15d15c541d/jdaJZ5y_1705546170129_0.png",
+                "Width": 160
+            },
+            "LandingURL": "https://jprtb.c.appier.net/xclk?bidobjid=96qLueHrAKmhCgfx9A7pZQ&cid=mS764vViRUOvcO8CgqYeqg&crid=9gIRSTZXTHuKNfiyogaGzA&crpid=GK3S2kWtSfKLGouCVxfsVw&partner_id=0w8txUDTqUDl9HmWy&bx=Cylxwnu_ordQKqwD70Gm7roR70uP20uQK4l-wnu_uYWBu1x1wmQ121lf383NJ8VRHD7qcbiWwnu-uYgWJ4u_74x1wHTRuqaVeM&ui=CylE3b3muqa1t0ZmMqdV2IIW7fSS71RRoql0KIGyMrGW2rIxMRuVt0wz2Ioyu1x1c8tYwnu_uqdxo0dxo0dxKrdxo0dWo0dxo4Rxo0dxKrdxo0dxo0dxo0dxonlO&consent=1&ddhh=7yRx&flanding_rdr=",
+            "MainImage": {
+                "Height": 627,
+                "Required": 0,
+                "Url": "https://cr.adsappier.com/i/28e5dccb-a793-49c0-81af-8f91205563eb/d0ZxRrR_1707183722910_0.jpeg?bidobjid=96qLueHrAKmhCgfx9A7pZQ",
+                "Width": 1200
+            },
+            "PrivacyIconImage": "https://static.adbrix.igaworks.com/adpopcorn-ssp/default_image/info-ico.png",
+            "PrivacyIconURL": "https://goo.gl/fMJKwh",
+            "TemplateNo": 12,
+            "Title": {
+                "Required": 7,
+                "Text": "메이플M 카인 출시"
+            },
+            "MinimumViewTime": 5,
+            "InterstitialAdType": 1,
+            "FullscreenType": 1
+        }
+    ],
+    "CheckViewability": true,
+    "CollectInstalledApps": false,
+    "CompanionList": [
+    {
+        "ClickTrackersList": [
+            "https://ssptrk.adpopcorn.com/tracker/click?ad_request_no=None&receive_datetime=20240307004819842"
+        ],
+        "Height": 58,
+        "ImageList": null,
+        "ImpTrackersList": [
+            "https://ssptrk.adpopcorn.com/tracker/impression?ad_request_no=None&receive_datetime=20240307004819842"
+        ],
+        "InAppThirdpartyInfo": null,
+        "IsWebContent": false,
+        "IsWebView": false,
+        "Key": "0_test_campaign",
+        "Name": "test_campaign",
+        "RedirectURL": null,
+        "WebData": "<html><head><style>html,body{overflow:hidden;position:relative;width:100%;height:100%;margin:0;padding:0}</style></head><body><a href=\"https://www.adpopcorn.com/\" target=\"_blank\"><img src=\"https://static.adbrix.igaworks.com/adpopcorn-ssp/test_campaign/300x250.JPG\" width=\"300\" height=\"250\" /></a></body></html><style>html,body{overflow:hidden;position:relative;width:100%;height:100%;margin:0;padding:0}</style>",
+        "Width": 324,
+        "WinNoticeURL": null,
+        "CtaText": {
+            "Required": 0,
+            "Text": "게임하기"
+        },
+        "Desc": {
+            "Required": 1,
+            "Text": "어둠의 추격이 시작됐다\n\n24.01.11 신규 캐릭터 카인 출시!"
+        },
+        "IconImage": {
+            "Height": 160,
+            "Required": 0,
+            "Url": "https://ad.appier.net/i/4427e3fe-6fa6-4a10-811d-2a15d15c541d/jdaJZ5y_1705546170129_0.png",
+            "Width": 160
+        },
+        "LandingURL": "https://jprtb.c.appier.net/xclk?bidobjid=96qLueHrAKmhCgfx9A7pZQ&cid=mS764vViRUOvcO8CgqYeqg&crid=9gIRSTZXTHuKNfiyogaGzA&crpid=GK3S2kWtSfKLGouCVxfsVw&partner_id=0w8txUDTqUDl9HmWy&bx=Cylxwnu_ordQKqwD70Gm7roR70uP20uQK4l-wnu_uYWBu1x1wmQ121lf383NJ8VRHD7qcbiWwnu-uYgWJ4u_74x1wHTRuqaVeM&ui=CylE3b3muqa1t0ZmMqdV2IIW7fSS71RRoql0KIGyMrGW2rIxMRuVt0wz2Ioyu1x1c8tYwnu_uqdxo0dxo0dxKrdxo0dWo0dxo4Rxo0dxKrdxo0dxo0dxo0dxonlO&consent=1&ddhh=7yRx&flanding_rdr=",
+        "MainImage": {
+            "Height": 627,
+            "Required": 0,
+            "Url": "https://cr.adsappier.com/i/28e5dccb-a793-49c0-81af-8f91205563eb/d0ZxRrR_1707183722910_0.jpeg?bidobjid=96qLueHrAKmhCgfx9A7pZQ",
+            "Width": 1200
+        },
+        "PrivacyIconImage": "https://static.adbrix.igaworks.com/adpopcorn-ssp/default_image/info-ico.png",
+        "PrivacyIconURL": "https://goo.gl/fMJKwh",
+        "TemplateNo": 5,
+        "Title": {
+            "Required": 7,
+            "Text": "메이플M 카인 출시"
+        },
+        "MinimumViewTime": 5,
+        "InterstitialAdType": 1,
+        "FullscreenType": 1
+    }
+],
+    "DfineryId": null,
+    "IsTest": false,
+    "Mediation": null,
+    "Mute": false,
+    "Result": true,
+    "ResultCode": 1,
+    "ResultMsg": "Success",
+    "UrlSchemeList": [
+        "ap_direct_deeplink",
+        "http",
+        "https"
+    ]
+}

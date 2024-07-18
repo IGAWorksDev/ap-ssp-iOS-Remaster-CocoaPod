@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdPopcornSSP_SDK-Swift.h</key>
 		<data>
-		x7zNyNCM6Cy9Sl1KWLvbFInbr6Q=
+		9eufI9k4ckYfCqA6F1CdoUSng0A=
 		</data>
 		<key>Headers/AdPopcornSSP_SDK.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DkxusI0y4U434fkbBm47f9Hwc/4=
+		boGCpE+votFCt8DcDrg8+k31Wsc=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		x3KheE2PBt1GDoZnJTix9f0cdng=
+		auH2Qkt3QZKaJtdSWAHqp9zmtJM=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		oLfp/gjCyM/JYi5UVE1jBMov0WI=
+		qjYQSrulfYzdSdqp6QAmuWoFOKg=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		kuUowxt6a59qOGh8jCGNFMVSet0=
+		uTu60bsX7hR5QhqBKPEQXB9/Pqw=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		oLfp/gjCyM/JYi5UVE1jBMov0WI=
+		qjYQSrulfYzdSdqp6QAmuWoFOKg=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		9cZgaw0j3/oFWKCBc1Yk+ygSczc=
+		wILc8vBAZOn/51e5VPrqpVLkIEU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,7 +87,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QsNcqj4dEPBrlti5CG/UY7KzHqtVJIfZXH6WG2k91r8=
+			w0op/Qp4a01iZM0zacoV8WFinAPvWQTaXreksWtJImQ=
 			</data>
 		</dict>
 		<key>Headers/AdPopcornSSP_SDK.h</key>
@@ -101,35 +101,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PFyL1qcS+pJ1/aWzYRxurdaTMdX8sRcmAKZql02hXWI=
+			AzDfpLIDn+kjCbF7ZHPdvFxNwS2wLb3rO6tcoE9M4xg=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ak7tvkg4GOHW7B9lXw2jMTm8P//i3avE3oyUCvcJLZ0=
+			caS71uoaDjFUgsDAWCzlw+lY22qU62o7ODjop2gyKPI=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ymlyZz8wtFBLaEkmCDCcRDCT6MNSAmmGIhjb+9MUWjI=
+			fOuj8WkNroIyguLt/nD2rE85zl1vv7jLSl0tSCLJmCE=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ak7tvkg4GOHW7B9lXw2jMTm8P//i3avE3oyUCvcJLZ0=
+			caS71uoaDjFUgsDAWCzlw+lY22qU62o7ODjop2gyKPI=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YVaHlvgA37L5cNeOKx6puL4yX7/OtZ260g7As+ZnKws=
+			1sJwnT4U1/OTUHawgAskf8X4WfPFwDBIvBGQfe1fx6Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

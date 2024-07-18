@@ -1,0 +1,101 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name MediationVungle
+import AdPopcornSSP_SDK
+import Foundation
+@_exported import MediationVungle
+import Swift
+import UIKit
+import VungleAdsSDK
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+extension AdPopcornSSP_SDK.AdPopcornNativeAd {
+  @_Concurrency.MainActor(unsafe) final public func bindVungleRenderer(renderable: MediationVungle.APSSPVungleNativeAdRenderable)
+}
+final public class VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterProtocol {
+  final public var rootViewController: UIKit.UIViewController?
+  final public var delegate: (any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  @objc deinit
+}
+extension MediationVungle.VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterDelegate {
+  final public func rewardVideoLoadSuccess()
+  final public func rewardVideoLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func rewardVideoShowSuccess(message: Swift.String)
+  final public func rewardVideoShowFail(message: Swift.String)
+  final public func rewardVideoClicked(message: Swift.String)
+  final public func rewardVideoClosed(message: Swift.String)
+  final public func rewardVideoCompleted()
+}
+final public class VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterProtocol {
+  weak final public var delegate: (any AdPopcornSSP_SDK.BannerAdapterDelegate)?
+  weak final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.BannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension MediationVungle.VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSP_SDK.NetworkError)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc final public class APSSPVungleNativeAdRenderable : ObjectiveC.NSObject {
+  final public var nativeAdView: UIKit.UIView?
+  final public var iconView: UIKit.UIImageView?
+  final public var mediaView: VungleAdsSDK.MediaView?
+  final public var titleLbl: UIKit.UILabel?
+  final public var ratingLbl: UIKit.UILabel?
+  final public var sponsorLbl: UIKit.UILabel?
+  final public var privacyImage: UIKit.UIImageView?
+  final public var adTextLbl: UIKit.UILabel?
+  final public var downloadBtn: UIKit.UIButton?
+  @objc override dynamic public init()
+  @objc deinit
+}
+final public class VungleNativeAdapter : AdPopcornSSP_SDK.NativeAdapterProtocol {
+  final public var render: Swift.AnyObject?
+  weak final public var delegate: (any AdPopcornSSP_SDK.NativeViewAdapterDelegate)?
+  final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject)
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.NativeViewAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension MediationVungle.VungleNativeAdapter : AdPopcornSSP_SDK.NativeViewAdapterDelegate {
+  final public func nativeLoadSuccess()
+  final public func nativeLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func nativeClicked(message: Swift.String)
+  final public func nativeImpression(message: Swift.String)
+}
+final public class VungleInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterProtocol {
+  final public var rootViewController: UIKit.UIViewController?
+  final public var delegate: (any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  @objc deinit
+}
+extension MediationVungle.VungleInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate {
+  final public func interstitialVideoLoadSuccess()
+  final public func interstitialVideoLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func interstitialVideoShowSuccess(message: Swift.String)
+  final public func interstitialVideoShowFail(message: Swift.String)
+  final public func interstitialVideoClicked(message: Swift.String)
+  final public func interstitialVideoClosed(message: Swift.String)
+}
+extension AdPopcornSSP_SDK.AdPopcornSSP {
+  final public func vungleisSupportBanner() -> Swift.Bool
+  final public func vungleisSupportNative() -> Swift.Bool
+  final public func vungleisSupportInterstitial() -> Swift.Bool
+  final public func vungleisSupportInterstitialVideo() -> Swift.Bool
+  final public func vungleisSupportRewardVideo() -> Swift.Bool
+}

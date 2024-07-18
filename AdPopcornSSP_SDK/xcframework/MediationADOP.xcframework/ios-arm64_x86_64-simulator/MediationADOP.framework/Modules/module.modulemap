@@ -1,0 +1,6 @@
+framework module MediationADOP {
+  umbrella header "MediationADOP.h"
+  export *
+
+  module * { export * }
+}
