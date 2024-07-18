@@ -1,0 +1,6 @@
+framework module MediationAppLovinMax {
+  umbrella header "MediationAppLovinMax.h"
+  export *
+
+  module * { export * }
+}

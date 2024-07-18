@@ -1,0 +1,11 @@
+framework module MediationNAM {
+  umbrella header "MediationNAM.h"
+  export *
+
+  module * { export * }
+}
+
+module MediationNAM.Swift {
+  header "MediationNAM-Swift.h"
+  requires objc
+}

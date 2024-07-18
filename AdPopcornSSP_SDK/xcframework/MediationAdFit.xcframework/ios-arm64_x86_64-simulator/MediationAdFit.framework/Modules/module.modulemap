@@ -1,0 +1,11 @@
+framework module MediationAdFit {
+  umbrella header "MediationAdFit.h"
+  export *
+
+  module * { export * }
+}
+
+module MediationAdFit.Swift {
+  header "MediationAdFit-Swift.h"
+  requires objc
+}

@@ -1,0 +1,6 @@
+framework module MediationMezzo {
+  umbrella header "MediationMezzo.h"
+  export *
+
+  module * { export * }
+}

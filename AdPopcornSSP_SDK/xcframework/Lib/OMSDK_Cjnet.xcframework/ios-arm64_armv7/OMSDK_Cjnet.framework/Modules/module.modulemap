@@ -1,0 +1,4 @@
+module OMSDK_Cjnet {
+    header "Headers/OMIDImports.h"
+    export *
+}
