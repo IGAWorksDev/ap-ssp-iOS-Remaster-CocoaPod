@@ -98,14 +98,12 @@ Pod::Spec.new do |s|
     end
     
     # 8. KissXML iOS 8.0 Target error
-#    s.subspec 'MediationNAM' do |nam|
-#    nam.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
-#    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-#    nam.dependency 'NAMSDK', '7.5.3'
-#    nam.dependency 'NAMSDK/MediationNDA', '7.5.3'
-#    nam.dependency 'NAMSDK/MediationNDAVideo', '7.5.3'
-#    nam.dependency 'NAMSDK/MediationNDARich', '7.5.3'
-#    end
+    s.subspec 'MediationNAM' do |nam|
+    nam.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
+    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    nam.dependency 'NAMSDK', '7.5.3'
+    nam.dependency 'NAMSDK/MediationNDA', '7.5.3'
+    end
     
     
     s.subspec 'MediationADOP' do |adop|
