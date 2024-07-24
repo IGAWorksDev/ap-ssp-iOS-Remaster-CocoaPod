@@ -177,119 +177,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/GFPSDKMediationNDARich</key>
-		<data>
-		rxZNuGkomLCpE2pnjd0iUkIsWuY=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/Info.plist</key>
-		<data>
-		ZDeOe/FHMDbn0OkDMRecZvSzm5A=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/_CodeSignature/CodeResources</key>
-		<data>
-		3BzsQLOjANCTKUUqFbsiepvnA8s=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/Assets.car</key>
-		<data>
-		y04HehpWasPhuOx1X/DdpPqxDkU=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/GFPRemindTextView.nib</key>
-		<data>
-		RtXgdqt2mupHJ+oJdKhg37PdgNY=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/GFPSDKMediationNDAVideo</key>
-		<data>
-		g2IARK/jMgzOf16itt4ZdNCwpwo=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/Info.plist</key>
-		<data>
-		TjUVWz6k9xj7zkTXN3mNfU5LM24=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/_CodeSignature/CodeResources</key>
-		<data>
-		zrxqmDz9AL0nGnAJAnCgtdnh9BA=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/en.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SplMw7OReq/Z2K2Bgnc3pHvKMKA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/es.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gf8Od4EFDZCo7KjTObVM8zgX2W0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/fr.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X4pbfFplsN/cRWncmBns1LBmve4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/id.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ejSKXFumKp4zTwMRUsjnr0+64Iw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/ja.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bY6HTC7U2PdjOUsYfEYrZjiamns=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/ko.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7d18aEqFz2J/fjXXt2F3LnY5DwM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/th.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8+TaRjLrpJZcqJ17TSpiyqQjTwY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/zh-Hans.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Od0eBdaf6/IyVONMva/CNSeVEqM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/zh-Hant.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JPm0Q8sShjE3bn0LMP2FW5NSiQk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Frameworks/NaverAdsServices.framework/Info.plist</key>
 		<data>
 		UxeDInKX7F4iw56mPXCkOkgAFto=
@@ -463,119 +350,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>GFPNDAVideoResource.bundle/Assets.car</key>
-		<data>
-		y04HehpWasPhuOx1X/DdpPqxDkU=
-		</data>
-		<key>GFPNDAVideoResource.bundle/GFPRemindTextView.nib</key>
-		<data>
-		RtXgdqt2mupHJ+oJdKhg37PdgNY=
-		</data>
-		<key>GFPNDAVideoResource.bundle/Info.plist</key>
-		<data>
-		9OC5VF1TMOWzoij+rTCLcdWgQxA=
-		</data>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		bdm8Y/opn1gak7RqJhVJRmRnzuU=
-		</data>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		154JSXLx4deAcl24Emc05pYWRL4=
-		</data>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		tHS5nSC6s2dhL+gUTvkPC96Debg=
-		</data>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		2zWsLfaz54fAeZ399skQpMNVhuE=
-		</data>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		Y9vaRx4NZzcMPRc7HLZxVa6hlIY=
-		</data>
-		<key>GFPNDAVideoResource.bundle/en.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SplMw7OReq/Z2K2Bgnc3pHvKMKA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/es.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gf8Od4EFDZCo7KjTObVM8zgX2W0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/fr.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			X4pbfFplsN/cRWncmBns1LBmve4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/id.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ejSKXFumKp4zTwMRUsjnr0+64Iw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/ja.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bY6HTC7U2PdjOUsYfEYrZjiamns=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/ko.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			7d18aEqFz2J/fjXXt2F3LnY5DwM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/th.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8+TaRjLrpJZcqJ17TSpiyqQjTwY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/zh-Hans.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Od0eBdaf6/IyVONMva/CNSeVEqM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/zh-Hant.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			JPm0Q8sShjE3bn0LMP2FW5NSiQk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>GFPSDKResource.bundle/Info.plist</key>
 		<data>
 		R8zII5zUyP9enu5EnnIgL46GK4U=
@@ -634,7 +408,7 @@
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tXfjTXwuR2TYVinFS0KacXaSngE=
+		DVUS/QBNWIk1R0W/Pk/jn2pbnbY=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -654,7 +428,7 @@
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vXXx+BqXAtwIoQt18AkbBM9zPkI=
+		r3ChfWBfjWtjypPX1eigV9Zl44U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -662,7 +436,7 @@
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
-		UyCs9Kmt6NK6czYGOyJ2nkXUcjo=
+		APu0tE0ESwgroMdRvF0g28z+32g=
 		</data>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -913,143 +687,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/GFPSDKMediationNDARich</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kosOadJK1gujZSLZG9k7XoEpXIQ6fK5ubUw4aD4Kfwc=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o/pMwDSNItEtj/tXvgtSe3ALI6TshRbYLZ2LxyF2I0Y=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDARich.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kgh1r0dJ4+y8M+lbXMRGU3Dq+zDebdYeJX4E4mn4AM4=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NeXvgcP0CAToccddJnXiJnKRzHxXyA8Osvz5T5CwvdA=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/GFPRemindTextView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c6n7mJS8hnFiLEGpZqZBX0bq0DvxSQKHry6osDVyQzQ=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/GFPSDKMediationNDAVideo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PXtg00+6JAdm6DboYZj0bZG1sk+xhtU2JxUpivTVw/4=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UyEen0Hbtb1A/onlFpoFNPHfk0pk1Ld8lgjm9YuLua4=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B7nOUbTeWq0uF9d7WNJA9+hokgcWWd+is5p1BJeXggE=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/en.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P09sCYmW4+lZHCYxLjNaWi6XLPD7VjsQwzB75W5ZOdo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/es.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VCuXxFaHJ6AhBV7ZDMxrc07ln0e6/pRH25OkdecF6AQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/fr.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cpiR4QDA8wB589gVIo35G0QLxy0TtKGGMPqltCAYlEo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/id.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TLtg+I7SoLcPYllgcEmnXgWaUM8FdIS/XjYz5vxSufw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/ja.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XaftXly8ErRLzINcfJOihcL/kHS0X/+F/2mgTQsMguo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/ko.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			woINSKlGKJT4R5QHyh88yckI+9Lg9+IpkXR5Pr/QIz4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/th.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			L2oNDddhgdjRSp2jtdC+1imR5ehR7XkPWbVzsKpYaUk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/zh-Hans.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/+fQ2lA6gn+fuESXdqzqYT+dg1dEnlmS3CTZfI8z7GU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDAVideo.framework/zh-Hant.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A4LdRbloJTYs3EFGMtULs1VhfpLJEAcL5v93ivlGTY8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Frameworks/NaverAdsServices.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1292,143 +929,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>GFPNDAVideoResource.bundle/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NeXvgcP0CAToccddJnXiJnKRzHxXyA8Osvz5T5CwvdA=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/GFPRemindTextView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c6n7mJS8hnFiLEGpZqZBX0bq0DvxSQKHry6osDVyQzQ=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			laJiq2umqwCTqhnxv4BujayxW0K2nu4vQo35EXVDXOQ=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1A5Vf8xR6hGdNJrN/aF0RC8HEEYhnlT9SE/L5mz2+Tw=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cbhAiZSwGw7kjymDMdzeVvOnc0z47pZVei+qr2Zi4Es=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NOUBlN0C5LcuBlTLka92nDIgX2Pd0/jgy4mEtHCUYSg=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nc6vedefTpik1XgqYc+S3gm5qjzdg5WMn8IpI7fbI7M=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			c+78J3Kx4NaII72ojKTOlIL9Lc61xvi9Renvmd4BtBg=
-			</data>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/en.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P09sCYmW4+lZHCYxLjNaWi6XLPD7VjsQwzB75W5ZOdo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/es.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VCuXxFaHJ6AhBV7ZDMxrc07ln0e6/pRH25OkdecF6AQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/fr.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cpiR4QDA8wB589gVIo35G0QLxy0TtKGGMPqltCAYlEo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/id.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TLtg+I7SoLcPYllgcEmnXgWaUM8FdIS/XjYz5vxSufw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/ja.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XaftXly8ErRLzINcfJOihcL/kHS0X/+F/2mgTQsMguo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/ko.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			woINSKlGKJT4R5QHyh88yckI+9Lg9+IpkXR5Pr/QIz4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/th.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			L2oNDddhgdjRSp2jtdC+1imR5ehR7XkPWbVzsKpYaUk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/zh-Hans.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/+fQ2lA6gn+fuESXdqzqYT+dg1dEnlmS3CTZfI8z7GU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>GFPNDAVideoResource.bundle/zh-Hant.lproj/GFPNDAVideoLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			A4LdRbloJTYs3EFGMtULs1VhfpLJEAcL5v93ivlGTY8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>GFPSDKResource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1524,7 +1024,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B87rWqbcEYHURuHmQRnP4GruSPpr/QZ4jEsmGLs3jtA=
+			vetnX5RChsqSryyEefs5rZq/hIKijcL0vOop28KW++4=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1559,7 +1059,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jzISm3gFt9yPTYYijvwyajfkagv9/t+XFvFx25ZdYtg=
+			/GO4htURjJ+Ag4AzTroXk/uZpLt5H5t4YO9YKjEvQyQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1573,7 +1073,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tTkB9qhvSdrccegWHXHqtb8LobCOfmt/qWtRQLKDNd8=
+			HpLNpfKQZYA+1xmjLjOuLvgZloKXzeGnLyzdVSOCuwg=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
