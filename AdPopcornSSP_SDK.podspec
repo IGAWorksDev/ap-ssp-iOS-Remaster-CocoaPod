@@ -98,25 +98,38 @@ Pod::Spec.new do |s|
     end
     
     # 8. KissXML iOS 8.0 Target error
-    s.subspec 'MediationNAM' do |nam|
-    nam.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
-    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-    nam.dependency 'NAMSDK', '7.5.3'
-    nam.dependency 'NAMSDK/MediationNDA', '7.5.3'
-    end
+#    s.subspec 'MediationNAM' do |nam|
+#    nam.ios.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
+#    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+#    nam.dependency 'NAMSDK', '7.5.3'
+#    nam.dependency 'NAMSDK/MediationNDA', '7.5.3'
+#    nam.ios.deployment_target = '13.0'
+#    end
     
     
-    s.subspec 'MediationADOP' do |adop|
-    adop.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationADOP.xcframework"
-    adop.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-    adop.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
-    end
+#    s.subspec 'MediationADOP' do |adop|
+#    adop.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationADOP.xcframework"
+#    adop.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+#    adop.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
+#    end
     
     
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
 
 
+#    s.requires_arc = true
+    
+#    s.static_framework = true
+      
     s.swift_versions = ['5.0']
     
     s.pod_target_xcconfig  = { 'OTHER_LDFLAGS' => '-ObjC' }
+    
+#    s.pod_target_xcconfig  = {
+#                                'OTHER_LDFLAGS' => '-ObjC',
+#                                'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+#                             }
+#
+#    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+    
 end
