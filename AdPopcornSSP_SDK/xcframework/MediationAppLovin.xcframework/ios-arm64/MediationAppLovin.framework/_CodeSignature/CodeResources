@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		NyJ3HvoMosuwTfL4446Y408g4Rc=
+		EvGgysuuc4yKE3f0f0oi8Gsnjqk=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDK</key>
 		<data>
-		xhxDxO5C8wi288vdv0Os8nM3cOY=
+		Pv1C3YwAGd92ZIfLr5xZbhCtUZc=
 		</data>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
 		<data>
@@ -287,11 +287,11 @@
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZW7VnqDW37gU50cHXPFc71P/2M8=
+		EAHYxmRJlgCNk9fIG0+Th4QKszA=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Q8MeLAR402lUJ108TS1/BOLwgOI=
+		pjlYjoYMPzoeOYZRQgQOyGvqe08=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -299,11 +299,11 @@
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Q8MeLAR402lUJ108TS1/BOLwgOI=
+		pjlYjoYMPzoeOYZRQgQOyGvqe08=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0WEPSI+iqFnvACrF+f8/6O4+ptA=
+		LZmhImMZWrEjwEjnCNWOWl97lOI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -316,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vs/pz0DslHXy3ohVWtt9cAbaQSAYGz+D9d6wtZ0jXQs=
+			7lbt/OEHyKrL5yXdpZTQud7iUlhwE+I9cxIu1JSLkd4=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -407,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YrqD0wNJRaYzaIOiBltPLNzwlnmwHOVCh5ijtM6GZ5Y=
+			7XlD9ttmSZGJVXUc0KodYKVOP5q1qggEL7WHGaTtQLA=
 			</data>
 		</dict>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
@@ -740,14 +740,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HnnXJ56zoAyACO/ap1WW7Q8F4ZlMmG/zicIqCVu4aj8=
+			Mla/7cKENxAjy1nUXWwu3glECgy9syJRPZyQmbUb6eI=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CH2BE/RzmJUNwZr+ZKo9vQ/h8JL/iiVfwS0FrGJD7s4=
+			WRg7xqEnNdc8IQfYRpIHvLZdbMliY3ZIqwdQQu2JizA=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -761,14 +761,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CH2BE/RzmJUNwZr+ZKo9vQ/h8JL/iiVfwS0FrGJD7s4=
+			WRg7xqEnNdc8IQfYRpIHvLZdbMliY3ZIqwdQQu2JizA=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Eb5ex4HrqfuVFdNVwuX8IQOSxVQpZGdU0hZStEhg4w=
+			O9xAgRsnjcquMSTQraRhBl0oT/vpNLrDPY/nANEzdsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

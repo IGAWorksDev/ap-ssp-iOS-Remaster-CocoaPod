@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		uwK6RD94akQfRIAbyoh30vvEhL4=
+		CJP/0zLKZ56Wui1OxR3fCwDFTzY=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Frameworks/MTGSDK.framework/Info.plist</key>
 		<data>
-		NZS6jIeTNUV4PsrvSRco8abqP70=
+		eb4WOgq/EBiFDaDEau3i6H5JKWA=
 		</data>
 		<key>Frameworks/MTGSDK.framework/MTGSDK</key>
 		<data>
-		Weths0KdfQ/VFLfI+n26z+/PLFw=
+		qllvZ5iElFmaQvVterDX5Rt9w7M=
 		</data>
 		<key>Frameworks/MTGSDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/MTGSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		We7hUzM4jZuzBwgJl/nuVuXqv8E=
+		+c/zmPfMUE3uz+OyTjzbUM0+DLc=
 		</data>
 		<key>Headers/MediationMintegral.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>MTGSDK.bundle/Info.plist</key>
 		<data>
-		784dq0uSfGxpBOFRm947mVAvhwc=
+		Szc7iQan0gmXU1z85JRK7OQyMmQ=
 		</data>
 		<key>MTGSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fVAPLQzZRyKjy9D1aItVj/HqBqw=
+		QFzOttu0pJOUmjWR5wdmzRj0e7U=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nqN1ijIp3TgjGhwx7KZzRhNYRGU=
+		2ZYGjISR7rpUVcloZP16mpVCKX0=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nqN1ijIp3TgjGhwx7KZzRhNYRGU=
+		2ZYGjISR7rpUVcloZP16mpVCKX0=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O61OHHLx2D5TbCiG70e6yK0P95Q=
+		MWx0yA1jycK1mENc5z0wCOoX4KQ=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fVAPLQzZRyKjy9D1aItVj/HqBqw=
+		QFzOttu0pJOUmjWR5wdmzRj0e7U=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VmHFMNnOhGQ1sxTQ2WT7wDFN8dE=
+		EJrso8PkNHqVh4mP+sIXNYt4dWg=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VmHFMNnOhGQ1sxTQ2WT7wDFN8dE=
+		EJrso8PkNHqVh4mP+sIXNYt4dWg=
 		</data>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0Pm1RRMyMGaQMCSiNT/LkjiINEI=
+		0mZkehv7doROJSA09YO8kqQjpBs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ILeRwmh2V1MTLHinIXzI33+MOjo3jq6AKXX3Wc2frDY=
+			Y9Hc10Yf1LZaMrXYaZOY2aAGQ3s7VU8inUgjzhvi3gg=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -230,14 +230,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KL6pNipREJ6A8rSc3RelPQA7eVQGbccY1nXzb5dIclM=
+			yEuI23rWlDeTvb3Y7bNNVibzV1owhjJMqR3V5mugOyU=
 			</data>
 		</dict>
 		<key>Frameworks/MTGSDK.framework/MTGSDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oaVn9C/Yu+UrSp8v5B1g/V1yRe3mTGrMD2zH0fPb61Q=
+			ehQPGMf/4dVr5a236JxsaIpMo+V1FVrAIbLCEUOFsuo=
 			</data>
 		</dict>
 		<key>Frameworks/MTGSDK.framework/PrivacyInfo.xcprivacy</key>
@@ -251,7 +251,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A+D4hvy44d0Ar3aFYyN82UCkHCsBd/9W+Uy7ODHtoy8=
+			3/PhtCzTsZ4pCU9APv+2BctdIgQ6kKGqBSWC9aKeNsk=
 			</data>
 		</dict>
 		<key>Headers/MediationMintegral.h</key>
@@ -265,7 +265,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jjoWhxWLmLhkS25okgbvZ6E1wNgecemxZZXuXJYzZzQ=
+			INA+LHVcmy5zIPU3IHfSxrccnGIQezTSwpaCuUZ1f8g=
 			</data>
 		</dict>
 		<key>MTGSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -279,14 +279,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/HhgXwojBLvSRReTO11Bb3jpuVy/H8wTP4UKc5Jrx0=
+			8cL0Oh1Wclcpf4SEC4bV2ZYfeoaCFBbvvGarQnFbp8w=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vNGbN6xgNYPbWwQy4bdEdsxjR7AJvrdy9T6BRraonv0=
+			M3/7IlCMBGVvPT1qZ19OPJf2EufaQ5mKUAiIybAyF6A=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -300,28 +300,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vNGbN6xgNYPbWwQy4bdEdsxjR7AJvrdy9T6BRraonv0=
+			M3/7IlCMBGVvPT1qZ19OPJf2EufaQ5mKUAiIybAyF6A=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9pTwUqzjg2rrkJ6//ybdrWJDpUVEi8W62Er2bqbvkY8=
+			1lnf9WSCB7kcU/uQ6EZvA065mL5ilB6aPZZHzsig0Bo=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/HhgXwojBLvSRReTO11Bb3jpuVy/H8wTP4UKc5Jrx0=
+			8cL0Oh1Wclcpf4SEC4bV2ZYfeoaCFBbvvGarQnFbp8w=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfZbTN7AtwF4dyBXTCQY9og2yMh2VC3lswTXat3Sai0=
+			QOspHbbNAWIkxuf10LfcbNVUuzRR4bfcAtt14XnpXAw=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -335,14 +335,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfZbTN7AtwF4dyBXTCQY9og2yMh2VC3lswTXat3Sai0=
+			QOspHbbNAWIkxuf10LfcbNVUuzRR4bfcAtt14XnpXAw=
 			</data>
 		</dict>
 		<key>Modules/MediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ksWyds+3Aeezk2ih2i1ZKtMv6pekfumJF21TYgBZjHc=
+			ZXQj6otgIxlnkThTUtFmLDfLBqyL5ypTCt1A7AQNZLI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

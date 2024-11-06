@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		oeu5p60dl6korDZKtUCQMkY/+tQ=
+		+Xa47c7N5T4QOmPeyN+PvUGq2Iw=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -287,11 +287,11 @@
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZW7VnqDW37gU50cHXPFc71P/2M8=
+		EAHYxmRJlgCNk9fIG0+Th4QKszA=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Z1f/sQcQFtuFR/hXafGQ7ZtjL5E=
+		6QpaAOJ4kgys0Ogl3wXBlJ+7pNg=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -299,19 +299,19 @@
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Z1f/sQcQFtuFR/hXafGQ7ZtjL5E=
+		6QpaAOJ4kgys0Ogl3wXBlJ+7pNg=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tgbbOFB8W71CHu65AZfSHXD63TM=
+		yG9RzmfPRlxQ62Afs09wkyTiCU0=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZW7VnqDW37gU50cHXPFc71P/2M8=
+		EAHYxmRJlgCNk9fIG0+Th4QKszA=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yNYdKB4J69OSplYEC8Etcl5Jd5w=
+		DMI389mNYssVUmsWs1ss8dOqrTE=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -319,11 +319,11 @@
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yNYdKB4J69OSplYEC8Etcl5Jd5w=
+		DMI389mNYssVUmsWs1ss8dOqrTE=
 		</data>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dvCld+BJsxW8cZp8l1IMhocFkIA=
+		Q27rAb8LgiR8Hxq79IWhJhZfinE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -336,7 +336,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9cvQ+zswbGeZOAzZbfL2Kf/Chb6/AoVS7+nx8c+hzE=
+			lXJ0lK+R4Mu8YLREVaoCCj9ghvh14M5/WGhD28qhdm4=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -760,14 +760,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HnnXJ56zoAyACO/ap1WW7Q8F4ZlMmG/zicIqCVu4aj8=
+			Mla/7cKENxAjy1nUXWwu3glECgy9syJRPZyQmbUb6eI=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			niEqZ9lVhqDyszd+uXeO+CTATUhqn551lTcOGQ4RWls=
+			htrLap2yg6K/GnBsMTNgHULjy80l5blsRmciuylHakE=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -781,28 +781,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			niEqZ9lVhqDyszd+uXeO+CTATUhqn551lTcOGQ4RWls=
+			htrLap2yg6K/GnBsMTNgHULjy80l5blsRmciuylHakE=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FPB8bsCzeKYYq0Ra3kKL3Qoz22PDlw52NJ4xj7RXQks=
+			5ytK+9/oT+jtMBvc/SPsxP71SxEHMmPl//Wn3r9qyMo=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HnnXJ56zoAyACO/ap1WW7Q8F4ZlMmG/zicIqCVu4aj8=
+			Mla/7cKENxAjy1nUXWwu3glECgy9syJRPZyQmbUb6eI=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xzaNpLpxMra32xnRwQprrPAlu1rU7PLyRESo34edmaI=
+			yIS9BGiK6/9uc7/4aE5Bau8dmJ7nEGhzbleLMRG2Fao=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -816,14 +816,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xzaNpLpxMra32xnRwQprrPAlu1rU7PLyRESo34edmaI=
+			yIS9BGiK6/9uc7/4aE5Bau8dmJ7nEGhzbleLMRG2Fao=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dWUcQfPBmslpltf7quOmfLbnZ8m1b4ETuH6kt9Hib8o=
+			JIVIuzCxgV9+wSHU/MaeDyFaK5aM56hqntP0U/EYwOs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

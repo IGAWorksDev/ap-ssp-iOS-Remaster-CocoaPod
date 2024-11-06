@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdPopcornSSP_SDK-Swift.h</key>
 		<data>
-		nFU17G91NmEa3P3Ztb9Yx3PRgKg=
+		ULFNztUR0hzQwh/wgiE/BxT0U70=
 		</data>
 		<key>Headers/AdPopcornSSP_SDK.h</key>
 		<data>
@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		auH2Qkt3QZKaJtdSWAHqp9zmtJM=
+		GAA6I+rU2zyRpsECneCncAYKyzw=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+1Y/X0dRX2iTok4z10E6xiFKPzU=
+		GGavYYYjviiOV4xX2MeR9Ykgc5U=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ag4XD54cWZThqLDyeoJ6J3nBN/Q=
+		CaS23JIt/0mDahqdFIwS7EKqPMo=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+1Y/X0dRX2iTok4z10E6xiFKPzU=
+		GGavYYYjviiOV4xX2MeR9Ykgc5U=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hYq8OybGVYQDl80IAHxRkdaLXg0=
+		k1MgULnQ+qs0fOseJaRoIdXTixo=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		auH2Qkt3QZKaJtdSWAHqp9zmtJM=
+		GAA6I+rU2zyRpsECneCncAYKyzw=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ABGJPbfD43pcTBxvNLsn3JQaQQo=
+		TvaSRY4nI+GZqApGGNlWwRVAUk4=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		HOzAQTRb+oK8Ueg8OgaCUS/JlTQ=
+		zswu5Hp1L3plhYogFzhSPh/MVI8=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ABGJPbfD43pcTBxvNLsn3JQaQQo=
+		TvaSRY4nI+GZqApGGNlWwRVAUk4=
 		</data>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jiGSQ4yw0vSCKLmkPf0g05i72Yk=
+		waK8csbppj0xvzXce3WynXUlF8A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8d2xVa3fLGOC6dkY6+8Gpu8DX0pTg8ZqEYw7JtUieBU=
+			oFyu0J9h11aXDL/I8C1rM6ULNZSxA/e6e2BaDg0Sopo=
 			</data>
 		</dict>
 		<key>Headers/AdPopcornSSP_SDK.h</key>
@@ -121,70 +121,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzDfpLIDn+kjCbF7ZHPdvFxNwS2wLb3rO6tcoE9M4xg=
+			nMypxIGLqnIhelUk0VfJpbD1AITHwgyhOMr+puJoe4o=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/RFzcFQr7H5CJI9ztvUFaZSvELLK8t2aafLaacugf/c=
+			aociiP25jJr/wlGlp/4yF/FD9enVjudp7ew1GB+qEPE=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Of77gcU1EC7xhg2ViMh17VjuxjJmvTN7M73REKOqo/s=
+			y33G1xB0XQrhATXEZYgVEJyVnnNV2YFtde53A4RoL2Q=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/RFzcFQr7H5CJI9ztvUFaZSvELLK8t2aafLaacugf/c=
+			aociiP25jJr/wlGlp/4yF/FD9enVjudp7ew1GB+qEPE=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yIURInmAiHJ7z0toMHaQhlm8Ct/m0nTaxb2SFTZ/yKM=
+			FIPG5Ia/gGorrlZG83cXjBqwD2CueiKXxz2bBFdyKmQ=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AzDfpLIDn+kjCbF7ZHPdvFxNwS2wLb3rO6tcoE9M4xg=
+			nMypxIGLqnIhelUk0VfJpbD1AITHwgyhOMr+puJoe4o=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nN/5T9wXSCdlDTHD4KyRvT1KkrzR8Ot7PrxuOJbuYuw=
+			VY3o6x2r0hiy7SA6hsjNLsSyhc+LEQWOPgHl3fwTkoA=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dyMsSy8v1wEYOo+FUnYQuAOl3S1JLB8qaubxFJ+GzuM=
+			vI2f22P1Dx3J5hUwoW1Kh9fu9SH/Y9wK6/BDKuS24n4=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nN/5T9wXSCdlDTHD4KyRvT1KkrzR8Ot7PrxuOJbuYuw=
+			VY3o6x2r0hiy7SA6hsjNLsSyhc+LEQWOPgHl3fwTkoA=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSP_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/hhipTifhFgYNuN4eEUqOpNGGWS0DRhQEeXO5yI5VCI=
+			veSsqzknGTivRQSA0FdOGOG6GLGkTdOKhIufGpxXKao=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

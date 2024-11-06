@@ -30,24 +30,27 @@ Pod::Spec.new do |s|
     admob.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
     end
     
-    
-    # 4. pod 관련 error
-#    s.subspec 'MediationCauly' do |cauly|
-#    cauly.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationCauly.xcframework"
-#    cauly.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-#    cauly.dependency 'CaulySDK'
-#    cauly.dependency 'CaulySDK', :git => 'https://github.com/cauly/CaulySDK_iOS.git', :tag => '3.1.22'
-#    cauly.source       = { :git => "https://github.com/cauly/CaulySDK_iOS.git", :tag => "3.1.22" }
-#    end
-    
-    
     s.subspec 'MediationMezzo' do |mezzo|
     mezzo.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationMezzo.xcframework", "AdPopcornSSP_SDK/xcframework/Lib/LibADPlus.xcframework", "AdPopcornSSP_SDK/xcframework/Lib/OMSDK_Cjnet.xcframework"
     mezzo.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
     end
+    
+    
+    s.subspec 'MediationUnityAds' do |unity|
+    unity.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationUnityAds.xcframework"
+    unity.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    unity.dependency 'UnityAds', '4.12.0'
+    end
 
 
-    # 8. 수정중
+    s.subspec 'MediationFBAudienceNetwork' do |faceBook|
+    faceBook.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationFBAudienceNetwork.xcframework"
+    faceBook.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    faceBook.dependency 'FBAudienceNetwork', '6.15.1'
+    end
+
+
+    # 8. Native View Public error
 #    s.subspec 'MediationMintegral' do |mintergral|
 #    mintergral.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationMintegral.xcframework"
 #    mintergral.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
@@ -97,6 +100,7 @@ Pod::Spec.new do |s|
     applovin.dependency 'AppLovinSDK', '12.5.0'
     end
     
+    
     # 8. KissXML iOS 8.0 Target error
 #    s.subspec 'MediationNAM' do |nam|
 #    nam.ios.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
@@ -107,11 +111,21 @@ Pod::Spec.new do |s|
 #    end
     
     
-#    s.subspec 'MediationADOP' do |adop|
-#    adop.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationADOP.xcframework"
-#    adop.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-#    adop.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
+    # 4. podspec 설치 관련 error
+#    s.subspec 'MediationCauly' do |cauly|
+#    cauly.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationCauly.xcframework"
+#    cauly.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+#    cauly.dependency 'CaulySDK'
+#    cauly.dependency 'CaulySDK', :git => 'https://github.com/cauly/CaulySDK_iOS.git', :tag => '3.1.22'
+#    cauly.source       = { :git => "https://github.com/cauly/CaulySDK_iOS.git", :tag => "3.1.22" }
 #    end
+    
+    
+    s.subspec 'MediationADOP' do |adop|
+    adop.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationADOP.xcframework"
+    adop.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    adop.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
+    end
     
     
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'

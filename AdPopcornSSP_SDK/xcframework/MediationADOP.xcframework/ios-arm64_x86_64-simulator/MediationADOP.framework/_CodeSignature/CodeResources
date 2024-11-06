@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		uzA0EnreK6zG+slcvHeRFokMUBM=
+		nXrAZTH/Egyfcd/1HdPryqAN6FY=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		f3FGw9miD6Giv+ElELwAyboLHEU=
+		uJ66rm2OerzmHjJW8z1gy2IRPX0=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dyUyXnyU6KQ1s2qFm8YJT87+6yQ=
+		Z1J4vGdvs+YHCoFpeavM08yTJrs=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dyUyXnyU6KQ1s2qFm8YJT87+6yQ=
+		Z1J4vGdvs+YHCoFpeavM08yTJrs=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wha+q/77pWh5eIuWZ+dMs67nxdk=
+		zN17cQ4PvtLs3bCgjRtjSlZs4E0=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		f3FGw9miD6Giv+ElELwAyboLHEU=
+		uJ66rm2OerzmHjJW8z1gy2IRPX0=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		g3QgpV1oile/aNhaN/QX2V2oeVg=
+		fLycPMy1yent4W3ho+Hka1lXd58=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		g3QgpV1oile/aNhaN/QX2V2oeVg=
+		fLycPMy1yent4W3ho+Hka1lXd58=
 		</data>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MJjXMDoZ07ZihIswoQBO02cZDqE=
+		ikKoKSIitOTBl0H1QGi/dQA1yHw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TaPMgcg70KjYCO0CgrStn/etC462N+kgWpDOGF2lLio=
+			X5Y3GsB93M1GH/6DnzJRj+nswNKe0CHHl0be6exPDVg=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -301,14 +301,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L/KBhPB7KohfVzWyE2gWJ9dRIJvYF+Utkf6uP/pm46Q=
+			h7v00NJJgZE0OClmhJSOW/xC8yaoTSQfptEsESNgxZA=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yGDhjz6cfWzizWO3p3ZbIJFISnr7ur9SfCr+pWgR9pQ=
+			GwY4F+2Bsd5XLcJYzSleze/vkJS25nqNyXGBEGsZ4PA=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -322,28 +322,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yGDhjz6cfWzizWO3p3ZbIJFISnr7ur9SfCr+pWgR9pQ=
+			GwY4F+2Bsd5XLcJYzSleze/vkJS25nqNyXGBEGsZ4PA=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h02W9Hu3N70IRlkKngFiVUqsOlwTf5hMnKXB7Rswsyg=
+			ozSIMVn2ksVMjTtq+cFdvZqqC7aZYBAi9x/XjGud264=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L/KBhPB7KohfVzWyE2gWJ9dRIJvYF+Utkf6uP/pm46Q=
+			h7v00NJJgZE0OClmhJSOW/xC8yaoTSQfptEsESNgxZA=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9d0r+sKQ1RUCDVv4EC7kIkh7eAAXNqHbAba4zvQQL0=
+			sQMD/hWptUO41/gd5cYz4YUD/DEATGv/tIGUiQRt774=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -357,14 +357,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X9d0r+sKQ1RUCDVv4EC7kIkh7eAAXNqHbAba4zvQQL0=
+			sQMD/hWptUO41/gd5cYz4YUD/DEATGv/tIGUiQRt774=
 			</data>
 		</dict>
 		<key>Modules/MediationADOP.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nT9EqcKmD7qw9SHzYTpdUe0RqEMEUnoVCIpRm9lUjP8=
+			saqujLnOG7fCvAdPqYw41p/rlixdCWCbGTEcS7/lhsg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

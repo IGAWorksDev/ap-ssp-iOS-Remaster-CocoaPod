@@ -306,6 +306,29 @@ SWIFT_CLASS("_TtC16AdPopcornSSP_SDK32APSSPAdPopcornNativeAdRenderable")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class NSCoder;
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
+@interface AdPopcornNativeAdView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIImageView;
+@class UILabel;
+@class UIButton;
+
+SWIFT_CLASS("_TtC16AdPopcornSSP_SDK17APSSPNativeAdView")
+@interface APSSPNativeAdView : AdPopcornNativeAdView
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified mainImageView;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified appiconImageView;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified titleLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified descLabel;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified ctaButton;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 typedef SWIFT_ENUM(NSInteger, AdPopcornBannerSize, open) {
   AdPopcornBannerSizeBanner320x50 = 1,
   AdPopcornBannerSizeBanner320x100 = 3,
@@ -313,7 +336,6 @@ typedef SWIFT_ENUM(NSInteger, AdPopcornBannerSize, open) {
   AdPopcornBannerSizeBannerAdaptiveSize = 4,
 };
 
-@class NSCoder;
 
 /// <h1>APBannerView</h1>
 /// <ul>
@@ -338,16 +360,16 @@ SWIFT_CLASS("_TtC16AdPopcornSSP_SDK19AdPopcornBannerView")
 
 
 
+
 enum NetworkError : NSInteger;
-@class NSString;
 
 SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK27AdPopcornBannerViewDelegate_")
 @protocol AdPopcornBannerViewDelegate <NSObject>
 @optional
 - (void)adPopcornBannerViewLoadSuccessWithBannerView:(AdPopcornBannerView * _Nonnull)bannerView;
 - (void)adPopcornBannerViewLoadFailWithBannerView:(AdPopcornBannerView * _Nonnull)bannerView error:(enum NetworkError)error;
-- (void)adPopcornBannerViewClickedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornBannerViewImpressionWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornBannerViewClickedWithBannerView:(AdPopcornBannerView * _Nonnull)bannerView;
+- (void)adPopcornBannerViewImpressionWithBannerView:(AdPopcornBannerView * _Nonnull)bannerView;
 @end
 
 
@@ -362,12 +384,12 @@ SWIFT_CLASS("_TtC16AdPopcornSSP_SDK23AdPopcornInterstitialAd")
 SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK31AdPopcornInterstitialAdDelegate_")
 @protocol AdPopcornInterstitialAdDelegate
 @optional
-- (void)AdPopcornInterstitialAdLoadSuccessWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
-- (void)AdPopcornInterstitialAdLoadFailWithError:(enum NetworkError)error;
-- (void)adPopcorninterstitialAdShowSuccessWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialAdShowFailWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialAdClickedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialAdClosedWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornInterstitialAdLoadSuccessWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
+- (void)adPopcornInterstitialAdLoadFailWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd error:(enum NetworkError)error;
+- (void)adPopcorninterstitialAdShowSuccessWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
+- (void)adPopcorninterstitialAdShowFailWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
+- (void)adPopcorninterstitialAdClickedWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
+- (void)adPopcorninterstitialAdClosedWithInterstitialAd:(AdPopcornInterstitialAd * _Nonnull)interstitialAd;
 @end
 
 
@@ -382,12 +404,12 @@ SWIFT_CLASS("_TtC16AdPopcornSSP_SDK28AdPopcornInterstitialVideoAd")
 SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK36AdPopcornInterstitialVideoAdDelegate_")
 @protocol AdPopcornInterstitialVideoAdDelegate
 @optional
-- (void)AdPopcornInterstitialVideoAdLoadSuccessWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
-- (void)AdPopcornInterstitialVideoAdLoadFailWithError:(enum NetworkError)error;
-- (void)adPopcorninterstitialVideoAdShowSuccessWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialVideoAdShowFailWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialVideoAdClickedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcorninterstitialVideoAdClosedWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornInterstitialVideoAdLoadSuccessWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
+- (void)adPopcornInterstitialVideoAdLoadFailWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd error:(enum NetworkError)error;
+- (void)adPopcorninterstitialVideoAdShowSuccessWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
+- (void)adPopcorninterstitialVideoAdShowFailWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
+- (void)adPopcorninterstitialVideoAdClickedWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
+- (void)adPopcorninterstitialVideoAdClosedWithInterstitialVideoAd:(AdPopcornInterstitialVideoAd * _Nonnull)interstitialVideoAd;
 @end
 
 
@@ -405,18 +427,11 @@ SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK25AdPopcornNativeAdDelegate_")
 @protocol AdPopcornNativeAdDelegate <NSObject>
 @optional
 - (void)adPopcornNativeAdLoadSuccessWithNativewAdView:(AdPopcornNativeAd * _Nonnull)nativewAdView;
-- (void)adPopcornNativeAdLoadFailWithError:(enum NetworkError)error;
-- (void)adPopcornNativeAdClickedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornNativeAdImpressionWithMessage:(NSString * _Nonnull)message;
+- (void)adPopcornNativeAdLoadFailWithNativewAdView:(AdPopcornNativeAd * _Nonnull)nativewAdView error:(enum NetworkError)error;
+- (void)adPopcornNativeAdClickedWithNativewAd:(AdPopcornNativeAd * _Nonnull)nativewAd;
+- (void)adPopcornNativeAdImpressionWithNativewAd:(AdPopcornNativeAd * _Nonnull)nativewAd;
 @end
 
-
-SWIFT_CLASS("_TtC16AdPopcornSSP_SDK21AdPopcornNativeAdView")
-@interface AdPopcornNativeAdView : UIView
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-@end
 
 
 SWIFT_CLASS("_TtC16AdPopcornSSP_SDK22AdPopcornRewardVideoAd")
@@ -431,20 +446,22 @@ enum MediationCompany : NSInteger;
 SWIFT_PROTOCOL("_TtP16AdPopcornSSP_SDK30AdPopcornRewardVideoAdDelegate_")
 @protocol AdPopcornRewardVideoAdDelegate
 @optional
-- (void)AdPopcornRewardVideoAdLoadSuccessWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
-- (void)AdPopcornRewardVideoAdLoadFailWithError:(enum NetworkError)error;
-- (void)adPopcornRewardVideoAdShowSuccessWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornRewardVideoAdShowFailWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornRewardVideoAdClickedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornRewardVideoAdClosedWithMessage:(NSString * _Nonnull)message;
-- (void)adPopcornRewardVideoAdCompletedWithCurrenMediationType:(enum MediationCompany)currenMediationType;
+- (void)adPopcornRewardVideoAdLoadSuccessWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
+- (void)adPopcornRewardVideoAdLoadFailWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd error:(enum NetworkError)error;
+- (void)adPopcornRewardVideoAdShowSuccessWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
+- (void)adPopcornRewardVideoAdShowFailWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
+- (void)adPopcornRewardVideoAdClickedWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
+- (void)adPopcornRewardVideoAdClosedWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd;
+- (void)adPopcornRewardVideoAdCompletedWithRewardVideoAd:(AdPopcornRewardVideoAd * _Nonnull)rewardVideoAd currenMediationType:(enum MediationCompany)currenMediationType;
 @end
 
 typedef SWIFT_ENUM(NSInteger, MediationCompany, open) {
   MediationCompanyAdPopcorn = 0,
   MediationCompanyAdMob = 1,
+  MediationCompanyFacebook_Audience_Network = 2,
   MediationCompanyCauly = 4,
   MediationCompanyMezzoMedia = 5,
+  MediationCompanyUnityAds = 7,
   MediationCompanyAdFit = 10,
   MediationCompanyVungle = 14,
   MediationCompanyAppLovin_MAX = 15,

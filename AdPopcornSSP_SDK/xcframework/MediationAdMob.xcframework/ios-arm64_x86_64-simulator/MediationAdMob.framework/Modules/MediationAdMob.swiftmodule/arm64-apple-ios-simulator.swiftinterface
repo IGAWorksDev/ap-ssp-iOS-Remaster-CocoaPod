@@ -13,7 +13,7 @@ import _SwiftConcurrencyShims
 final public class AdMobInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterProtocol {
   final public var delegate: (any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)?
   final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)
   final public func disconnectDelegate()
@@ -30,7 +30,7 @@ extension MediationAdMob.AdMobInterstitialVideoAdapter : AdPopcornSSP_SDK.Inters
 final public class AdMobInterstitialAdapter : AdPopcornSSP_SDK.InterstitialAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSP_SDK.InterstitialAdapterDelegate)?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: () -> Swift.Void)
@@ -59,7 +59,7 @@ extension AdPopcornSSP_SDK.AdPopcornSSP {
 final public class AdMobBannerAdapter : AdPopcornSSP_SDK.BannerAdapterProtocol {
   weak final public var delegate: (any AdPopcornSSP_SDK.BannerAdapterDelegate)?
   weak final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.BannerAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()
@@ -74,7 +74,7 @@ extension MediationAdMob.AdMobBannerAdapter : AdPopcornSSP_SDK.BannerAdapterDele
 final public class AdMobRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
@@ -93,7 +93,7 @@ final public class AdMobNativeAdapter : AdPopcornSSP_SDK.NativeAdapterProtocol {
   final public var render: Swift.AnyObject?
   weak final public var delegate: (any AdPopcornSSP_SDK.NativeViewAdapterDelegate)?
   final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.NativeViewAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		/yKnh9n2iNaNuopTDrz223BqjLU=
+		V7cs+1tJ1I3vUPTSaZyBtbfa+RU=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Frameworks/LibADPlus.framework/LibADPlus</key>
 		<data>
-		wcL5cA473UJWsPYDU2g/ktF4Otg=
+		Ny23u1hPPb/r7mayjUi4S36dGUQ=
 		</data>
 		<key>Frameworks/LibADPlus.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Frameworks/OMSDK_Cjnet.framework/OMSDK_Cjnet</key>
 		<data>
-		I7QxPAvjy9eCJDz7i/FDBZOKe94=
+		qO6d9iRBa2Aku7+ckF5GptHvTxI=
 		</data>
 		<key>Frameworks/OMSDK_Cjnet.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		A1SgDvn6Ct4yxEFF4tNcWiQ0sB8=
+		jPZAwB6hH6QoTammYsElQV7jIwc=
 		</data>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		0/nhwIJj7m6p6tM9yAKCpLRx0pU=
+		Yj6AokNTXqUSEGKscCWVDdYnxEA=
 		</data>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		0/nhwIJj7m6p6tM9yAKCpLRx0pU=
+		Yj6AokNTXqUSEGKscCWVDdYnxEA=
 		</data>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		agIfeceBlWXNi8rrrD2YlhCdVZA=
+		UfsMA89fIgIvQYvsHA2M7caMdHQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JjFeNBBLTJRHUtsobpM+s+AtY0RrDFFP8ffBrt1skSg=
+			7hsDzbogjGo9C83NSHosbbBuHS823yPGGL5iVianUiY=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			69Z+l82RZO83diAzXiw6ABzZGfl/R0iZzP23yEL0mlQ=
+			ZNBLxe6aisSPFAl+JAovob23jEOnprM85pBK1JsGpKU=
 			</data>
 		</dict>
 		<key>Frameworks/LibADPlus.framework/_CodeSignature/CodeResources</key>
@@ -238,7 +238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nc0dTnxKUq7QDGr4cE3hI1VGEC3LPdBYZjjrgXVYx1g=
+			BH38dAnSlQf0clgFljybeJbKS33t2XgwwlopceHbIrM=
 			</data>
 		</dict>
 		<key>Frameworks/OMSDK_Cjnet.framework/_CodeSignature/CodeResources</key>
@@ -259,14 +259,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PlhmGgm2LcG1TQaA4i2zMIhWXjH9QF8sBlfasx/tR4M=
+			kwcqBA161Pq1YVdrBYj5/lB0VtERuPdBwbtZ5N5btFk=
 			</data>
 		</dict>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7nHFB/i49PnCrrmFrKfkRZeu1awXMKgu1XOy2+PFjCo=
+			V7YvEUTqX0nF7ipoXqx+BzgTFwyQFXJ/qtvQiq7rFtA=
 			</data>
 		</dict>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -280,14 +280,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7nHFB/i49PnCrrmFrKfkRZeu1awXMKgu1XOy2+PFjCo=
+			V7YvEUTqX0nF7ipoXqx+BzgTFwyQFXJ/qtvQiq7rFtA=
 			</data>
 		</dict>
 		<key>Modules/MediationMezzo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/a0eFH2ZQU0VlnCnpQHH3YtYK1inzSoryycb3npDL0M=
+			WiFpwQIT5HPM2ejeqNKh6M178ncT4H0ylRop83fTSVo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

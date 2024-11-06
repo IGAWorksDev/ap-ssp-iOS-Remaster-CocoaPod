@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdFitSDK.framework/AdFitSDK</key>
 		<data>
-		1EF8uaxqsOP89Q/34/Q+6evrHXM=
+		adeY5hUgpmCns5VXh+FE/rW6L3I=
 		</data>
 		<key>Frameworks/AdFitSDK.framework/Assets.car</key>
 		<data>
@@ -64,7 +64,7 @@
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		A9iP8m5LvhSxXrZ4fHjjeZzZRfw=
+		FGpxC2m715lEtblMoYgzPj3/BoA=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -128,11 +128,11 @@
 		</data>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		14k8WM96gQ6EU7i7tNYpDoYFbb4=
+		tT+xOtRiH05HFkSzfRcK/yF0eoQ=
 		</data>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jFL7llhawObcokLOSrZvQtNtucE=
+		cKDSXuxbKDy6S3qG2itbJ08uNz0=
 		</data>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -140,11 +140,11 @@
 		</data>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jFL7llhawObcokLOSrZvQtNtucE=
+		cKDSXuxbKDy6S3qG2itbJ08uNz0=
 		</data>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		90kqyoEiTvh/vrzkWNXiRE4/pWE=
+		ai6ybT59ecC4V9DzrtQJcvCB1Qk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QW5NJtyFqZHk/QE+J4J5ROOIZlnyxeEmSGfOxGVwjbM=
+			tJzSPEfp0KThHr5Z6OkGalPANgsxH3eDGJN5j1BwHD0=
 			</data>
 		</dict>
 		<key>Frameworks/AdFitSDK.framework/Assets.car</key>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKRRzpe1NWsHmNMExjREMD+4/yUDK0isZVzY1I8Tqhc=
+			tbFAyl3oUOsFDecq3asIHP3QkVGjVHsQ7gbvjf2Jp14=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -350,14 +350,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WA3sFBeDMAAdnJKBveTlUJHPcklP7DRpLWXF6nLEIrQ=
+			PzrvZBof5Vr1Ntv6odJ8mzXC62lJpJRCqhju931e09M=
 			</data>
 		</dict>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2XEftiBm8OY5EDGnzpNztfnOCVPwzkE9jrIZtAszaGY=
+			H0oOALuqfH8gnJbFbDBj0vg0yFQ3At9FleamIVGvcMU=
 			</data>
 		</dict>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -371,14 +371,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2XEftiBm8OY5EDGnzpNztfnOCVPwzkE9jrIZtAszaGY=
+			H0oOALuqfH8gnJbFbDBj0vg0yFQ3At9FleamIVGvcMU=
 			</data>
 		</dict>
 		<key>Modules/MediationAdFit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			USSIoDrbu+49Alk+vS19BC2AT7YTrX64mjSd6gDKqhU=
+			K04cDwzjKsLqy/2X0PRvuf64+auGjjaBQ1i2+e69KBk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

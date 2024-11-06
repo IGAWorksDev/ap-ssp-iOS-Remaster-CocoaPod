@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		zuopDK9sza4unw0DWUwHENWHPk0=
+		VRYMjDH2IH+R7adZEo6y8geGUkc=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Fyber_Marketplace_SDK.bundle/Info.plist</key>
 		<data>
-		Ko5ZNGLroSkai5ZOwPJuJjBS4pw=
+		iXlHFQqKCh53g5hmGI76Tvey8zE=
 		</data>
 		<key>Fyber_Marketplace_SDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		xvOX4ejxq7duNL8cLu121shiprY=
+		EKf6VorFXvQ+EwnO80R/Vj58A9E=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CJYDa2Qh7KD2yvS5KNvhs9aVZLI=
+		yyEE6nUIQGitVlt07VeJyhGnfd0=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -102,19 +102,19 @@
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CJYDa2Qh7KD2yvS5KNvhs9aVZLI=
+		yyEE6nUIQGitVlt07VeJyhGnfd0=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eZc6rtgQYa0nkivcCOwOmLHSXCs=
+		hmRgK3qXmXsAEcLulODvEFqn4xI=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		xvOX4ejxq7duNL8cLu121shiprY=
+		EKf6VorFXvQ+EwnO80R/Vj58A9E=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RBE6Rtr5Lnx27bGi8/J+xHKzaqM=
+		J0UgFFH29ncOXfvX5CgU+FDSeXA=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RBE6Rtr5Lnx27bGi8/J+xHKzaqM=
+		J0UgFFH29ncOXfvX5CgU+FDSeXA=
 		</data>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		whClhDbL/Z4et7LpZ/X1eSCNRzY=
+		IiD2AAvgNPAwicGhM/YlbmJeaCA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ylch2UTcM2cYTFBgUdgYsPVI0nUb5LwKKwgzEwX5RU8=
+			32RgK/abEVnG88aIP34NqnXsEN4PExLXkNNvsI12pLc=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -258,7 +258,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iFUqdnPMZUgeSZJ588Bq95Z6ky80grgxcKvfOnjk7U8=
+			VMRyKzJ/etN0ybyTQK9kha6fvDiEVWeLpIKy/eg9LAU=
 			</data>
 		</dict>
 		<key>Fyber_Marketplace_SDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -279,14 +279,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6SjgV1W/DKHWsb65Op156R7NUdy+JBsblYYw83RFAc=
+			MHpJ0cEJ46BAbrymrLPOevum+af6bZr/wpx6ANvufiA=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NfPyf1CyhOQODYHmKSJp3mtz463CnmCAfb1GDU5WApY=
+			fmZHtcldA7rY0XyvSsfUVx3At4DkSbKGU2o6k0cGdBQ=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -300,28 +300,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NfPyf1CyhOQODYHmKSJp3mtz463CnmCAfb1GDU5WApY=
+			fmZHtcldA7rY0XyvSsfUVx3At4DkSbKGU2o6k0cGdBQ=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jPrsF0789+F0yF97/FpooTFrOTGhWScbzuErzSucyCk=
+			pV0IAIx1JKxqtPRIelaVSRVOg/d4lwR/NxddTaRcml4=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6SjgV1W/DKHWsb65Op156R7NUdy+JBsblYYw83RFAc=
+			MHpJ0cEJ46BAbrymrLPOevum+af6bZr/wpx6ANvufiA=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVqzVaIfpGuX/WCvtNlHmBwOPRIr1D2QMkTD4zONc40=
+			qqwYIozyic100TzQaojdwgwI7YIl+16fJpJcwJNgxn8=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -335,14 +335,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVqzVaIfpGuX/WCvtNlHmBwOPRIr1D2QMkTD4zONc40=
+			qqwYIozyic100TzQaojdwgwI7YIl+16fJpJcwJNgxn8=
 			</data>
 		</dict>
 		<key>Modules/MediationFyber.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cb62bF9d/XJMwBvBMokkvssy4FekkPS5Eme4PViEJss=
+			nhxzmHXRvv0pcrPGO4dcMEvpg8j7QQwBW5dfNcnY/Vw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

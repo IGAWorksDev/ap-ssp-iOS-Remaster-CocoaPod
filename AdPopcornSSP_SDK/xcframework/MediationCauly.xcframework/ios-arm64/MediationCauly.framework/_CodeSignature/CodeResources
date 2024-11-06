@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		3aP0tzFaqxQmqgy5cmMyqXNfyJg=
+		mtiGsaBbr4If3k4djK2QOGsCtl0=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/CaulySDK.framework/CaulySDK</key>
 		<data>
-		MCRBhnozuXHVLpvk/v5xsM1XS00=
+		HVK/7Syn8urJr6SepUYwJp3nO1E=
 		</data>
 		<key>Frameworks/CaulySDK.framework/Info.plist</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		iDW/jieoOEATq5Q443Nt5hdBPu8=
+		hGmwDXoTB+Bk1ZxrEkgfl5etCGE=
 		</data>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kr63+bgpWM7l4nfm0xGgOv86bnM=
+		ydwJ55TR17Zf9KZWEIBiY7r+Grw=
 		</data>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kr63+bgpWM7l4nfm0xGgOv86bnM=
+		ydwJ55TR17Zf9KZWEIBiY7r+Grw=
 		</data>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		E9aGnUluN9IZAAId0Nj+OcZNeF0=
+		41yxXoOsqw6ywhtrphtbVPSK51Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -115,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9RHZXtYOwe25u6HI+enHacEDJIQlXU79Wd8u4mtMwBo=
+			Z+lKnqoU/9rF3Yyf1p/EkSsDYxqCjtkNb+bulRIcJLo=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			stQYeIO3dCwaxMMdPs2umT8oQ4f7foZ/HHYWK6jv//Y=
+			h1CEVbGpIyaOa8UE9Lmxs/E1iHE12LuSKgwCbAVFaZA=
 			</data>
 		</dict>
 		<key>Frameworks/CaulySDK.framework/Info.plist</key>
@@ -248,14 +248,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MyTT11PNO3V8NZcFyF/SH7qIz4Bz0EdHO6j6SQoxPo0=
+			BAjzHNg2M+8Y7y1V9INt5hbdImQVjqeJMAXqOe7j3mA=
 			</data>
 		</dict>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cqu2gOGUTx3wwECkmhhH64W0OKs45QkvbbfE9BG0nNk=
+			sfCuUJ6SGWUCeXY7CJJ7WqncHUB3o5WeQEsljtnW90c=
 			</data>
 		</dict>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -269,14 +269,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cqu2gOGUTx3wwECkmhhH64W0OKs45QkvbbfE9BG0nNk=
+			sfCuUJ6SGWUCeXY7CJJ7WqncHUB3o5WeQEsljtnW90c=
 			</data>
 		</dict>
 		<key>Modules/MediationCauly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSvq//9JzrX2TtexTzpIGZKBY0regCzfvwydg0gLpi4=
+			NnWtuID95cnOjs+w0S2IKurA0YMmhjG0Bw/aC6f0Yg8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

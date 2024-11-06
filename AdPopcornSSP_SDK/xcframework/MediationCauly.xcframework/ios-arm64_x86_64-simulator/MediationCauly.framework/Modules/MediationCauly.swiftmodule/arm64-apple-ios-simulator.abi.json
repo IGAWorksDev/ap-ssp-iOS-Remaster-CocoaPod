@@ -269,7 +269,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -310,11 +310,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationCauly0B19InterstitialAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewI0CSgtcfc",
-            "mangledName": "$s14MediationCauly0B19InterstitialAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewI0CSgtcfc",
+            "usr": "s:14MediationCauly0B19InterstitialAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewI0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationCauly0B19InterstitialAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewI0CSgSDySSypSgGtcfc",
             "moduleName": "MediationCauly",
             "declAttributes": [
               "AccessControl"
@@ -879,7 +906,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:bannerType:rootViewController:)",
+            "printedName": "init(placementDic:bannerType:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -926,11 +953,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationCauly0B13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0lmC4SizeOSo06UIViewK0CSgtcfc",
-            "mangledName": "$s14MediationCauly0B13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0lmC4SizeOSo06UIViewK0CSgtcfc",
+            "usr": "s:14MediationCauly0B13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewK0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationCauly0B13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewK0CSgSDySSypSgGtcfc",
             "moduleName": "MediationCauly",
             "declAttributes": [
               "AccessControl"
