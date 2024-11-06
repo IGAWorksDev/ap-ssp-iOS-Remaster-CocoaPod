@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		Yj0Mc40X7PycHZSZC8Le/B3fAdU=
+		BWOF2LirwRCJ1XKiaSconMLU07A=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/GoogleMobileAds.framework/GoogleMobileAds</key>
 		<data>
-		gT5FT3zur49u3wxu8/+U4dyBmWw=
+		UXLkRck4XYWsqLl8ct6MoznOucs=
 		</data>
 		<key>Frameworks/GoogleMobileAds.framework/Info.plist</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/UserMessagingPlatform.framework/UserMessagingPlatform</key>
 		<data>
-		I3LXVkvM5E+lA1expVxvZAJ+FGQ=
+		dsM9/v8ujSENYXISzYGE9Zn0EAg=
 		</data>
 		<key>Frameworks/UserMessagingPlatform.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		d/vqJ+yOvonZWYnVypV75OYYpmw=
+		hWxNcoOBlWbDZHx/USbGk2LpdC4=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		+xlZmZk/dzPWiynvMXSlmiBJ0K0=
+		XwV90HwdowftwafbUcySTG20Ah8=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		H9rEl97gQI46HBWZS6MZYGPZZN8=
+		A0NAbGcBbbKSon3FImx009EB+Wc=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		H9rEl97gQI46HBWZS6MZYGPZZN8=
+		A0NAbGcBbbKSon3FImx009EB+Wc=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		p0M9+3xsrGF//+qgeutfiaHDWBE=
+		maFISvkrKNxsAsIzzEUuT9f8Umc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		YSP697gi87FdmBfaF1x2lg0QYk0=
+		Dz6FwBqV756UBKeZW0u9Eq7ybbs=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hf1ihI8lyGgdpW96BfdLcWpzNFmqAYk6Hra6ThQpC7Y=
+			QbFdxcZkodqLLx9jV3pwnNfdqI1lI5Ap+Xb8h8tLPJo=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -238,7 +238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FwDUc9G9o/R/4X9plaZglaRKPZB4pxTyZt0yN5dQrcA=
+			9rcGGWkCGNJ92oV5c1+MqC4B6K/ELaUM1YhJ13WHsEk=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleMobileAds.framework/Info.plist</key>
@@ -280,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gDM7dr9lJq7u7TgBSjgHLU4hBJ1dXQSKSGoCTH9CuD4=
+			7JrEPdrP118dbtNESyBc1oPz1xwQjqyHpi8rQkJRxA4=
 			</data>
 		</dict>
 		<key>Frameworks/UserMessagingPlatform.framework/_CodeSignature/CodeResources</key>
@@ -294,7 +294,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nlw14zELlqG1I1OF2eXkXtCzowOTCi2Y2ovycXZEXaM=
+			5dtsbseco5jv2nuFuAE4h2AoyCNyXyp+6q08VIhctaY=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -322,14 +322,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpVLBKQrqsas1/yYqBvhRrMrlLn5sJZyokvOVx+/0Yc=
+			O+vFCgv2o7OIZ1gYs9yN+Sq0zcGfAzpH59sjkdPlvnk=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3qnhlxn0B08qaC+JynYBkpKkch2l1GxNs7vP4yaBSxs=
+			WKdOQEVK30lFUT0l4h4zKm4YvggD4KlC5N/46AyCrA0=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -343,14 +343,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3qnhlxn0B08qaC+JynYBkpKkch2l1GxNs7vP4yaBSxs=
+			WKdOQEVK30lFUT0l4h4zKm4YvggD4KlC5N/46AyCrA0=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YFuP5ISWyDQui6Rz23+FM7+OdY/SGhEtwCfs5u9CnLc=
+			Pg8q5pLT3tvY5aQSchl+3lMPEmVagYmHadyBVuDiN6Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -364,7 +364,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			knzGpkgnyh6N/86Lt9oWiHFrzwh345UGvDCDFS2l7DQ=
+			gbTToSvAavoVGbBgYRHfQvsQ1Ae01E1HTZPV/jWwv5Y=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>

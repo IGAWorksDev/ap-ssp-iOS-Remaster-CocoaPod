@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		olqv3ZI8lv2aQEZnDbtHpepYDxs=
+		QILHgbOlTogiUMGSMK33Xp/zDjc=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Frameworks/VungleAdsSDK.framework/VungleAdsSDK</key>
 		<data>
-		G946KwbdgfajcTzbvrvok6uKoMc=
+		BnIverWzGXN0GDNGvXY9zRzM9dM=
 		</data>
 		<key>Frameworks/VungleAdsSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		F+VOf0ecRwGBkRtUwgQ5AWK6yR0=
+		Iv9QDLPIVhoCh6fy5NGf/iaBXME=
 		</data>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		q0P25nKLsRP5y7f/w01UoSmB3vY=
+		MY4/f2EcEQb6UzXWbQ1rV9nUSwQ=
 		</data>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		q0P25nKLsRP5y7f/w01UoSmB3vY=
+		MY4/f2EcEQb6UzXWbQ1rV9nUSwQ=
 		</data>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xx6lh/E2fhz2NTjQh1OhS97FgtQ=
+		EOpEeXtfrxg6syZwgKzx6o0pYHY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>VungleAds.bundle/Info.plist</key>
 		<data>
-		dWghBkm+1Tk0OEK3eu9Uuz925Qo=
+		grENtQRjJlH8hG7c4yu90zn2tvI=
 		</data>
 		<key>VungleAds.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bNBtCq1lCxs/AU3lRtrE4qRgoFKAvNxQ04fmrXPwJ44=
+			0TV9WQYPLuvQTS3HMjB6tDYl+sJedU1E4+uD5k4j8zE=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -235,7 +235,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			edZuOqVUF/Zgb68ISLcVax38MCfGOc20zNI/FmxAURs=
+			XAYyrXAlslOTba6CxQ9nzUI0zOwCZjn0sVazOB8bJV0=
 			</data>
 		</dict>
 		<key>Frameworks/VungleAdsSDK.framework/_CodeSignature/CodeResources</key>
@@ -256,14 +256,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DmHv4pzJhd2DeorVJqKARLSLI7K9rXUIgn6fDGSt5qs=
+			asC4jS7A3fcoNOgxKxxS/l23RMiFvkYCZaKbKUL26fM=
 			</data>
 		</dict>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			18aPtCjDYphduuNbRVtrY55406deWeduM3B5sPpr2l4=
+			TiqI4ewKaMM2e8+MmX3TJIWAp9oX+Eyz9SyMe8yNeE4=
 			</data>
 		</dict>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -277,14 +277,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			18aPtCjDYphduuNbRVtrY55406deWeduM3B5sPpr2l4=
+			TiqI4ewKaMM2e8+MmX3TJIWAp9oX+Eyz9SyMe8yNeE4=
 			</data>
 		</dict>
 		<key>Modules/MediationVungle.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RXbDPGIoJ0JvLpp08KD2XWJVMrL8y00kphYX+mV+fS0=
+			PyuViwD7JhPNq0tKlafPSpWJP3eFFKhBUPxIc7Z689A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			esFD0Sl1RGWkc32ROwN0/Fl5S59yQjOR3cewFeKgoyg=
+			Z4UaVUScUkBvrFixwNP0XPjYN8nqzmmJBsIJsYRrDng=
 			</data>
 		</dict>
 		<key>VungleAds.bundle/PrivacyInfo.xcprivacy</key>

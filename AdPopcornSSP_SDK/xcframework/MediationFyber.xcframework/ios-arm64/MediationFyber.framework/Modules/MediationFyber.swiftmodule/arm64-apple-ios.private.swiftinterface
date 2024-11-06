@@ -12,7 +12,7 @@ import _SwiftConcurrencyShims
 final public class FyberRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)

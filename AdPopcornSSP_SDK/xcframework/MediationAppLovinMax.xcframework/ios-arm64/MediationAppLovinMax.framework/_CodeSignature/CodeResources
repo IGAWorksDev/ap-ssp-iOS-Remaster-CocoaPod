@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		NIakXsb3E6UfV8tIyj7VRfpI44Y=
+		DgydanVd0hyEEKTUY76+yevM3F0=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDK</key>
 		<data>
-		dqjmdBUcDYIN2DkuRmCY61zYI+U=
+		219Fe0KDBPqaxi0DFG+zEaCUXAw=
 		</data>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
 		<data>
@@ -287,11 +287,11 @@
 		</data>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1JXoE8LXef1/W2dSGuYgCQ0/uYY=
+		oPIK3dsPbFCR8fZqQPRuQMaBxdM=
 		</data>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		+dx8nPxexvQXa/eQS/NQXlEn9Mc=
+		b0YBOBOhD+BPA0W/5tYol83tbBI=
 		</data>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -299,11 +299,11 @@
 		</data>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+dx8nPxexvQXa/eQS/NQXlEn9Mc=
+		b0YBOBOhD+BPA0W/5tYol83tbBI=
 		</data>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IZCHa9a769IJ0Gbio+fmnQxKG4Q=
+		S5hb2X9vHBr5OzcGoN98BghnBp8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -316,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WiuRFCWEyDVnfTslldpvmzfLX4k3mdezfWaISeY4ErE=
+			LtM2iLm0hHw9a/4GgxPAPO0puzxq/3UyehZJAK3U0qk=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -407,7 +407,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vlu0VJ2/Tapy2DdjysEfiPBVdMtDVQWP6I7ivDKFv7c=
+			ooQF5KiS7KwwUl6ch2qaVFUYSz3LNc1XYZIOjexV6fU=
 			</data>
 		</dict>
 		<key>Frameworks/AppLovinSDK.framework/AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
@@ -740,14 +740,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5JhqaS6MsvE0Oo4Mo0KJ8/NYyijY7vhMRPxrIqCXg1A=
+			uj/WPCwMoL3Jg5RNRSuAaMsXmK6nyG8pzSlsJyZXI3U=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ii7hyS852Bsl4o7qrosf2w1br9u0nMfhFzgvd/EgQCA=
+			M2eCpANTbm2leAf0Ca5//OpGa7R1KdV98aPb9HjaGIk=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -761,14 +761,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ii7hyS852Bsl4o7qrosf2w1br9u0nMfhFzgvd/EgQCA=
+			M2eCpANTbm2leAf0Ca5//OpGa7R1KdV98aPb9HjaGIk=
 			</data>
 		</dict>
 		<key>Modules/MediationAppLovinMax.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Agutfg5VJ7HLT9l1DkhJxuZYfm/RsQEAZChLL9sefEk=
+			tgnDvc0O3KvG/8gSHcrkDBX4xkscsNwBDYmggw14ScY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

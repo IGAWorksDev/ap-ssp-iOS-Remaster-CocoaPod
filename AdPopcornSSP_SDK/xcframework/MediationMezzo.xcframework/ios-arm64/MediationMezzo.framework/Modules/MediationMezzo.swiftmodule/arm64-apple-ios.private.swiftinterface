@@ -13,7 +13,7 @@ import _SwiftConcurrencyShims
 final public class MezzoBannerAdapter : AdPopcornSSP_SDK.BannerAdapterProtocol {
   weak final public var delegate: (any AdPopcornSSP_SDK.BannerAdapterDelegate)?
   weak final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.BannerAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()

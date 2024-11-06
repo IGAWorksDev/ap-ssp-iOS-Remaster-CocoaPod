@@ -631,7 +631,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -672,11 +672,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationAdFit0bC18RewardVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
-            "mangledName": "$s14MediationAdFit0bC18RewardVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "usr": "s:14MediationAdFit0bC18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewK0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationAdFit0bC18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewK0CSgSDySSypSgGtcfc",
             "moduleName": "MediationAdFit",
             "declAttributes": [
               "AccessControl"
@@ -1253,7 +1280,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:bannerType:rootViewController:)",
+            "printedName": "init(placementDic:bannerType:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1300,11 +1327,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationAdFit0bC13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_0B14PopcornSSP_SDK0bmD4SizeOSo06UIViewL0CSgtcfc",
-            "mangledName": "$s14MediationAdFit0bC13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_0B14PopcornSSP_SDK0bmD4SizeOSo06UIViewL0CSgtcfc",
+            "usr": "s:14MediationAdFit0bC13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_0B14PopcornSSP_SDK0bnD4SizeOSo06UIViewL0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationAdFit0bC13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_0B14PopcornSSP_SDK0bnD4SizeOSo06UIViewL0CSgSDySSypSgGtcfc",
             "moduleName": "MediationAdFit",
             "declAttributes": [
               "AccessControl"
@@ -1789,7 +1843,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1830,11 +1884,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationAdFit0bC24InterstitialVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
-            "mangledName": "$s14MediationAdFit0bC24InterstitialVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "usr": "s:14MediationAdFit0bC24InterstitialVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewK0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationAdFit0bC24InterstitialVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewK0CSgSDySSypSgGtcfc",
             "moduleName": "MediationAdFit",
             "declAttributes": [
               "AccessControl"
@@ -2496,7 +2577,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:render:)",
+            "printedName": "init(placementDic:rootViewController:render:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2542,11 +2623,38 @@
                 "kind": "TypeNominal",
                 "name": "ProtocolComposition",
                 "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationAdFit0bC13NativeAdapterC12placementDic18rootViewController6renderACSDyS2SG_So06UIViewJ0CSgyXltcfc",
-            "mangledName": "$s14MediationAdFit0bC13NativeAdapterC12placementDic18rootViewController6renderACSDyS2SG_So06UIViewJ0CSgyXltcfc",
+            "usr": "s:14MediationAdFit0bC13NativeAdapterC12placementDic18rootViewController6render4infoACSDyS2SG_So06UIViewJ0CSgyXlSDySSypSgGtcfc",
+            "mangledName": "$s14MediationAdFit0bC13NativeAdapterC12placementDic18rootViewController6render4infoACSDyS2SG_So06UIViewJ0CSgyXlSDySSypSgGtcfc",
             "moduleName": "MediationAdFit",
             "declAttributes": [
               "AccessControl"
@@ -3077,7 +3185,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3118,11 +3226,38 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14MediationAdFit0bC19InterstitialAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
-            "mangledName": "$s14MediationAdFit0bC19InterstitialAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
+            "usr": "s:14MediationAdFit0bC19InterstitialAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "mangledName": "$s14MediationAdFit0bC19InterstitialAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
             "moduleName": "MediationAdFit",
             "declAttributes": [
               "AccessControl"

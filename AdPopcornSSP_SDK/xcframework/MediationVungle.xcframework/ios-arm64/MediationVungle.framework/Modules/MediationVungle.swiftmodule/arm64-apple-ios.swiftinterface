@@ -13,13 +13,15 @@ import _SwiftConcurrencyShims
 extension AdPopcornSSP_SDK.AdPopcornNativeAd {
   @_Concurrency.MainActor(unsafe) final public func bindVungleRenderer(renderable: MediationVungle.APSSPVungleNativeAdRenderable)
 }
-final public class VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterProtocol {
+final public class VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterInappBiddingProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension MediationVungle.VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterDelegate {
@@ -31,13 +33,15 @@ extension MediationVungle.VungleRewardVideoAdapter : AdPopcornSSP_SDK.RewardVide
   final public func rewardVideoClosed(message: Swift.String)
   final public func rewardVideoCompleted()
 }
-final public class VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterProtocol {
+final public class VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterInappBiddingProtocol {
   weak final public var delegate: (any AdPopcornSSP_SDK.BannerAdapterDelegate)?
   weak final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.BannerAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension MediationVungle.VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterDelegate {
@@ -59,14 +63,16 @@ extension MediationVungle.VungleBannerAdapter : AdPopcornSSP_SDK.BannerAdapterDe
   @objc override dynamic public init()
   @objc deinit
 }
-final public class VungleNativeAdapter : AdPopcornSSP_SDK.NativeAdapterProtocol {
+final public class VungleNativeAdapter : AdPopcornSSP_SDK.NativeAdapterInappBiddingProtocol {
   final public var render: Swift.AnyObject?
   weak final public var delegate: (any AdPopcornSSP_SDK.NativeViewAdapterDelegate)?
   final public var rootViewController: UIKit.UIViewController?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject, info: [Swift.String : Any?])
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.NativeViewAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension MediationVungle.VungleNativeAdapter : AdPopcornSSP_SDK.NativeViewAdapterDelegate {
@@ -75,13 +81,15 @@ extension MediationVungle.VungleNativeAdapter : AdPopcornSSP_SDK.NativeViewAdapt
   final public func nativeClicked(message: Swift.String)
   final public func nativeImpression(message: Swift.String)
 }
-final public class VungleInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterProtocol {
+final public class VungleInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterInappBiddingProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)?
-  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
   final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension MediationVungle.VungleInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate {

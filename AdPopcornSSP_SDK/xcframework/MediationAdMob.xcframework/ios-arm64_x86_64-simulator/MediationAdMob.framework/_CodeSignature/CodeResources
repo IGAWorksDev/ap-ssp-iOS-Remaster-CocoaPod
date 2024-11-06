@@ -6,7 +6,7 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		zuopDK9sza4unw0DWUwHENWHPk0=
+		VRYMjDH2IH+R7adZEo6y8geGUkc=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		bsAiRAl4eHmu/TCHdqNIgqchKHg=
+		Jtd8LN7zPs1SiJhDupZB5vw2Nt8=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+xlZmZk/dzPWiynvMXSlmiBJ0K0=
+		XwV90HwdowftwafbUcySTG20Ah8=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		CibP5vwFj07D8IDQNc+JC6T7eUk=
+		JQ7y4IEIl5y/E6WrQpkd6uXix8M=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,19 +122,19 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		CibP5vwFj07D8IDQNc+JC6T7eUk=
+		JQ7y4IEIl5y/E6WrQpkd6uXix8M=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YoQs+y9/sq/Svkx5reuVzx22DHM=
+		z9vgkS2cQsckqzr9xoclC850NUY=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+xlZmZk/dzPWiynvMXSlmiBJ0K0=
+		XwV90HwdowftwafbUcySTG20Ah8=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		mcokV1+mWwnylNY+szBoNJNdB7g=
+		XMG96WYV+Rpu21K1UEnFcfHLj5M=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mcokV1+mWwnylNY+szBoNJNdB7g=
+		XMG96WYV+Rpu21K1UEnFcfHLj5M=
 		</data>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zILuTs8iDbfPS+i8HCdbnMwhLYY=
+		h8AEOf+SF00a0lgkRbkfH17UOT4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		84XVKyUYbHtTuCK355/I3eiVlrQ=
+		2/CzHWbVDt34e/w86Nnbd0LGJAw=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -167,7 +167,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ylch2UTcM2cYTFBgUdgYsPVI0nUb5LwKKwgzEwX5RU8=
+			32RgK/abEVnG88aIP34NqnXsEN4PExLXkNNvsI12pLc=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
@@ -314,7 +314,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			thH9eM2dIUOHq1erYyLc9ly5puBYOfjqSUMKflsxWtI=
+			BYObaOnpcWV18KAZJ7z47tGhVZWjDHznR7dl+6rovKY=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -342,14 +342,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpVLBKQrqsas1/yYqBvhRrMrlLn5sJZyokvOVx+/0Yc=
+			O+vFCgv2o7OIZ1gYs9yN+Sq0zcGfAzpH59sjkdPlvnk=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7FhPNwe/Iyx7c9cxgvBVA3Pqjw0Cq/Q7QMlGTpWd+4Y=
+			sFJoLJ+TM6gqZ3pl5rhGywOv2FKdps6nzjwUTuXMEPE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -363,28 +363,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7FhPNwe/Iyx7c9cxgvBVA3Pqjw0Cq/Q7QMlGTpWd+4Y=
+			sFJoLJ+TM6gqZ3pl5rhGywOv2FKdps6nzjwUTuXMEPE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6+RLP3g0DsTsw/192k5lohIxrc54xvpjHL13yV1SI9o=
+			9GvGSjCJZy54cCCqd7H23RB7dsKs7jcn7ZM1Zds2rj4=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpVLBKQrqsas1/yYqBvhRrMrlLn5sJZyokvOVx+/0Yc=
+			O+vFCgv2o7OIZ1gYs9yN+Sq0zcGfAzpH59sjkdPlvnk=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVBIOkgDh+TSAHGbB7Sgh3jD67qytTq84ltH05cXfFk=
+			tuP2Y5vmN95AJsiz6c51fQW58pPzrhsW07Sp7XF51SE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -398,14 +398,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WVBIOkgDh+TSAHGbB7Sgh3jD67qytTq84ltH05cXfFk=
+			tuP2Y5vmN95AJsiz6c51fQW58pPzrhsW07Sp7XF51SE=
 			</data>
 		</dict>
 		<key>Modules/MediationAdMob.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ua32+5fht8nWnL9t+XFC83bJkG3T/BrwZH9jXeSSAqk=
+			06VzkS+2u9NLrPCpSVTr1uprqOugC+tbWfwKEW+/wFY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -419,7 +419,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KbF+jQ2Ye0/eFGBfZtgai5EZ6tTkO0gtymRtHDlRaNI=
+			hFaiC+FrOydOFgwh0i6y3PWrDz2rpoeXfYngdPBXAMI=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>

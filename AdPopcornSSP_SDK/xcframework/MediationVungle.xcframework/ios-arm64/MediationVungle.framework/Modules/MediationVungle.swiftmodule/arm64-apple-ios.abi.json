@@ -334,7 +334,89 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VungleRewardVideoAdapter",
+                "printedName": "MediationVungle.VungleRewardVideoAdapter",
+                "usr": "s:15MediationVungle0B18RewardVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MediationVungle0B18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "mangledName": "$s15MediationVungle0B18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -378,8 +460,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15MediationVungle0B18RewardVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
-            "mangledName": "$s15MediationVungle0B18RewardVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
+            "usr": "s:15MediationVungle0B18RewardVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "mangledName": "$s15MediationVungle0B18RewardVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "AccessControl"
@@ -471,6 +553,28 @@
             "declKind": "Func",
             "usr": "s:15MediationVungle0B18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
             "mangledName": "$s15MediationVungle0B18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MediationVungle0B18RewardVideoAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s15MediationVungle0B18RewardVideoAdapterC15getBiddingTokenSSyF",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "Final",
@@ -672,6 +776,13 @@
           "Final"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "RewardVideoAdapterInappBiddingProtocol",
+            "printedName": "RewardVideoAdapterInappBiddingProtocol",
+            "usr": "s:16AdPopcornSSP_SDK38RewardVideoAdapterInappBiddingProtocolP",
+            "mangledName": "$s16AdPopcornSSP_SDK38RewardVideoAdapterInappBiddingProtocolP"
+          },
           {
             "kind": "Conformance",
             "name": "RewardVideoAdapterProtocol",
@@ -963,7 +1074,95 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:bannerType:rootViewController:)",
+            "printedName": "init(placementDic:bannerType:rootViewController:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VungleBannerAdapter",
+                "printedName": "MediationVungle.VungleBannerAdapter",
+                "usr": "s:15MediationVungle0B13BannerAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornBannerSize",
+                "printedName": "AdPopcornSSP_SDK.AdPopcornBannerSize",
+                "usr": "c:@M@AdPopcornSSP_SDK@E@AdPopcornBannerSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MediationVungle0B13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewK0CSgSDySSypSgGtcfc",
+            "mangledName": "$s15MediationVungle0B13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewK0CSgSDySSypSgGtcfc",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:bannerType:rootViewController:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1013,8 +1212,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15MediationVungle0B13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0lmC4SizeOSo06UIViewK0CSgtcfc",
-            "mangledName": "$s15MediationVungle0B13BannerAdapterC12placementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0lmC4SizeOSo06UIViewK0CSgtcfc",
+            "usr": "s:15MediationVungle0B13BannerAdapterC24inappbiddingPlacementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewL0CSgtcfc",
+            "mangledName": "$s15MediationVungle0B13BannerAdapterC24inappbiddingPlacementDic10bannerType18rootViewControllerACSDyS2SG_16AdPopcornSSP_SDK0mnC4SizeOSo06UIViewL0CSgtcfc",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "AccessControl"
@@ -1083,6 +1282,28 @@
             "declKind": "Func",
             "usr": "s:15MediationVungle0B13BannerAdapterC4stopyyF",
             "mangledName": "$s15MediationVungle0B13BannerAdapterC4stopyyF",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MediationVungle0B13BannerAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s15MediationVungle0B13BannerAdapterC15getBiddingTokenSSyF",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "Final",
@@ -1218,6 +1439,13 @@
           "Final"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "BannerAdapterInappBiddingProtocol",
+            "printedName": "BannerAdapterInappBiddingProtocol",
+            "usr": "s:16AdPopcornSSP_SDK33BannerAdapterInappBiddingProtocolP",
+            "mangledName": "$s16AdPopcornSSP_SDK33BannerAdapterInappBiddingProtocolP"
+          },
           {
             "kind": "Conformance",
             "name": "BannerAdapterProtocol",
@@ -2811,7 +3039,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:render:)",
+            "printedName": "init(placementDic:rootViewController:render:info:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2857,11 +3085,125 @@
                 "kind": "TypeNominal",
                 "name": "ProtocolComposition",
                 "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15MediationVungle0B13NativeAdapterC12placementDic18rootViewController6renderACSDyS2SG_So06UIViewI0CSgyXltcfc",
-            "mangledName": "$s15MediationVungle0B13NativeAdapterC12placementDic18rootViewController6renderACSDyS2SG_So06UIViewI0CSgyXltcfc",
+            "usr": "s:15MediationVungle0B13NativeAdapterC12placementDic18rootViewController6render4infoACSDyS2SG_So06UIViewI0CSgyXlSDySSypSgGtcfc",
+            "mangledName": "$s15MediationVungle0B13NativeAdapterC12placementDic18rootViewController6render4infoACSDyS2SG_So06UIViewI0CSgyXlSDySSypSgGtcfc",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:render:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VungleNativeAdapter",
+                "printedName": "MediationVungle.VungleNativeAdapter",
+                "usr": "s:15MediationVungle0B13NativeAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MediationVungle0B13NativeAdapterC24inappbiddingPlacementDic18rootViewController6render4infoACSDyS2SG_So06UIViewJ0CSgyXlSDySSypSgGtcfc",
+            "mangledName": "$s15MediationVungle0B13NativeAdapterC24inappbiddingPlacementDic18rootViewController6render4infoACSDyS2SG_So06UIViewJ0CSgyXlSDySSypSgGtcfc",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "AccessControl"
@@ -2930,6 +3272,28 @@
             "declKind": "Func",
             "usr": "s:15MediationVungle0B13NativeAdapterC4stopyyF",
             "mangledName": "$s15MediationVungle0B13NativeAdapterC4stopyyF",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MediationVungle0B13NativeAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s15MediationVungle0B13NativeAdapterC15getBiddingTokenSSyF",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "Final",
@@ -3053,6 +3417,13 @@
           "Final"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "NativeAdapterInappBiddingProtocol",
+            "printedName": "NativeAdapterInappBiddingProtocol",
+            "usr": "s:16AdPopcornSSP_SDK33NativeAdapterInappBiddingProtocolP",
+            "mangledName": "$s16AdPopcornSSP_SDK33NativeAdapterInappBiddingProtocolP"
+          },
           {
             "kind": "Conformance",
             "name": "NativeAdapterProtocol",
@@ -3334,7 +3705,89 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(placementDic:rootViewController:)",
+            "printedName": "init(placementDic:rootViewController:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VungleInterstitialVideoAdapter",
+                "printedName": "MediationVungle.VungleInterstitialVideoAdapter",
+                "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "mangledName": "$s15MediationVungle0B24InterstitialVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3378,8 +3831,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
-            "mangledName": "$s15MediationVungle0B24InterstitialVideoAdapterC12placementDic18rootViewControllerACSDyS2SG_So06UIViewJ0CSgtcfc",
+            "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "mangledName": "$s15MediationVungle0B24InterstitialVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "AccessControl"
@@ -3471,6 +3924,28 @@
             "declKind": "Func",
             "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
             "mangledName": "$s15MediationVungle0B24InterstitialVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
+            "moduleName": "MediationVungle",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15MediationVungle0B24InterstitialVideoAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s15MediationVungle0B24InterstitialVideoAdapterC15getBiddingTokenSSyF",
             "moduleName": "MediationVungle",
             "declAttributes": [
               "Final",
@@ -3650,6 +4125,13 @@
           "Final"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "InterstitialVideoAdapterInappBiddingProtocol",
+            "printedName": "InterstitialVideoAdapterInappBiddingProtocol",
+            "usr": "s:16AdPopcornSSP_SDK44InterstitialVideoAdapterInappBiddingProtocolP",
+            "mangledName": "$s16AdPopcornSSP_SDK44InterstitialVideoAdapterInappBiddingProtocolP"
+          },
           {
             "kind": "Conformance",
             "name": "InterstitialVideoAdapterProtocol",
