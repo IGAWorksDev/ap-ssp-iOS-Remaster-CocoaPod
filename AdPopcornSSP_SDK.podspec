@@ -107,6 +107,7 @@ Pod::Spec.new do |s|
     nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
     nam.dependency 'NAMSDK', '7.10.2'
     nam.dependency 'NAMSDK/MediationNDA', '7.10.2'
+    nam.dependency 'KissXML', '5.3.1'
     nam.ios.deployment_target = '13.0'
     end
     
@@ -131,7 +132,7 @@ Pod::Spec.new do |s|
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
 
 
-#    s.requires_arc = true
+    s.requires_arc = true
     
 #    s.static_framework = true
       
