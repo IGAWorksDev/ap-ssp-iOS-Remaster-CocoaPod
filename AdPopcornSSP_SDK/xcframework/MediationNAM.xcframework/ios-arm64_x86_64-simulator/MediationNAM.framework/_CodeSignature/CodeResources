@@ -6,15 +6,15 @@
 	<dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
 		<data>
-		jKSMtwd99qlMSQNN2yopVoDSuYc=
+		sNI85bi07WVH2fzSJBvBhKjUdf4=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<data>
-		yVlJ5TAU9jO4Du9heqsUuCOaWIM=
+		TVfUjEkCxbbADQzz1wUxCNc+dc0=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		g6aJx4zOInn0YsnwtbkrsDMCZWs=
+		MyVMf5Qp+X5yAw5kK7wE9me9vVw=
 		</data>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Frameworks/GFPSDK.framework/GFPSDK</key>
 		<data>
-		6xggLZVduqpHk5smZ7FRLHVebjo=
+		lerxVSCj7yHVCS0PZFlDbiISJvI=
 		</data>
 		<key>Frameworks/GFPSDK.framework/Info.plist</key>
 		<data>
-		W5lnZWzCN2eEpEfW8wHKTSKGBuU=
+		47x1Mt95PBTkW2t9ZCuvpvFsroE=
 		</data>
 		<key>Frameworks/GFPSDK.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -70,32 +70,53 @@
 		</data>
 		<key>Frameworks/GFPSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		zsRBZDsXeNCGLK05ilvPXIrLs6Y=
+		iib9eO9Gh2V6jSw3/TRFzu9FFtw=
 		</data>
 		<key>Frameworks/GFPSDKMediationNDA.framework/Assets.car</key>
 		<data>
-		TkYE70+Zp7hQ4gCzoVbkAEiv/dI=
+		8f+xuwxdp0cpmU2BEbM9t7nxblw=
 		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib</key>
 		<data>
 		sOOhxv4n1hphAoRpLcI4yrweP7w=
 		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib/runtime.nib</key>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X1Cell.nib</key>
 		<data>
-		gKbB2K1fr50GuaqsIDc1LUEdRyI=
+		s+cbIT4mUVVASkZ3yVK1TCrTBdo=
+		</data>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X3Cell.nib</key>
+		<data>
+		zvcTFRItQkcuymiNxlhQ4F6HgOU=
+		</data>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDACell.nib</key>
+		<data>
+		PmEiYCAfH1N/OIZcc8EsD2RrvOg=
+		</data>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingSearchNDACell.nib</key>
+		<data>
+		MRmQJslGd5FCPJhcxcYkLE5nWcw=
 		</data>
 		<key>Frameworks/GFPSDKMediationNDA.framework/GFPSDKMediationNDA</key>
 		<data>
-		FmF4bvJSlCaBDUgq95iL/y5jpHE=
+		0GVvzjq9h5lzAiWittDpUXufVwc=
 		</data>
 		<key>Frameworks/GFPSDKMediationNDA.framework/Info.plist</key>
 		<data>
-		/B/PzoWjqGVMJ5Vg8yy7kOy/irM=
+		bfrQvFqBlZ52v/OLf8VEJdZL9ek=
 		</data>
 		<key>Frameworks/GFPSDKMediationNDA.framework/_CodeSignature/CodeResources</key>
 		<data>
-		qSrgbqYnNUYrQV9bwiFmGKEWsT4=
+		PoMbti/uREE3fZBTLurr7i5FRLY=
 		</data>
+		<key>Frameworks/GFPSDKMediationNDA.framework/de.lproj/GFPNDANativeLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mj28TLEXGgVRSkKEEIJf8ExtFXs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/en.lproj/GFPNDANativeLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -109,7 +130,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TxQZ2k8ox8guORfHZxCLPW2PIyU=
+			F/dwHyOIR/bz/0xZhlVqcnyWRTU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -118,7 +139,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zxed1Lc/M/1/APVQh9qlkECR1T4=
+			DeE/8F1UCZkJSZEL3YnqsCYuQig=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -127,7 +148,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Pb3uKze3k4EuzB4tYOAazQ597M=
+			aWLHUPMayvs61a6QWNg2vd7FmyI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -136,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U3jHA9KWKelD6iSqH0/qPKLzjaM=
+			61FTh4ZAV7ivBMCaPTKnx6LNfNM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -154,7 +175,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UIQYITsVdGQdD3fKmAt9GzbQKiM=
+			31nuiUsa0L6Enj+NBLdCDZDp/5M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -163,7 +184,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y3vS3xnNm5yN8wcLRUwu2fm1Blk=
+			K3MdGAeZE5aaYucXzuShXU2hQzc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -172,7 +193,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1HoRVRN0trW59et8XYdON3goXdI=
+			GLJSaXDwRm9PEXnJ/9nEXnUVb4c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -191,11 +212,11 @@
 		</data>
 		<key>Frameworks/OMSDK_Navercorp.framework/Info.plist</key>
 		<data>
-		udeDZeyRm1uWlh3XrNwV6oO7M9w=
+		3F4MwtjuF06LN4NqAOV20ITjZNc=
 		</data>
 		<key>Frameworks/OMSDK_Navercorp.framework/OMSDK_Navercorp</key>
 		<data>
-		lQGYzGlavUeO1+ihMe8Z+VHYL4U=
+		7XeWL4yxfgp2+Bj+kA9pmLQb4MU=
 		</data>
 		<key>Frameworks/OMSDK_Navercorp.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -203,15 +224,15 @@
 		</data>
 		<key>Frameworks/OMSDK_Navercorp.framework/_CodeSignature/CodeResources</key>
 		<data>
-		oVO+8pZAqpCEe1bgelJepKtMvcg=
+		e9eXGQTo9Xb09twFURPoDlwdIu8=
 		</data>
 		<key>GFPNDAMraidResource.bundle/Info.plist</key>
 		<data>
-		YcWxMQhCbHbJswPMTrjGUA3cKGI=
+		szbImYO5hpfbJ6CzuVBYI/64vH0=
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		DiYaOdscAcNgJx76s6HpOZ5DLm4=
+		Q2qlXAMSWhnG5TTDFvHH4GjSIq4=
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -219,7 +240,7 @@
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		Qkfjvq3XZZtgxHa3zmFzGyCqzFo=
+		earKrWvZ/Fh8Li1cUi5IPB2ApPw=
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -227,7 +248,7 @@
 		</data>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		wncYmpEXW/wo0Fgp1qnbyocGmqM=
+		LSbtHXkoVEWPLmIuOMJncFq8iVg=
 		</data>
 		<key>GFPNDAMraidResource.bundle/mraid.js</key>
 		<data>
@@ -235,7 +256,7 @@
 		</data>
 		<key>GFPNDANativeResource.bundle/Assets.car</key>
 		<data>
-		TkYE70+Zp7hQ4gCzoVbkAEiv/dI=
+		pMqzLZ42qheriKzDEtEATF1DOO4=
 		</data>
 		<key>GFPNDANativeResource.bundle/GFPNDAReasonCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -245,13 +266,17 @@
 		<data>
 		gKbB2K1fr50GuaqsIDc1LUEdRyI=
 		</data>
+		<key>GFPNDANativeResource.bundle/GFPNDASmartChannelFlickingCell.nib</key>
+		<data>
+		BVkogKDMUWFxhKScnFZiCbLXnds=
+		</data>
 		<key>GFPNDANativeResource.bundle/Info.plist</key>
 		<data>
-		vfdsRySST4eH0tYQxg7O+ufkmnU=
+		zv8gLxZXlV6ThtN1WfKavNSZfNk=
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		eVKb4rWpvpURIoLVnDCFp9oiovA=
+		v5i6+Bd1Co5xkR7uRbWPmMzjnxc=
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -259,16 +284,25 @@
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		UbhpWui/NIfywSoU0aOhpkihkJA=
+		MD3dAGKhEi0HkYH4zxEYT7jIbAY=
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		Zvjiuf6o95SLR6Orv8Owq1Smpcw=
+		BG65dyRuNzt5gcgMDXbax99HuxU=
 		</data>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		89jkp2p9p4OylCJ3Ia4A2FtWls4=
+		wbJIcHgJJ9qWx5NCiYIfe4RPRk4=
 		</data>
+		<key>GFPNDANativeResource.bundle/de.lproj/GFPNDANativeLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mj28TLEXGgVRSkKEEIJf8ExtFXs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>GFPNDANativeResource.bundle/en.lproj/GFPNDANativeLocalizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -282,7 +316,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TxQZ2k8ox8guORfHZxCLPW2PIyU=
+			F/dwHyOIR/bz/0xZhlVqcnyWRTU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -291,7 +325,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zxed1Lc/M/1/APVQh9qlkECR1T4=
+			DeE/8F1UCZkJSZEL3YnqsCYuQig=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -300,7 +334,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Pb3uKze3k4EuzB4tYOAazQ597M=
+			aWLHUPMayvs61a6QWNg2vd7FmyI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -309,7 +343,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U3jHA9KWKelD6iSqH0/qPKLzjaM=
+			61FTh4ZAV7ivBMCaPTKnx6LNfNM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -327,7 +361,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UIQYITsVdGQdD3fKmAt9GzbQKiM=
+			31nuiUsa0L6Enj+NBLdCDZDp/5M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -336,7 +370,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y3vS3xnNm5yN8wcLRUwu2fm1Blk=
+			K3MdGAeZE5aaYucXzuShXU2hQzc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -345,18 +379,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1HoRVRN0trW59et8XYdON3goXdI=
+			GLJSaXDwRm9PEXnJ/9nEXnUVb4c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>GFPSDKResource.bundle/Info.plist</key>
 		<data>
-		R8zII5zUyP9enu5EnnIgL46GK4U=
+		8L9665lG8tC4fHD8VBR0CXwbOZY=
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		zfQiyi6XtSb/HZgLdrSjad7U4gQ=
+		gl6T0Gk3kvn33zkpSYZBoQYetLo=
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -364,23 +398,23 @@
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		KvEVEXMf3mlQH+is4bqFZQSpqe4=
+		rk774OpL07KwrsQEQbuu6kcHmeE=
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		EzveUuC7+QW9SqIfNtd0seMGM3Q=
+		cfdqc2dqkY/k7YHc2uLHoFXkO8Y=
 		</data>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		eBv8/c5bH+gJ6W85K1aWQhz7+e4=
+		D1ycAC1QOJtyyehB6Q+aRIUEJKY=
 		</data>
 		<key>GFPSDKResource.bundle/omsdk-v1.js</key>
 		<data>
-		7tJM4K60twtKlup5Di8UBO23EjM=
+		WX9bWVBNl+h/NW1bQTdx+psJVyU=
 		</data>
 		<key>Headers/MediationNAM-Swift.h</key>
 		<data>
-		WbOOPBYs1Ysb+Mqhc2DSV8GxuzY=
+		1SiH2yMa6ymyMgecdZudL3uTRgU=
 		</data>
 		<key>Headers/MediationNAM.h</key>
 		<data>
@@ -388,47 +422,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		HFU4mn1LO4qYtA3PHJ/T1KBm5mk=
+		4I6WIMBEJ+6EDFpF2mxzpn+fl6E=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		oH+8kusnv81bAybesWy2efF98kg=
+		JHGS//NfM+zcQb0/riDBg75GOyM=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iVNYbrVC+vh31rLI7IZAoEbvh+U=
+		hIncSkcpn4O1Lzm5SIU8AcMnr8U=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YwhJaku/ce5QEpQzBIBRf0lKxiw=
+		tDom8uVRPiSRZV1/HcHv26VX1bU=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iVNYbrVC+vh31rLI7IZAoEbvh+U=
+		hIncSkcpn4O1Lzm5SIU8AcMnr8U=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3bl2jIf70GNdj78I5a5ykuTcbmw=
+		X8oQxpttClLZMeN2PIh7E9M7Q6E=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		oH+8kusnv81bAybesWy2efF98kg=
+		JHGS//NfM+zcQb0/riDBg75GOyM=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		z+7jikECNEMmLY3N62GWnBG6Ffs=
+		P9YYPe8HU6Dz6XpnoEgMr0Px4q8=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		hXjs3WbxkCCzbN0sQhR5TKcbjFY=
+		S21fDW14olsKSQ6/r61dE+g/5xE=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		z+7jikECNEMmLY3N62GWnBG6Ffs=
+		P9YYPe8HU6Dz6XpnoEgMr0Px4q8=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9+gE9IWOd23vDGqTh5vc05zu7BE=
+		ur94KYBH4L8BNKaHZj7fkRtC8dw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -436,7 +470,7 @@
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
-		APu0tE0ESwgroMdRvF0g28z+32g=
+		qyGSBi8ynq9JV9zQFuAbtXc70jw=
 		</data>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -449,21 +483,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mk2O4AWf3Ar7BQ+cM/6sCRAEhH/YwDtKpwAiCdatqw0=
+			GtQO1ml5Re1UAEYMrwdU7ev2jnCVS4TqwXJcP4iEwg4=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oYXCN16aEM8juZWoQJ1KzUKRhlWTi/W+bZ/0W1QctuA=
+			eQAhKtcf+19WRa3rDmKGgAuJVyzK85lshyOfXFAQEdE=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OZqsdVazWAbcHG9wEGwAvaZ98Z3T6aXSDxTbhFT5J+E=
+			J00lOyxffGWfVrFz15LKG6SJniNoWxOTQhbqPWq6Fig=
 			</data>
 		</dict>
 		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
@@ -540,14 +574,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEF0HPCEDaGIMIYGbSI1fROSawt6S/y83Xo1d+LZhAE=
+			J7ex+bFuWF+Rwrr+CIMVokYOxb9jYCoCpd0BgN7e4oQ=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K8XHvG+RlJ1BOaEk0TpI1bKJ9GgEOt8bTwqCXo+PEos=
+			BLwnoLgbDDIBRuiYBN0nVH1zp6Us3XdOP971W2N6bvs=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDK.framework/PrivacyInfo.xcprivacy</key>
@@ -561,50 +595,80 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSjr10q2pkVKxtUdFp2Ze8OMdHaHP3+A8aD2BbhpsLI=
+			XDIEdZwXQm8Hatn9Fc8ol3Lhetg1EY6uztuXEej4ggI=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nG2/5XhgsCgdM0W+95FOQGQuz+1JfXiKA/XwTW5YBj8=
+			i8ZuXj0Fd9CLfOLguQlY0v6ugOi9Zf5rylUrcyjPMC4=
 			</data>
 		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			V/iSJLSXoFXCojx9NKr2FT9AzyM4AIMqMlztYTyoFhs=
 			</data>
 		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib/runtime.nib</key>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X1Cell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TvWQFJx2tBtK6GF1N8D5zJiv5hKUxoNx+RqLQu38Q8Y=
+			4jpeA5Xmi6muO8lzz+KU+pP4cX4Hu/SiXdQKZFQvFX8=
+			</data>
+		</dict>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X3Cell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4e10cR0XA5NMjofADa7Agf+zl1I0qrmYOLpeaXcLO8o=
+			</data>
+		</dict>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDACell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d4rdzOh2nCh57mAdW6GXyn1uvFXSNV8RxWYLudWGWds=
+			</data>
+		</dict>
+		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingSearchNDACell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w1u3OZ401ENyF0J1fBz3l6BZLLexdavO/0LRJukTmG8=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/GFPSDKMediationNDA</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IlGSZ/sVHvAKjLQT7UucO2mpGEkQ36ggiCLwLzRGHQI=
+			CCtKmSwtWvM4G9DpP3MMr4rwQA55Gi01I6xu04BpbtY=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GeHnVTm7Dsohv3aTBAhqmAj6MsUKlWPRTTfrApYp6RY=
+			IO2n7Kf9AFTIJ2hh2kMGWQArykLLqaqlLTOGoj1zE94=
 			</data>
 		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b2PMLa3ecrOkw7ZpbBfx6w+XQS3UJM16jNvwsME41vQ=
+			Oi0qk0DO8rzY+urMsaWmyd01zmK6afzfb6CAnPHA3wo=
 			</data>
+		</dict>
+		<key>Frameworks/GFPSDKMediationNDA.framework/de.lproj/GFPNDANativeLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iEZMHSGCqwi+rtd93eRZpZHSmtcK2fUqDxqieDQU3qY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Frameworks/GFPSDKMediationNDA.framework/en.lproj/GFPNDANativeLocalizable.strings</key>
 		<dict>
@@ -619,7 +683,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aBJhhJe4SmrF6ThawSUpyHtmwnLUp+ot1Ce98EePsms=
+			HrlrvCGpyrnWKlh5gSc62m8xNHfG2AtJjYJ2FEbnkuI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -628,7 +692,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5bs1j3M25CuB5CkM69iSuRZA6jfMy74H5EH9KVbO2Sc=
+			emNbGuUp6wtA8QmFlJwLhTLp0qfVRZfSpV9jvr5YZbs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -637,7 +701,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oJj9nch32KbaXdyogiJkNK1YgPretaIsOX6LT8W5AsA=
+			YRk7XXe69T4VX4sHqgCo9BWZC5MNlx9tRnLvCM/QXB0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -646,7 +710,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vd0B9fDHcOl/ZRpBzV6cS/vgiwOdwwWgvj82cPdbqJk=
+			U0tpVGqBhs9n+JaI5ZBA17T5AKI+IAR7IA847YEtQts=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -664,7 +728,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w2s1KutCjyXIMeq4u3oBMVM7A8QfD7Je8LIkNH+ffwg=
+			YGhazRSBngk//znOFmH2auouGK2Q4n37ut+HFXI18Tk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -673,7 +737,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHXzh71uii4962ZJIRSn70YuxqWKniURXTbDj7Uztzo=
+			vhWQB9b+6TKqzmYeBByj5D6ksN2UNOqkYb20FpSHpv4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -682,7 +746,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uqb8+ED9Osh7vgJdJ6Gz/UrMhpBcg8Iy7UtWCjaEQYg=
+			JpoyTCukBUcvnW9JVMzNtpUxTacw7W+nKEhLYrbDFo4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -712,14 +776,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F0qvq3WPqtKff/6RtwWzcyFTz6b0KxtPygImB9SOPsg=
+			1USmBeBy6uS89g95bSH9ndDCZbZyEEkOhpdgXfptsKg=
 			</data>
 		</dict>
 		<key>Frameworks/OMSDK_Navercorp.framework/OMSDK_Navercorp</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fsuvc9EoY01e+LLx+BUtPLMDr5I7Fz+WSFPj9BWvm9s=
+			+5Tvab5RF3Gw0OwPtbABYOvPWydEwGPNoESFDsK3Nhg=
 			</data>
 		</dict>
 		<key>Frameworks/OMSDK_Navercorp.framework/PrivacyInfo.xcprivacy</key>
@@ -733,21 +797,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yUXm1zIgQQjjpNNr0IScSly3DNERRP8AevNWZnuWvFo=
+			3Ek7XnLwmM0OxbXSw4R1SZyMy9sgfvkCFRsZjS+B8jQ=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a2ULvrZnbiShc/mQ2KMh8jcnZKaoOr9kLZhDMcDLKro=
+			07JmMIGyLLT0LMz+7hyH5r6ADf/vrJ6ze7OCwiV8jOY=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wUHPys8seqWg5zBuNM5L7u1Mwi/mI/0OlWQP7VgWKLw=
+			zxbcphZtfybXfm/5BthVW4Lo89kKHyLZgk2m5noCkT0=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeRequirements</key>
@@ -761,7 +825,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RvmGz79PBEgfeawE5hP29mzm8IwnDAVOSMTnEXIYZOk=
+			OumMEkyCbFexCO0ii9lM15JjZ/NEH4DbFsoVX+zY3N4=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/_CodeSignature/CodeResources</key>
@@ -775,7 +839,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+BVMeXTcByjhsMe6W/CfW9DycO6zif1vCr/QWJ8qbs=
+			dNvZkP969scSTlv7DQ2Lw53IT+TXtvqBquuklmEa8HU=
 			</data>
 		</dict>
 		<key>GFPNDAMraidResource.bundle/mraid.js</key>
@@ -789,7 +853,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nG2/5XhgsCgdM0W+95FOQGQuz+1JfXiKA/XwTW5YBj8=
+			cpLotqf6eIb2yq/n2p4IyaywblYmvxIewpwlw92jod0=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/GFPNDAReasonCollectionViewCell.nib/objects-12.3+.nib</key>
@@ -806,18 +870,25 @@
 			TvWQFJx2tBtK6GF1N8D5zJiv5hKUxoNx+RqLQu38Q8Y=
 			</data>
 		</dict>
+		<key>GFPNDANativeResource.bundle/GFPNDASmartChannelFlickingCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rq+HgqGNlUOylPaEuVwwl/MlZ5LuiJ0IxJcNcZbR1cc=
+			</data>
+		</dict>
 		<key>GFPNDANativeResource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/4u/9UwiB5vf7h4tj+ienKtjtGFNibVqIL+TMCrjCYQ=
+			n25siMg/GG7hc5xwaGUonohemq6Iw0E477AZl67Ps+w=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d6v0gzhohsD+vKV6L+tYorsmFv9Q0hfi6khwFuxxK7I=
+			M3lcw8actWjBJxQtU4d9peXorToIIX001FWbRU3WPyQ=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeRequirements</key>
@@ -831,22 +902,31 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mIwjYJqbbkCgZNHvra35/6J4WU6RptaUobZWCHxLZtU=
+			cRDGmYLpP04GSnBJkdEnrdwg1Ie6dLwxILTyxmMYsWo=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x7yiozpNM4Xz70j++d6oEjt8VnXbsfQvhYciKLJx3Os=
+			hnC06hVdC4GkNs0emqocLeCkf6REuMEYv3Fs5vxWi9Q=
 			</data>
 		</dict>
 		<key>GFPNDANativeResource.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8U1sthBFlnUMm7+d43t8dD3EYYWbYXgvqq82ESUlWI=
+			oZj0krZjrfriUCUNHSG1RfxYohCXJgvtE7gRflp/lh4=
 			</data>
+		</dict>
+		<key>GFPNDANativeResource.bundle/de.lproj/GFPNDANativeLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iEZMHSGCqwi+rtd93eRZpZHSmtcK2fUqDxqieDQU3qY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>GFPNDANativeResource.bundle/en.lproj/GFPNDANativeLocalizable.strings</key>
 		<dict>
@@ -861,7 +941,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aBJhhJe4SmrF6ThawSUpyHtmwnLUp+ot1Ce98EePsms=
+			HrlrvCGpyrnWKlh5gSc62m8xNHfG2AtJjYJ2FEbnkuI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -870,7 +950,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5bs1j3M25CuB5CkM69iSuRZA6jfMy74H5EH9KVbO2Sc=
+			emNbGuUp6wtA8QmFlJwLhTLp0qfVRZfSpV9jvr5YZbs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -879,7 +959,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oJj9nch32KbaXdyogiJkNK1YgPretaIsOX6LT8W5AsA=
+			YRk7XXe69T4VX4sHqgCo9BWZC5MNlx9tRnLvCM/QXB0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -888,7 +968,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vd0B9fDHcOl/ZRpBzV6cS/vgiwOdwwWgvj82cPdbqJk=
+			U0tpVGqBhs9n+JaI5ZBA17T5AKI+IAR7IA847YEtQts=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -906,7 +986,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w2s1KutCjyXIMeq4u3oBMVM7A8QfD7Je8LIkNH+ffwg=
+			YGhazRSBngk//znOFmH2auouGK2Q4n37ut+HFXI18Tk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -915,7 +995,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UHXzh71uii4962ZJIRSn70YuxqWKniURXTbDj7Uztzo=
+			vhWQB9b+6TKqzmYeBByj5D6ksN2UNOqkYb20FpSHpv4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -924,7 +1004,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uqb8+ED9Osh7vgJdJ6Gz/UrMhpBcg8Iy7UtWCjaEQYg=
+			JpoyTCukBUcvnW9JVMzNtpUxTacw7W+nKEhLYrbDFo4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -933,14 +1013,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5irxmIMK8/bYjy12n2LTcImQt+u/ifiDh6jNL1Uxv9Q=
+			zB0pJGtlDTXcSUWQLH58TjjchTjLbOUoouKHt0Yn5bo=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zRCE549fRFK6RL+AmUmTog62zEhtqE9NftvN+ySD/B0=
+			w+XtMNm6ts4uYhdeBSICY6pUvZE6uqHiA8A8pVNBrmE=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeRequirements</key>
@@ -954,35 +1034,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTKHPo7t3XNL1cd4om+ffo0uyzlc40cSDYGlVsraK1g=
+			HxbfY63mOkJYQai3R5FyLD1aVEBnHIneU/SkdP9LK44=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/t781eRF/DL0vdKIQ9J555paGrHy40cdvULA9ErTN4E=
+			YDhzI4qRixy32lm+BsG1GiyE3mGmkFzePFLn2tZsn5o=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/_CodeSignature/CodeSignature</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mq3tRVVdeazr8eZYk+7HCg2uS+QVLvCABWMZAwoUXSw=
+			zJNa+Qer5CBqztoRyHYUBzurgZZC2Gugo2jtLIeX6s4=
 			</data>
 		</dict>
 		<key>GFPSDKResource.bundle/omsdk-v1.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7w0/bxAkOVh8L41FdbI/Tnjur3nVz/5iVO3moTlQ4UM=
+			Hlaaa4S6qm4V7fKq/DHH3FhORcQgKZ+hqniOO4ptmHc=
 			</data>
 		</dict>
 		<key>Headers/MediationNAM-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nvmf8Yfl5chfQynJ4klBVHeve64PJT+oqBc+XNOhZ7Q=
+			NXL2MW5UjA8seVG3zlmh759srCVE3/p7A9kcd50BY2A=
 			</data>
 		</dict>
 		<key>Headers/MediationNAM.h</key>
@@ -996,70 +1076,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqklM1fg3iG/AEDqkINxSt1Ay9unr3OF68pp1StlQwY=
+			WsD7zPg2sP2ndxOJs9dG467iz7K/C3fniBsUnOhW0To=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OrDC/HJQMkZcI+klPzF48Jr+MEldHODZshGNP7zYh/A=
+			+CdBNB4Qqj2nzLFkZJqWWvYGmbWQ+NB2IGAetDPTbvM=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1hcLlduj532m535kJZNj2AE4J+gO1OnBxc1NIB7We08=
+			hSHyxl1alAQO12Y4GZ3+oaK75dDYyDAGwm30jkf8AR8=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OrDC/HJQMkZcI+klPzF48Jr+MEldHODZshGNP7zYh/A=
+			+CdBNB4Qqj2nzLFkZJqWWvYGmbWQ+NB2IGAetDPTbvM=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RlFvXrbp+AOehv3VLVaTqOO+51jz9P5zVsgQ1AgFcuo=
+			A/QrRnBLHARvYaEMuS2I7BIlFgYZQgJhDrCyB4zXgvg=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wqklM1fg3iG/AEDqkINxSt1Ay9unr3OF68pp1StlQwY=
+			WsD7zPg2sP2ndxOJs9dG467iz7K/C3fniBsUnOhW0To=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/99ftJtCYrP3mrOLGwHsN0P+CVQ8e1DjPWM9K4LYnwc=
+			1dHvSRWDD8neJl7AuQ/3Pv922cXSzpabgVdcEP283lc=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uxtMAVtCuL7+otr6oasfvpI1EbVp1aYDGK56mdAfY8I=
+			Ud7BUcTjNYo2nqvSB8iP1at82dJiq67bI0BSahKqVhg=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/99ftJtCYrP3mrOLGwHsN0P+CVQ8e1DjPWM9K4LYnwc=
+			1dHvSRWDD8neJl7AuQ/3Pv922cXSzpabgVdcEP283lc=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kgQjGRW1fAqZZ6sb1xW8YCYvo41wL8aXdpRU4O6YAAU=
+			HEnSAHEOLCCrfBaiZasBe90BC5mw6P2SLtAX7CdQtns=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1073,7 +1153,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HpLNpfKQZYA+1xmjLjOuLvgZloKXzeGnLyzdVSOCuwg=
+			qyQxBsuroEkmVaVT/qdKnZTtRwmMIBsUYykX/f+Rq3E=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>

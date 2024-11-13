@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "MediationNAM",
+    "printedName": "MediationNAM",
     "children": [
       {
         "kind": "Import",
@@ -617,6 +617,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "InterstitialAdapterProtocol",
             "printedName": "InterstitialAdapterProtocol",
             "usr": "s:16AdPopcornSSP_SDK27InterstitialAdapterProtocolP",
@@ -1188,6 +1202,20 @@
           "Final"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "BannerAdapterProtocol",
@@ -1874,6 +1902,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "NativeAdapterProtocol",
             "printedName": "NativeAdapterProtocol",
             "usr": "s:16AdPopcornSSP_SDK21NativeAdapterProtocolP",
@@ -2520,6 +2562,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RewardVideoAdapterProtocol",
             "printedName": "RewardVideoAdapterProtocol",
             "usr": "s:16AdPopcornSSP_SDK26RewardVideoAdapterProtocolP",
@@ -2658,6 +2714,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "InitializationProtocol",
@@ -3277,6 +3347,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "InterstitialVideoAdapterProtocol",
             "printedName": "InterstitialVideoAdapterProtocol",
             "usr": "s:16AdPopcornSSP_SDK32InterstitialVideoAdapterProtocolP",
@@ -3482,6 +3566,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3715,7 +3813,23 @@
           "Final"
         ],
         "isExternal": true,
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -3744,6 +3858,7 @@
             "mangledName": "$s16AdPopcornSSP_SDK0ab6NativeA0C12MediationNAME15bindNAMRenderer10renderableyAD014APSSPNAMNativeA10RenderableC_tF",
             "moduleName": "MediationNAM",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -3757,6 +3872,7 @@
         "mangledName": "$s16AdPopcornSSP_SDK0ab6NativeA0C",
         "moduleName": "AdPopcornSSP_SDK",
         "declAttributes": [
+          "Preconcurrency",
           "Final",
           "ObjC",
           "Custom"
@@ -3772,10 +3888,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "NativeViewAdapterDelegate",
-            "printedName": "NativeViewAdapterDelegate",
-            "usr": "s:16AdPopcornSSP_SDK25NativeViewAdapterDelegateP",
-            "mangledName": "$s16AdPopcornSSP_SDK25NativeViewAdapterDelegateP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -3839,47 +3962,18 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "NativeViewAdapterDelegate",
+            "printedName": "NativeViewAdapterDelegate",
+            "usr": "s:16AdPopcornSSP_SDK25NativeViewAdapterDelegateP",
+            "mangledName": "$s16AdPopcornSSP_SDK25NativeViewAdapterDelegateP"
           }
         ]
       }
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/AdPopcornSSP-SDK\/MediationNAM\/RewardVIdeo\/NAMMediationRewardVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 171,
-      "length": 25,
-      "value": "\"MediationNAM.NAMMediationRewardVideoAd\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/AdPopcornSSP-SDK\/MediationNAM\/InterstitialVideo\/NAMMediationInterstitialVideoAd.swift",
-      "kind": "StringLiteral",
-      "offset": 177,
-      "length": 31,
-      "value": "\"MediationNAM.NAMMediationInterstitialVideoAd\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/AdPopcornSSP-SDK\/MediationNAM\/Native\/NAMMediationNativeAdView.swift",
-      "kind": "StringLiteral",
-      "offset": 294,
-      "length": 24,
-      "value": "\"MediationNAM.NAMMediationNativeAdView\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/AdPopcornSSP-SDK\/MediationNAM\/Interstitial\/NAMMediationInterstitialAd.swift",
-      "kind": "StringLiteral",
-      "offset": 172,
-      "length": 26,
-      "value": "\"MediationNAM.NAMMediationInterstitialAd\""
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/ap-ssp-iOS-sdk\/AdPopcornSSP-SDK\/MediationNAM\/Banner\/NAMMediationBannerView.swift",
-      "kind": "StringLiteral",
-      "offset": 168,
-      "length": 22,
-      "value": "\"MediationNAM.NAMMediationBannerView\""
-    }
-  ]
+  "ConstValues": []
 }

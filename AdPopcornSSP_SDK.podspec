@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "AdPopcornSSP_SDK"
-    s.version      = "0.0.10"
+    s.version      = "0.0.11"
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -102,13 +102,13 @@ Pod::Spec.new do |s|
     
     
     # 8. KissXML iOS 8.0 Target error
-#    s.subspec 'MediationNAM' do |nam|
-#    nam.ios.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
-#    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
-#    nam.dependency 'NAMSDK', '7.5.3'
-#    nam.dependency 'NAMSDK/MediationNDA', '7.5.3'
-#    nam.ios.deployment_target = '13.0'
-#    end
+    s.subspec 'MediationNAM' do |nam|
+    nam.ios.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
+    nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
+    nam.dependency 'NAMSDK', '7.10.2'
+    nam.dependency 'NAMSDK/MediationNDA', '7.10.2'
+    nam.ios.deployment_target = '13.0'
+    end
     
     
     # 4. podspec 설치 관련 error
