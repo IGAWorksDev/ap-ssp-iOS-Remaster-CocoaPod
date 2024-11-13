@@ -108,7 +108,7 @@ Pod::Spec.new do |s|
     nam.dependency 'NAMSDK', '7.10.2'
     nam.dependency 'NAMSDK/MediationNDA', '7.10.2'
     nam.dependency 'KissXML', '5.3.1'
-    nam.ios.deployment_target = '13.0'
+    nam.ios.deployment_target = '12.0'
     end
     
     
