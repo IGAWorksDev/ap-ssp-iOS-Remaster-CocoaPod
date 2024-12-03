@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.ios.deployment_target = "13.0"
     s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
     
-    s.default_subspecs = "AdPopcornSSP"
+    
     s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/AdPopcornSSP_SDK.xcframework"
 
 
