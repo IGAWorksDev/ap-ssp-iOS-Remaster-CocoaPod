@@ -2,7 +2,7 @@
 //  MediationNAM.h
 //  MediationNAM
 //
-//  Created by Odin.송황호 on 5/23/24.
+//  Created by Odin.송황호 on 12/2/24.
 //
 
 #import <Foundation/Foundation.h>
