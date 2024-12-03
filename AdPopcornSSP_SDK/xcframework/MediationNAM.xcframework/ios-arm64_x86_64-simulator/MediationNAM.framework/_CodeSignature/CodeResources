@@ -4,228 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
-		<data>
-		sNI85bi07WVH2fzSJBvBhKjUdf4=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
-		<data>
-		TVfUjEkCxbbADQzz1wUxCNc+dc0=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		MyVMf5Qp+X5yAw5kK7wE9me9vVw=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
-		<data>
-		Q5GFmluE8intPUBWydskg6FX3dc=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_B.json</key>
-		<data>
-		iF0UW40GD47nDjrIOGIhcs1t+tE=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_A.json</key>
-		<data>
-		bfiCTHaUfJZwyPVpAZxKiVgllpU=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_B.json</key>
-		<data>
-		e4w/q0YC+hes/e8PGXyU3Ujyh1U=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_C.json</key>
-		<data>
-		iH638eyVPPMYwn9D18Rs4zSimbg=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x50_A.json</key>
-		<data>
-		s9isWu9mKiVeWZUrgJ/j7HLpI0Y=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_A.json</key>
-		<data>
-		WHMAB1/pK8sm4AI7SxuUCZlXcv4=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_B.json</key>
-		<data>
-		QXIq/yrLDAgN+eYuAHVgF5tjkNg=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_A.json</key>
-		<data>
-		IEPljdQuOwprRxckY1xqr199uhA=
-		</data>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_B.json</key>
-		<data>
-		F9l7QXh+P1m3BP8SI8Sva75ajxw=
-		</data>
-		<key>Frameworks/GFPSDK.framework/GFPSDK</key>
-		<data>
-		lerxVSCj7yHVCS0PZFlDbiISJvI=
-		</data>
-		<key>Frameworks/GFPSDK.framework/Info.plist</key>
-		<data>
-		47x1Mt95PBTkW2t9ZCuvpvFsroE=
-		</data>
-		<key>Frameworks/GFPSDK.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		jR5kks/wyXPVXeOvTLbLYPKn2g0=
-		</data>
-		<key>Frameworks/GFPSDK.framework/_CodeSignature/CodeResources</key>
-		<data>
-		iib9eO9Gh2V6jSw3/TRFzu9FFtw=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/Assets.car</key>
-		<data>
-		8f+xuwxdp0cpmU2BEbM9t7nxblw=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib</key>
-		<data>
-		sOOhxv4n1hphAoRpLcI4yrweP7w=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X1Cell.nib</key>
-		<data>
-		s+cbIT4mUVVASkZ3yVK1TCrTBdo=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X3Cell.nib</key>
-		<data>
-		zvcTFRItQkcuymiNxlhQ4F6HgOU=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDACell.nib</key>
-		<data>
-		PmEiYCAfH1N/OIZcc8EsD2RrvOg=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingSearchNDACell.nib</key>
-		<data>
-		MRmQJslGd5FCPJhcxcYkLE5nWcw=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPSDKMediationNDA</key>
-		<data>
-		0GVvzjq9h5lzAiWittDpUXufVwc=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/Info.plist</key>
-		<data>
-		bfrQvFqBlZ52v/OLf8VEJdZL9ek=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/_CodeSignature/CodeResources</key>
-		<data>
-		PoMbti/uREE3fZBTLurr7i5FRLY=
-		</data>
-		<key>Frameworks/GFPSDKMediationNDA.framework/de.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Mj28TLEXGgVRSkKEEIJf8ExtFXs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/en.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EAzCUwnZANRNZeGblZlDorswrBE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/es.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			F/dwHyOIR/bz/0xZhlVqcnyWRTU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/fr.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DeE/8F1UCZkJSZEL3YnqsCYuQig=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/id.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aWLHUPMayvs61a6QWNg2vd7FmyI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/ja.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			61FTh4ZAV7ivBMCaPTKnx6LNfNM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/ko.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+jZHuyIPIG7EY8kOW7/ZHR8P6nE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/th.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			31nuiUsa0L6Enj+NBLdCDZDp/5M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/zh-Hans.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K3MdGAeZE5aaYucXzuShXU2hQzc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/zh-Hant.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GLJSaXDwRm9PEXnJ/9nEXnUVb4c=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/NaverAdsServices.framework/Info.plist</key>
-		<data>
-		UxeDInKX7F4iw56mPXCkOkgAFto=
-		</data>
-		<key>Frameworks/NaverAdsServices.framework/NaverAdsServices</key>
-		<data>
-		uqdmBHiZebWPKVWJ7bfhhTh8tgE=
-		</data>
-		<key>Frameworks/NaverAdsServices.framework/_CodeSignature/CodeResources</key>
-		<data>
-		4KXJnAwU2GyzPAcd0OqZm56pPvY=
-		</data>
-		<key>Frameworks/OMSDK_Navercorp.framework/Info.plist</key>
-		<data>
-		3F4MwtjuF06LN4NqAOV20ITjZNc=
-		</data>
-		<key>Frameworks/OMSDK_Navercorp.framework/OMSDK_Navercorp</key>
-		<data>
-		7XeWL4yxfgp2+Bj+kA9pmLQb4MU=
-		</data>
-		<key>Frameworks/OMSDK_Navercorp.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		7BgfS40JHW2Znl7afTrGvxB58Ws=
-		</data>
-		<key>Frameworks/OMSDK_Navercorp.framework/_CodeSignature/CodeResources</key>
-		<data>
-		e9eXGQTo9Xb09twFURPoDlwdIu8=
-		</data>
 		<key>GFPNDAMraidResource.bundle/Info.plist</key>
 		<data>
 		szbImYO5hpfbJ6CzuVBYI/64vH0=
@@ -412,13 +190,9 @@
 		<data>
 		WX9bWVBNl+h/NW1bQTdx+psJVyU=
 		</data>
-		<key>Headers/MediationNAM-Swift.h</key>
-		<data>
-		1SiH2yMa6ymyMgecdZudL3uTRgU=
-		</data>
 		<key>Headers/MediationNAM.h</key>
 		<data>
-		wC8Np6+p13fcYqtWK1rwtNCjEH4=
+		1UbAl8S+D7UfkzXc5W+nyvltivA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -426,11 +200,11 @@
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JHGS//NfM+zcQb0/riDBg75GOyM=
+		NVinobkdUsNaO+OCSzr+hxfm2PE=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hIncSkcpn4O1Lzm5SIU8AcMnr8U=
+		6Uw4LgMxOxqm0b/nuWWkzU+IaRw=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -438,19 +212,19 @@
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hIncSkcpn4O1Lzm5SIU8AcMnr8U=
+		6Uw4LgMxOxqm0b/nuWWkzU+IaRw=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		X8oQxpttClLZMeN2PIh7E9M7Q6E=
+		Rxn4PMgiIz+MmLBolh8me/pkfcY=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JHGS//NfM+zcQb0/riDBg75GOyM=
+		NVinobkdUsNaO+OCSzr+hxfm2PE=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P9YYPe8HU6Dz6XpnoEgMr0Px4q8=
+		qPT+aceKMuYXWgeUuDp80mK1Z+I=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -458,15 +232,15 @@
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P9YYPe8HU6Dz6XpnoEgMr0Px4q8=
+		qPT+aceKMuYXWgeUuDp80mK1Z+I=
 		</data>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ur94KYBH4L8BNKaHZj7fkRtC8dw=
+		UfvvpNZYV6qxm6wcxzdOkn8w2/o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		y8geTwkr77R0cDEHD9Mf2Rs8Vbk=
+		tiE7Nd+pnkLvb2tVKE/edG0cdqc=
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
@@ -479,327 +253,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GtQO1ml5Re1UAEYMrwdU7ev2jnCVS4TqwXJcP4iEwg4=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eQAhKtcf+19WRa3rDmKGgAuJVyzK85lshyOfXFAQEdE=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J00lOyxffGWfVrFz15LKG6SJniNoWxOTQhbqPWq6Fig=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_A.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VV5u79BJVXXYnXiUGoUsaogSaEJbkT3ubd49/8923eU=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_300x250_B.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e5hOzM/PCcaHaNVDHpkOZYMC1dF+a/chbtXgJcqvWHM=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_A.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iPXAJZ2yTru7SUOHhFNXDL3/91n0GnFmWXor90uy63Q=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_B.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EEWT0n74+cXnT2k64FnoU30PVi5hedQD/iowMNnUf6c=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x100_C.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Sb2g9d2PzCfV8VBT4Lv0FXpYKRSwLn6y6Z4R5CNENtc=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/banner_native_320x50_A.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uhT847Ipqy/myr2K5wnmqGxWgiRFdR3J9g+u607OYuQ=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_A.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m5MXqyxXQq9HxhAbtWgciT5lIHFgsqwwbTLD0mpGBCw=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/companion_native_324x58_B.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T1/yxJpMqtzR1Cw7GMh0cKUOCZDrheyk3EhIgq6f6bs=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_A.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bIzLJRmers6XKdUlikDYinpTWOjY491O4AoVBNojSok=
-			</data>
-		</dict>
-		<key>Frameworks/AdPopcornSSP_SDK.framework/interstitial_native_320x480_B.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			N1TT409jTmh99Ug5fsMVXgXkvkbqpID9menaoyKbEoc=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDK.framework/GFPSDK</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J7ex+bFuWF+Rwrr+CIMVokYOxb9jYCoCpd0BgN7e4oQ=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDK.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BLwnoLgbDDIBRuiYBN0nVH1zp6Us3XdOP971W2N6bvs=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDK.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gOOIgdv7OxZfnvNc+kOyjqwA1bGAWKEnWIwpQZOEHJ8=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDK.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XDIEdZwXQm8Hatn9Fc8ol3Lhetg1EY6uztuXEej4ggI=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			i8ZuXj0Fd9CLfOLguQlY0v6ugOi9Zf5rylUrcyjPMC4=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAReasonCollectionViewCell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			V/iSJLSXoFXCojx9NKr2FT9AzyM4AIMqMlztYTyoFhs=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X1Cell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4jpeA5Xmi6muO8lzz+KU+pP4cX4Hu/SiXdQKZFQvFX8=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDA1X3Cell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4e10cR0XA5NMjofADa7Agf+zl1I0qrmYOLpeaXcLO8o=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingNDACell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			d4rdzOh2nCh57mAdW6GXyn1uvFXSNV8RxWYLudWGWds=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPNDAShoppingSearchNDACell.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			w1u3OZ401ENyF0J1fBz3l6BZLLexdavO/0LRJukTmG8=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/GFPSDKMediationNDA</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CCtKmSwtWvM4G9DpP3MMr4rwQA55Gi01I6xu04BpbtY=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IO2n7Kf9AFTIJ2hh2kMGWQArykLLqaqlLTOGoj1zE94=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Oi0qk0DO8rzY+urMsaWmyd01zmK6afzfb6CAnPHA3wo=
-			</data>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/de.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iEZMHSGCqwi+rtd93eRZpZHSmtcK2fUqDxqieDQU3qY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/en.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CrxOlIDzwMV5cK6CGfNYbuMgiHSdesSC1xzl94zGDiI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/es.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HrlrvCGpyrnWKlh5gSc62m8xNHfG2AtJjYJ2FEbnkuI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/fr.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			emNbGuUp6wtA8QmFlJwLhTLp0qfVRZfSpV9jvr5YZbs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/id.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YRk7XXe69T4VX4sHqgCo9BWZC5MNlx9tRnLvCM/QXB0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/ja.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U0tpVGqBhs9n+JaI5ZBA17T5AKI+IAR7IA847YEtQts=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/ko.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GlHWfFGJ89mTNjPOcmeL+m0C7k3cFnPxj1PUQxoeFlY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/th.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YGhazRSBngk//znOFmH2auouGK2Q4n37ut+HFXI18Tk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/zh-Hans.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vhWQB9b+6TKqzmYeBByj5D6ksN2UNOqkYb20FpSHpv4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/GFPSDKMediationNDA.framework/zh-Hant.lproj/GFPNDANativeLocalizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JpoyTCukBUcvnW9JVMzNtpUxTacw7W+nKEhLYrbDFo4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/NaverAdsServices.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2k72bPjeDMy2Cbo4CEmBVJFTHEqQPcYec/tZ/ohuW20=
-			</data>
-		</dict>
-		<key>Frameworks/NaverAdsServices.framework/NaverAdsServices</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sbFf7sdN2jmrN4KGlmXCTyivnNWb0dmcBy2ZsfoTbhU=
-			</data>
-		</dict>
-		<key>Frameworks/NaverAdsServices.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SkUUsn0j2XomvMRzjpHqQ5sZ+rUK3ZecM9Mc8UqMgek=
-			</data>
-		</dict>
-		<key>Frameworks/OMSDK_Navercorp.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1USmBeBy6uS89g95bSH9ndDCZbZyEEkOhpdgXfptsKg=
-			</data>
-		</dict>
-		<key>Frameworks/OMSDK_Navercorp.framework/OMSDK_Navercorp</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+5Tvab5RF3Gw0OwPtbABYOvPWydEwGPNoESFDsK3Nhg=
-			</data>
-		</dict>
-		<key>Frameworks/OMSDK_Navercorp.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5rdpDTW6MDoz1u2y0rCJB5ensp/KZWPv7EAq4o8GtfM=
-			</data>
-		</dict>
-		<key>Frameworks/OMSDK_Navercorp.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3Ek7XnLwmM0OxbXSw4R1SZyMy9sgfvkCFRsZjS+B8jQ=
-			</data>
-		</dict>
 		<key>GFPNDAMraidResource.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1058,32 +511,25 @@
 			Hlaaa4S6qm4V7fKq/DHH3FhORcQgKZ+hqniOO4ptmHc=
 			</data>
 		</dict>
-		<key>Headers/MediationNAM-Swift.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NXL2MW5UjA8seVG3zlmh759srCVE3/p7A9kcd50BY2A=
-			</data>
-		</dict>
 		<key>Headers/MediationNAM.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q1B6Qtw+ZjofNLxX/nZ9Gb+Bv+MFT+cjqT4JumCFtdQ=
+			lrbicQddu/z3gCHFbCnAWC1rwNMxfDQwJgkvxPrSR5I=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WsD7zPg2sP2ndxOJs9dG467iz7K/C3fniBsUnOhW0To=
+			3u0PrpQkswHcMB6/OVfVw80aA6uAJydnx/wQesfVuYU=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+CdBNB4Qqj2nzLFkZJqWWvYGmbWQ+NB2IGAetDPTbvM=
+			dI8w/61cozqT/z6OpHVDdy88/DUNupEfF4NjGNEDui4=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1097,28 +543,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+CdBNB4Qqj2nzLFkZJqWWvYGmbWQ+NB2IGAetDPTbvM=
+			dI8w/61cozqT/z6OpHVDdy88/DUNupEfF4NjGNEDui4=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A/QrRnBLHARvYaEMuS2I7BIlFgYZQgJhDrCyB4zXgvg=
+			ebl6XndecHigW/MM23q1IqrkuRinUX09zvNeVvr5T90=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WsD7zPg2sP2ndxOJs9dG467iz7K/C3fniBsUnOhW0To=
+			3u0PrpQkswHcMB6/OVfVw80aA6uAJydnx/wQesfVuYU=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dHvSRWDD8neJl7AuQ/3Pv922cXSzpabgVdcEP283lc=
+			RHWtnRsRa0kfeC+u/9pirK7uqYPa4ROSh5b9xApd1lo=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1132,21 +578,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dHvSRWDD8neJl7AuQ/3Pv922cXSzpabgVdcEP283lc=
+			RHWtnRsRa0kfeC+u/9pirK7uqYPa4ROSh5b9xApd1lo=
 			</data>
 		</dict>
 		<key>Modules/MediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HEnSAHEOLCCrfBaiZasBe90BC5mw6P2SLtAX7CdQtns=
+			2ljbc7SaggloWDm62UmBoMYjbicpOmn0h6oKiKhDOVI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wweHTd2KggTHSChQmrx6wKpXmmFFeQJvjwCFCXgFQX0=
+			zODV9m46c4n2ntLX/EEM7MVd1gGsnlJqra5PnK5tLtw=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/Info.plist</key>

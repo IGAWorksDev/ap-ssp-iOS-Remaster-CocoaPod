@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "AdPopcornSSP_SDK"
-    s.version      = "0.0.11"
+    s.version      = "0.0.12"
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -107,8 +107,6 @@ Pod::Spec.new do |s|
     nam.dependency 'AdPopcornSSP_SDK/AdPopcornSSP'
     nam.dependency 'NAMSDK', '7.10.2'
     nam.dependency 'NAMSDK/MediationNDA', '7.10.2'
-    nam.dependency 'KissXML', '5.3.1'
-# nam.ios.deployment_target = '12.0'
     end
     
     
