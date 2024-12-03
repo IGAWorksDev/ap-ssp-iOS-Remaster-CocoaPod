@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-    s.name         = "AdPopcornSSP_SDK"
+    s.name         = "APSDKMediationNAM"
     s.version      = "0.0.13"
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
@@ -16,10 +16,11 @@ Pod::Spec.new do |s|
     s.ios.deployment_target = "13.0"
     s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
     
-    s.default_subspecs = "AdPopcornSSP"
-    s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/AdPopcornSSP_SDK.xcframework"
-
-
+    
+    s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
+    s.dependency 'AdPopcornSSP_SDK', '>= 0.0.12'
+    s.dependency 'NAMSDK', '7.10.2'
+    s.dependency 'NAMSDK/MediationNDA', '7.10.2'
     
     
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
@@ -27,17 +28,9 @@ Pod::Spec.new do |s|
 
     s.requires_arc = true
     
-#    s.static_framework = true
-      
     s.swift_versions = ['5.0']
     
     s.pod_target_xcconfig  = { 'OTHER_LDFLAGS' => '-ObjC' }
     
-#    s.pod_target_xcconfig  = {
-#                                'OTHER_LDFLAGS' => '-ObjC',
-#                                'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-#                             }
-#
-#    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
     
 end
