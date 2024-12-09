@@ -1,6 +1,0 @@
-framework module APSDKMediationAppLovinMax {
-  umbrella header "APSDKMediationAppLovinMax.h"
-  export *
-
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module APSDKMediationADOP {
-  umbrella header "APSDKMediationADOP.h"
-  export *
-
-  module * { export * }
-}

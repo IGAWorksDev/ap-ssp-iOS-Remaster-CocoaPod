@@ -1,6 +1,0 @@
-framework module APSDKMediationPangle {
-  umbrella header "APSDKMediationPangle.h"
-  export *
-
-  module * { export * }
-}

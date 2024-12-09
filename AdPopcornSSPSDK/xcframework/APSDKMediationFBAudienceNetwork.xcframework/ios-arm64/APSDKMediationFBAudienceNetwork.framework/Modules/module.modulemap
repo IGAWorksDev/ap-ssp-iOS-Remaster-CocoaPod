@@ -1,6 +1,0 @@
-framework module APSDKMediationFBAudienceNetwork {
-  umbrella header "APSDKMediationFBAudienceNetwork.h"
-  export *
-
-  module * { export * }
-}

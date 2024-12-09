@@ -1,6 +1,0 @@
-framework module APSDKMediationFyber {
-  umbrella header "APSDKMediationFyber.h"
-  export *
-
-  module * { export * }
-}

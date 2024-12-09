@@ -1,6 +1,0 @@
-framework module APSDKMediationMezzo {
-  umbrella header "APSDKMediationMezzo.h"
-  export *
-
-  module * { export * }
-}
