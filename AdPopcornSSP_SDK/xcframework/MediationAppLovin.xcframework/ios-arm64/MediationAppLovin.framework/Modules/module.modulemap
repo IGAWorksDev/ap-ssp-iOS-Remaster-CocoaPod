@@ -1,6 +1,0 @@
-framework module MediationAppLovin {
-  umbrella header "MediationAppLovin.h"
-  export *
-
-  module * { export * }
-}

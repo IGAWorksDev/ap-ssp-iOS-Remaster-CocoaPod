@@ -1,0 +1,6 @@
+framework module AdPopcornSSPSDK {
+  umbrella header "AdPopcornSSPSDK.h"
+  export *
+
+  module * { export * }
+}

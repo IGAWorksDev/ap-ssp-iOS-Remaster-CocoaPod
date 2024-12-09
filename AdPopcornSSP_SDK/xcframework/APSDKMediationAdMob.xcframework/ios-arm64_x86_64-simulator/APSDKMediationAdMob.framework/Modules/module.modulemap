@@ -1,0 +1,6 @@
+framework module APSDKMediationAdMob {
+  umbrella header "APSDKMediationAdMob.h"
+  export *
+
+  module * { export * }
+}

@@ -1,0 +1,103 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios18.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name APSDKMediationAppLovinMax
+@_exported import APSDKMediationAppLovinMax
+import AdPopcornSSP_SDK
+import AppLovinSDK
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+final public class AppLovinMaxBannerAdapter : AdPopcornSSP_SDK.BannerAdapterProtocol {
+  weak final public var delegate: (any AdPopcornSSP_SDK.BannerAdapterDelegate)?
+  weak final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSP_SDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.BannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension APSDKMediationAppLovinMax.AppLovinMaxBannerAdapter : AdPopcornSSP_SDK.BannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSP_SDK.NetworkError)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}
+final public class AppLovinMaxInterstitialAdapter : AdPopcornSSP_SDK.InterstitialAdapterProtocol {
+  final public var rootViewController: UIKit.UIViewController?
+  final public var delegate: (any AdPopcornSSP_SDK.InterstitialAdapterDelegate)?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func present(from: UIKit.UIViewController, completion: () -> Swift.Void)
+  @objc deinit
+}
+extension APSDKMediationAppLovinMax.AppLovinMaxInterstitialAdapter : AdPopcornSSP_SDK.InterstitialAdapterDelegate {
+  final public func interstitialLoadSuccess()
+  final public func interstitialLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func interstitialShowSuccess(message: Swift.String)
+  final public func interstitialShowFail(message: Swift.String)
+  final public func interstitialClicked(message: Swift.String)
+  final public func interstitialClosed(message: Swift.String)
+}
+final public class AppLovinMaxInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterProtocol {
+  final public var delegate: (any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)?
+  final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  @objc deinit
+}
+extension APSDKMediationAppLovinMax.AppLovinMaxInterstitialVideoAdapter : AdPopcornSSP_SDK.InterstitialVideoAdapterDelegate {
+  final public func interstitialVideoLoadSuccess()
+  final public func interstitialVideoLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func interstitialVideoShowSuccess(message: Swift.String)
+  final public func interstitialVideoShowFail(message: Swift.String)
+  final public func interstitialVideoClicked(message: Swift.String)
+  final public func interstitialVideoClosed(message: Swift.String)
+}
+extension AdPopcornSSP_SDK.AdPopcornNativeAd {
+  @_Concurrency.MainActor @preconcurrency final public func bindAppLovinMaxRenderer(renderable: APSDKMediationAppLovinMax.APSSPAppLovinNativeAdRenderable)
+}
+final public class AppLovinMaxNativeAdapter : AdPopcornSSP_SDK.NativeAdapterProtocol {
+  final public var render: Swift.AnyObject?
+  weak final public var delegate: (any AdPopcornSSP_SDK.NativeViewAdapterDelegate)?
+  final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, render: Swift.AnyObject, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.NativeViewAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension APSDKMediationAppLovinMax.AppLovinMaxNativeAdapter : AdPopcornSSP_SDK.NativeViewAdapterDelegate {
+  final public func nativeLoadSuccess()
+  final public func nativeLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func nativeClicked(message: Swift.String)
+  final public func nativeImpression(message: Swift.String)
+}
+@_inheritsConvenienceInitializers @objc final public class APSSPAppLovinNativeAdRenderable : ObjectiveC.NSObject {
+  final public var nativeAdView: AppLovinSDK.MANativeAdView?
+  @objc override dynamic public init()
+  @objc deinit
+}
+final public class AppLovinMaxRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterProtocol {
+  final public var rootViewController: UIKit.UIViewController?
+  final public var delegate: (any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSP_SDK.RewardVideoAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  @objc deinit
+}
+extension APSDKMediationAppLovinMax.AppLovinMaxRewardVideoAdapter : AdPopcornSSP_SDK.RewardVideoAdapterDelegate {
+  final public func rewardVideoLoadSuccess()
+  final public func rewardVideoLoadFail(error: AdPopcornSSP_SDK.NetworkError)
+  final public func rewardVideoShowSuccess(message: Swift.String)
+  final public func rewardVideoShowFail(message: Swift.String)
+  final public func rewardVideoClicked(message: Swift.String)
+  final public func rewardVideoClosed(message: Swift.String)
+  final public func rewardVideoCompleted()
+}

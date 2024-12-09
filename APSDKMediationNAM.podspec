@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
 
     s.name         = "APSDKMediationNAM"
-    s.version      = "0.0.13"
-    s.summary      = "AdPopcorn Mobile Ads Mediation SDK"
+    s.version   = '0.0.14'
+    s.summary      = "AdPopcorn Mobile Ads Mediation SDK Mediation"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
         "type": "Apache License, Version 2.0",
@@ -17,8 +17,8 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
     
     
-    s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/MediationNAM.xcframework"
-    s.dependency 'AdPopcornSSP_SDK', '>= 0.0.12'
+    s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/APSDKMediationNAM.xcframework"
+    s.dependency 'AdPopcornSSP_SDK', '>= 0.0.14'
     s.dependency 'NAMSDK', '7.10.2'
     s.dependency 'NAMSDK/MediationNDA', '7.10.2'
     
@@ -27,6 +27,7 @@ Pod::Spec.new do |s|
 
 
     s.requires_arc = true
+    s.static_framework = true
     
     s.swift_versions = ['5.0']
     

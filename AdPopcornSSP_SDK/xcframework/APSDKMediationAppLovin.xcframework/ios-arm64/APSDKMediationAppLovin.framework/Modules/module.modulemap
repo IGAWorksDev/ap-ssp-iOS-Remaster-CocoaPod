@@ -1,0 +1,6 @@
+framework module APSDKMediationAppLovin {
+  umbrella header "APSDKMediationAppLovin.h"
+  export *
+
+  module * { export * }
+}

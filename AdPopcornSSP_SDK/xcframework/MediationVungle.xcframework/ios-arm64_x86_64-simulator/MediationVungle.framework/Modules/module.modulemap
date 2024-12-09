@@ -1,6 +1,0 @@
-framework module MediationVungle {
-  umbrella header "MediationVungle.h"
-  export *
-
-  module * { export * }
-}

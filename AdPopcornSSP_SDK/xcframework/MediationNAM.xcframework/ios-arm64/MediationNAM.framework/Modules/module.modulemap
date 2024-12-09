@@ -1,6 +1,0 @@
-framework module MediationNAM {
-  umbrella header "MediationNAM.h"
-  export *
-
-  module * { export * }
-}

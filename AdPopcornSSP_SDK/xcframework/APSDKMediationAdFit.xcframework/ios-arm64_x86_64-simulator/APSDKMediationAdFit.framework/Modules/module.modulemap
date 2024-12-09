@@ -1,0 +1,6 @@
+framework module APSDKMediationAdFit {
+  umbrella header "APSDKMediationAdFit.h"
+  export *
+
+  module * { export * }
+}

@@ -1,6 +1,0 @@
-framework module MediationUnityAds {
-  umbrella header "MediationUnityAds.h"
-  export *
-
-  module * { export * }
-}

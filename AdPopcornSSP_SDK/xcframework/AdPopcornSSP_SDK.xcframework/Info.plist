@@ -6,11 +6,25 @@
 	<array>
 		<dict>
 			<key>BinaryPath</key>
-			<string>AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</string>
+			<string>AdPopcornSSPSDK.framework/AdPopcornSSPSDK</string>
+			<key>LibraryIdentifier</key>
+			<string>ios-arm64</string>
+			<key>LibraryPath</key>
+			<string>AdPopcornSSPSDK.framework</string>
+			<key>SupportedArchitectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>SupportedPlatform</key>
+			<string>ios</string>
+		</dict>
+		<dict>
+			<key>BinaryPath</key>
+			<string>AdPopcornSSPSDK.framework/AdPopcornSSPSDK</string>
 			<key>LibraryIdentifier</key>
 			<string>ios-arm64_x86_64-simulator</string>
 			<key>LibraryPath</key>
-			<string>AdPopcornSSP_SDK.framework</string>
+			<string>AdPopcornSSPSDK.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
@@ -20,20 +34,6 @@
 			<string>ios</string>
 			<key>SupportedPlatformVariant</key>
 			<string>simulator</string>
-		</dict>
-		<dict>
-			<key>BinaryPath</key>
-			<string>AdPopcornSSP_SDK.framework/AdPopcornSSP_SDK</string>
-			<key>LibraryIdentifier</key>
-			<string>ios-arm64</string>
-			<key>LibraryPath</key>
-			<string>AdPopcornSSP_SDK.framework</string>
-			<key>SupportedArchitectures</key>
-			<array>
-				<string>arm64</string>
-			</array>
-			<key>SupportedPlatform</key>
-			<string>ios</string>
 		</dict>
 	</array>
 	<key>CFBundlePackageType</key>

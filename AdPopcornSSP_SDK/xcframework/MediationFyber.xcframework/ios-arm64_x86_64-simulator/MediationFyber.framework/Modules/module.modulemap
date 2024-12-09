@@ -1,6 +1,0 @@
-framework module MediationFyber {
-  umbrella header "MediationFyber.h"
-  export *
-
-  module * { export * }
-}

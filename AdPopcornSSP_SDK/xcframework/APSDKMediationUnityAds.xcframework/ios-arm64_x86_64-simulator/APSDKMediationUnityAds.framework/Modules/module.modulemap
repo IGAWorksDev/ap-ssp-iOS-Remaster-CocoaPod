@@ -1,0 +1,6 @@
+framework module APSDKMediationUnityAds {
+  umbrella header "APSDKMediationUnityAds.h"
+  export *
+
+  module * { export * }
+}
