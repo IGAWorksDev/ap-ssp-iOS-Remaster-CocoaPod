@@ -2,7 +2,7 @@
 //  AdPopcornSSPSDK.h
 //  AdPopcornSSPSDK
 //
-//  Created by Odin.송황호 on 12/6/24.
+//  Created by Odin.송황호 on 12/9/24.
 //
 
 #import <Foundation/Foundation.h>

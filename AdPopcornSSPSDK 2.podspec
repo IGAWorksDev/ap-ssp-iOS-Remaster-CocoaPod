@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
     
     
-    s.vendored_frameworks = "AdPopcornSSP_SDK/xcframework/AdPopcornSSPSDK.xcframework"
+    s.vendored_frameworks = "AdPopcornSSPSDK/xcframework/AdPopcornSSPSDK.xcframework"
 
 
     s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
