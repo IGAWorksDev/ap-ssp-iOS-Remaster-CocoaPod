@@ -1,0 +1,695 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "APSDKMediationFyber",
+    "printedName": "APSDKMediationFyber",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationFyber",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdPopcornSSPSDK",
+        "printedName": "AdPopcornSSPSDK",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationFyber"
+      },
+      {
+        "kind": "Import",
+        "name": "IASDKCore",
+        "printedName": "IASDKCore",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationFyber"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationFyber",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdPopcornSSPSDK",
+        "printedName": "AdPopcornSSPSDK",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationFyber"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FyberRewardVideoAdapter",
+        "printedName": "FyberRewardVideoAdapter",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "rootViewController",
+            "printedName": "rootViewController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvp",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvp",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvg",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvg",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvs",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvs",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvM",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC18rootViewControllerSo06UIViewH0CSgvM",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any AdPopcornSSPSDK.RewardVideoAdapterDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RewardVideoAdapterDelegate",
+                    "printedName": "any AdPopcornSSPSDK.RewardVideoAdapterDelegate",
+                    "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvp",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvp",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any AdPopcornSSPSDK.RewardVideoAdapterDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RewardVideoAdapterDelegate",
+                        "printedName": "any AdPopcornSSPSDK.RewardVideoAdapterDelegate",
+                        "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvg",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvg",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any AdPopcornSSPSDK.RewardVideoAdapterDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RewardVideoAdapterDelegate",
+                        "printedName": "any AdPopcornSSPSDK.RewardVideoAdapterDelegate",
+                        "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvs",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvs",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvM",
+                "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC8delegate15AdPopcornSSPSDK0cdE8Delegate_pSgvM",
+                "moduleName": "APSDKMediationFyber",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(placementDic:rootViewController:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FyberRewardVideoAdapter",
+                "printedName": "APSDKMediationFyber.FyberRewardVideoAdapter",
+                "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC12placementDic18rootViewController4infoACSDyS2SG_So06UIViewJ0CSgSDySSypSgGtcfc",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "connectDelegate",
+            "printedName": "connectDelegate(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RewardVideoAdapterDelegate",
+                "printedName": "any AdPopcornSSPSDK.RewardVideoAdapterDelegate",
+                "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC15connectDelegate8delegatey15AdPopcornSSPSDK0cdeG0_p_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC15connectDelegate8delegatey15AdPopcornSSPSDK0cdeG0_p_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "disconnectDelegate",
+            "printedName": "disconnectDelegate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC18disconnectDelegateyyF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC18disconnectDelegateyyF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present(from:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoLoadSuccess",
+            "printedName": "rewardVideoLoadSuccess()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD11LoadSuccessyyF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD11LoadSuccessyyF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoLoadFail",
+            "printedName": "rewardVideoLoadFail(error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NetworkError",
+                "printedName": "AdPopcornSSPSDK.NetworkError",
+                "usr": "c:@M@AdPopcornSSPSDK@E@NetworkError"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD8LoadFail5errory15AdPopcornSSPSDK12NetworkErrorO_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD8LoadFail5errory15AdPopcornSSPSDK12NetworkErrorO_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoShowSuccess",
+            "printedName": "rewardVideoShowSuccess(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD11ShowSuccess7messageySS_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD11ShowSuccess7messageySS_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoShowFail",
+            "printedName": "rewardVideoShowFail(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD8ShowFail7messageySS_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD8ShowFail7messageySS_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoClicked",
+            "printedName": "rewardVideoClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD7Clicked7messageySS_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD7Clicked7messageySS_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoClosed",
+            "printedName": "rewardVideoClosed(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD6Closed7messageySS_tF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD6Closed7messageySS_tF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rewardVideoCompleted",
+            "printedName": "rewardVideoCompleted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD9CompletedyyF",
+            "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC06rewardD9CompletedyyF",
+            "moduleName": "APSDKMediationFyber",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:19APSDKMediationFyber0B18RewardVideoAdapterC",
+        "mangledName": "$s19APSDKMediationFyber0B18RewardVideoAdapterC",
+        "moduleName": "APSDKMediationFyber",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RewardVideoAdapterProtocol",
+            "printedName": "RewardVideoAdapterProtocol",
+            "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK26RewardVideoAdapterProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RewardVideoAdapterDelegate",
+            "printedName": "RewardVideoAdapterDelegate",
+            "usr": "s:15AdPopcornSSPSDK26RewardVideoAdapterDelegateP",
+            "mangledName": "$s15AdPopcornSSPSDK26RewardVideoAdapterDelegateP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

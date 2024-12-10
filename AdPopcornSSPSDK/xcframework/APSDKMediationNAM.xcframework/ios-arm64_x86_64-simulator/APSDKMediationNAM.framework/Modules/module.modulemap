@@ -1,0 +1,6 @@
+framework module APSDKMediationNAM {
+  umbrella header "APSDKMediationNAM.h"
+  export *
+
+  module * { export * }
+}

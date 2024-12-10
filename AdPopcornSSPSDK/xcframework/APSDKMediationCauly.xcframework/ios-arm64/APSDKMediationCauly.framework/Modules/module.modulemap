@@ -1,0 +1,6 @@
+framework module APSDKMediationCauly {
+  umbrella header "APSDKMediationCauly.h"
+  export *
+
+  module * { export * }
+}

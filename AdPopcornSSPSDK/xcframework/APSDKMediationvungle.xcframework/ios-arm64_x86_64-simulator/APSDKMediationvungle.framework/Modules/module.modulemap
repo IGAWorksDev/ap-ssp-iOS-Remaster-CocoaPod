@@ -1,0 +1,6 @@
+framework module APSDKMediationvungle {
+  umbrella header "APSDKMediationvungle.h"
+  export *
+
+  module * { export * }
+}
