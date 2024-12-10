@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "APSDKMediationUnityAds"
-    s.version   = '0.0.19'
+    s.version   = '0.0.20'
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK Mediation"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
     
     
     s.vendored_frameworks = "AdPopcornSSPSDK/xcframework/APSDKMediationUnityAds.xcframework"
-    s.dependency 'AdPopcornSSPSDK', '>= 0.0.16'
+    s.dependency 'AdPopcornSSPSDK', '>= 0.0.20'
     s.dependency 'UnityAds', '4.12.0'
     
     

@@ -7,8 +7,8 @@
 
 
 # 업데이트할 버전 번호
-new_version = '0.0.19'
-APSSPSDK_version = '>= 0.0.16'
+new_version = '0.0.20'
+APSSPSDK_version = '>= 0.0.20'
 
 log_String = 'pod error 수정'
 
@@ -33,7 +33,7 @@ podspec_files = [
     ]
 
 
-## podspec 파일 업데이트
+# podspec 파일 업데이트
 podspec_files.each do |podspec|
   contents = File.read(podspec)
   contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{new_version}'")
@@ -60,7 +60,7 @@ end
 
 
 
-# podspec 파일 업데이트
+## podspec 파일 업데이트
 #podspec_files.each do |podspec|
 #    if podspec == 'APSDKMediationNAM.podspec'
 #        system("pod trunk push #{podspec} --skip-import-validation")

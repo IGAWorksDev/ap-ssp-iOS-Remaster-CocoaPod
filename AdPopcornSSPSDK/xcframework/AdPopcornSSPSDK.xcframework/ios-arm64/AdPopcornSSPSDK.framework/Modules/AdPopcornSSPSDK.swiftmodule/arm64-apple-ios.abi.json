@@ -2340,6 +2340,47 @@
           },
           {
             "kind": "Var",
+            "name": "Mintegral",
+            "printedName": "Mintegral",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AdPopcornSSPSDK.MediationCompany.Type) -> AdPopcornSSPSDK.MediationCompany",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MediationCompany",
+                    "printedName": "AdPopcornSSPSDK.MediationCompany",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AdPopcornSSPSDK.MediationCompany.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MediationCompany",
+                        "printedName": "AdPopcornSSPSDK.MediationCompany",
+                        "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany@MediationCompanyMintegral",
+            "mangledName": "$s15AdPopcornSSPSDK16MediationCompanyO9MintegralyA2CmF",
+            "moduleName": "AdPopcornSSPSDK",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 6
+          },
+          {
+            "kind": "Var",
             "name": "AdFit",
             "printedName": "AdFit",
             "children": [
@@ -2378,7 +2419,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 6
+            "fixedbinaryorder": 7
           },
           {
             "kind": "Var",
@@ -2420,7 +2461,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 7
+            "fixedbinaryorder": 8
           },
           {
             "kind": "Var",
@@ -2461,7 +2502,7 @@
             "declAttributes": [
               "ObjC"
             ],
-            "fixedbinaryorder": 8
+            "fixedbinaryorder": 9
           },
           {
             "kind": "Var",
@@ -2502,7 +2543,49 @@
             "declAttributes": [
               "ObjC"
             ],
-            "fixedbinaryorder": 9
+            "fixedbinaryorder": 10
+          },
+          {
+            "kind": "Var",
+            "name": "Pangle",
+            "printedName": "Pangle",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AdPopcornSSPSDK.MediationCompany.Type) -> AdPopcornSSPSDK.MediationCompany",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MediationCompany",
+                    "printedName": "AdPopcornSSPSDK.MediationCompany",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AdPopcornSSPSDK.MediationCompany.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "MediationCompany",
+                        "printedName": "AdPopcornSSPSDK.MediationCompany",
+                        "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AdPopcornSSPSDK@E@MediationCompany@MediationCompanyPangle",
+            "mangledName": "$s15AdPopcornSSPSDK16MediationCompanyO6PangleyA2CmF",
+            "moduleName": "AdPopcornSSPSDK",
+            "declAttributes": [
+              "RawDocComment",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 11
           },
           {
             "kind": "Var",
@@ -2544,7 +2627,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 10
+            "fixedbinaryorder": 12
           },
           {
             "kind": "Var",
@@ -2586,7 +2669,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 11
+            "fixedbinaryorder": 13
           },
           {
             "kind": "Var",
@@ -2628,7 +2711,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 12
+            "fixedbinaryorder": 14
           },
           {
             "kind": "Var",
@@ -2670,7 +2753,7 @@
               "RawDocComment",
               "ObjC"
             ],
-            "fixedbinaryorder": 13
+            "fixedbinaryorder": 15
           },
           {
             "kind": "Constructor",
@@ -16746,64 +16829,6 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "changeAPPKey",
-            "printedName": "changeAPPKey(appKey:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC12changeAPPKey6appKeyySS_tFZ",
-            "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC12changeAPPKey6appKeyySS_tFZ",
-            "moduleName": "AdPopcornSSPSDK",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "changeBaseURL",
-            "printedName": "changeBaseURL(type:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "BaseURLType",
-                "printedName": "AdPopcornSSPSDK.BaseURLType",
-                "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC13changeBaseURL4typeyAA0F7URLTypeO_tFZ",
-            "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC13changeBaseURL4typeyAA0F7URLTypeO_tFZ",
-            "moduleName": "AdPopcornSSPSDK",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -16829,256 +16854,6 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "BaseURLType",
-        "printedName": "BaseURLType",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "test",
-            "printedName": "test",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(AdPopcornSSPSDK.BaseURLType.Type) -> AdPopcornSSPSDK.BaseURLType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BaseURLType",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType",
-                    "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BaseURLType",
-                        "printedName": "AdPopcornSSPSDK.BaseURLType",
-                        "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO4testyA2CmF",
-            "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO4testyA2CmF",
-            "moduleName": "AdPopcornSSPSDK"
-          },
-          {
-            "kind": "Var",
-            "name": "release",
-            "printedName": "release",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(AdPopcornSSPSDK.BaseURLType.Type) -> AdPopcornSSPSDK.BaseURLType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BaseURLType",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType",
-                    "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BaseURLType",
-                        "printedName": "AdPopcornSSPSDK.BaseURLType",
-                        "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO7releaseyA2CmF",
-            "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO7releaseyA2CmF",
-            "moduleName": "AdPopcornSSPSDK"
-          },
-          {
-            "kind": "Var",
-            "name": "GO",
-            "printedName": "GO",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(AdPopcornSSPSDK.BaseURLType.Type) -> AdPopcornSSPSDK.BaseURLType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BaseURLType",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType",
-                    "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BaseURLType",
-                        "printedName": "AdPopcornSSPSDK.BaseURLType",
-                        "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO2GOyA2CmF",
-            "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO2GOyA2CmF",
-            "moduleName": "AdPopcornSSPSDK"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(rawValue:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "AdPopcornSSPSDK.BaseURLType?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BaseURLType",
-                    "printedName": "AdPopcornSSPSDK.BaseURLType",
-                    "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO8rawValueACSgSS_tcfc",
-            "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO8rawValueACSgSS_tcfc",
-            "moduleName": "AdPopcornSSPSDK",
-            "implicit": true,
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Var",
-            "name": "rawValue",
-            "printedName": "rawValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO8rawValueSSvp",
-            "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO8rawValueSSvp",
-            "moduleName": "AdPopcornSSPSDK",
-            "implicit": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO8rawValueSSvg",
-                "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO8rawValueSSvg",
-                "moduleName": "AdPopcornSSPSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:15AdPopcornSSPSDK11BaseURLTypeO",
-        "mangledName": "$s15AdPopcornSSPSDK11BaseURLTypeO",
-        "moduleName": "AdPopcornSSPSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "enumRawTypeName": "String",
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "RawRepresentable",
-            "printedName": "RawRepresentable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "RawValue",
-                "printedName": "RawValue",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:SY",
-            "mangledName": "$sSY"
           }
         ]
       }
@@ -17243,56 +17018,70 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 689,
+      "offset": 540,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
+      "kind": "IntegerLiteral",
+      "offset": 687,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 948,
+      "offset": 946,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 975,
+      "offset": 973,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 995,
+      "offset": 993,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1327,
+      "offset": 1094,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1323,
       "length": 2,
       "value": "21"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1375,
+      "offset": 1371,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1444,
+      "offset": 1440,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1707,
+      "offset": 1703,
       "length": 5,
       "value": "99999"
     },

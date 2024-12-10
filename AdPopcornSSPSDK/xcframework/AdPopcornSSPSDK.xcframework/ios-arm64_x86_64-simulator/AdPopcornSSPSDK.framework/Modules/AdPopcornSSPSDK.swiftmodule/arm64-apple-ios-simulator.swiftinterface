@@ -89,10 +89,12 @@ extension AdPopcornSSPSDK.AdPopcornBannerView {
   case Cauly = 4
   case MezzoMedia = 5
   case UnityAds = 7
+  case Mintegral = 8
   case AdFit = 10
   case Vungle = 14
   case AppLovin_MAX = 15
   case Fyber = 16
+  case Pangle = 18
   case AppLovin = 21
   case NAM = 22
   case ADOP = 24
@@ -425,20 +427,6 @@ extension AdPopcornSSPSDK.APLogger {
   public static func presentCSViewController(_ rootViewController: UIKit.UIViewController, userID: Swift.String)
   @objc deinit
 }
-extension AdPopcornSSPSDK.AdPopcornSSP {
-  public static func changeAPPKey(appKey: Swift.String)
-  public static func changeBaseURL(type: AdPopcornSSPSDK.BaseURLType)
-}
-public enum BaseURLType : Swift.String {
-  case test
-  case release
-  case GO
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
-}
 extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.Equatable {}
 extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.Equatable {}
@@ -455,6 +443,3 @@ extension AdPopcornSSPSDK.AdapterInfo : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdapterInfo : Swift.RawRepresentable {}
 extension AdPopcornSSPSDK.APLogger.Log : Swift.Equatable {}
 extension AdPopcornSSPSDK.APLogger.Log : Swift.Hashable {}
-extension AdPopcornSSPSDK.BaseURLType : Swift.Equatable {}
-extension AdPopcornSSPSDK.BaseURLType : Swift.Hashable {}
-extension AdPopcornSSPSDK.BaseURLType : Swift.RawRepresentable {}
