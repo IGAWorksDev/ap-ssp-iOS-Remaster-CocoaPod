@@ -2076,6 +2076,279 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "AdPopcornBidding",
+        "printedName": "AdPopcornBidding",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "FBAudienceNetwork",
+            "printedName": "FBAudienceNetwork",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AdPopcornSSPSDK.AdPopcornBidding.Type) -> AdPopcornSSPSDK.AdPopcornBidding",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdPopcornBidding",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdPopcornBidding",
+                        "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                        "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding@AdPopcornBiddingFBAudienceNetwork",
+            "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO17FBAudienceNetworkyA2CmF",
+            "moduleName": "AdPopcornSSPSDK",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "vungle",
+            "printedName": "vungle",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AdPopcornSSPSDK.AdPopcornBidding.Type) -> AdPopcornSSPSDK.AdPopcornBidding",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdPopcornBidding",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdPopcornBidding",
+                        "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                        "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding@AdPopcornBiddingVungle",
+            "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO6vungleyA2CmF",
+            "moduleName": "AdPopcornSSPSDK",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
+          },
+          {
+            "kind": "Var",
+            "name": "biddingdata",
+            "printedName": "biddingdata",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(AdPopcornSSPSDK.AdPopcornBidding.Type) -> AdPopcornSSPSDK.AdPopcornBidding",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdPopcornBidding",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AdPopcornBidding",
+                        "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                        "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding@AdPopcornBiddingBiddingdata",
+            "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO11biddingdatayA2CmF",
+            "moduleName": "AdPopcornSSPSDK",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 2
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBidding?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "AdPopcornBidding",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBidding",
+                    "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15AdPopcornSSPSDK0aB7BiddingO8rawValueACSgSi_tcfc",
+            "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO8rawValueACSgSi_tcfc",
+            "moduleName": "AdPopcornSSPSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15AdPopcornSSPSDK0aB7BiddingO8rawValueSivp",
+            "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO8rawValueSivp",
+            "moduleName": "AdPopcornSSPSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15AdPopcornSSPSDK0aB7BiddingO8rawValueSivg",
+                "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO8rawValueSivg",
+                "moduleName": "AdPopcornSSPSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBidding",
+        "mangledName": "$s15AdPopcornSSPSDK0aB7BiddingO",
+        "moduleName": "AdPopcornSSPSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AdPopcornSSPSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -16885,7 +17158,7 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6325,
+      "offset": 6758,
       "length": 4,
       "value": "true"
     },
@@ -16974,6 +17247,27 @@
       "value": "4"
     },
     {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/AdPopcornBidding.swift",
+      "kind": "IntegerLiteral",
+      "offset": 195,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/AdPopcornBidding.swift",
+      "kind": "IntegerLiteral",
+      "offset": 215,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/AdPopcornBidding.swift",
+      "kind": "IntegerLiteral",
+      "offset": 245,
+      "length": 2,
+      "value": "10"
+    },
+    {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
       "offset": 186,
@@ -17011,77 +17305,77 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 517,
+      "offset": 502,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 540,
+      "offset": 525,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 687,
+      "offset": 672,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 946,
+      "offset": 931,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 973,
+      "offset": 958,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 993,
+      "offset": 978,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1094,
+      "offset": 1079,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1323,
+      "offset": 1308,
       "length": 2,
       "value": "21"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1371,
+      "offset": 1356,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1440,
+      "offset": 1425,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Enum\/MediationCompany.swift",
       "kind": "IntegerLiteral",
-      "offset": 1703,
+      "offset": 1688,
       "length": 5,
       "value": "99999"
     },

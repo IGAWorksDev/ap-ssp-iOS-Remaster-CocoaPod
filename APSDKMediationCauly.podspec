@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "APSDKMediationCauly"
-    s.version   = '0.0.20'
+    s.version   = '0.0.21'
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK Mediation"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
     
     
     s.vendored_frameworks = "AdPopcornSSPSDK/xcframework/APSDKMediationCauly.xcframework"
-    s.dependency 'AdPopcornSSPSDK', '>= 0.0.20'
+    s.dependency 'AdPopcornSSPSDK', '>= 0.0.21'
 #    s.dependency 'AppLovinSDK', 'CaulySDK', :git => 'https://github.com/cauly/CaulySDK_iOS.git', :tag => '3.1.22'
     
     

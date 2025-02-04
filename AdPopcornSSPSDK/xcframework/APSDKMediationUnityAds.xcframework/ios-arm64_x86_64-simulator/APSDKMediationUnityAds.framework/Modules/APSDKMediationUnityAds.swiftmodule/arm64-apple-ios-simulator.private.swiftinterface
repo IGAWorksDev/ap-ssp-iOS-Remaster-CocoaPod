@@ -9,6 +9,21 @@ import UnityAds
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+final public class UnityAdsBannerAdapter : AdPopcornSSPSDK.BannerAdapterProtocol {
+  weak final public var delegate: (any AdPopcornSSPSDK.BannerAdapterDelegate)?
+  weak final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSPSDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSPSDK.BannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension APSDKMediationUnityAds.UnityAdsBannerAdapter : AdPopcornSSPSDK.BannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSPSDK.NetworkError)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}
 final public class UnityAdsInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSPSDK.InterstitialAdapterDelegate)?

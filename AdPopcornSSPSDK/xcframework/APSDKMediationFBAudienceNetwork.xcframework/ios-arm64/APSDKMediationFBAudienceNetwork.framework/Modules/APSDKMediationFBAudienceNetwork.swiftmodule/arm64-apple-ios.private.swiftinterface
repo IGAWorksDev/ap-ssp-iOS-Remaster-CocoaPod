@@ -9,10 +9,12 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-final public class FBAudienceNetworkBannerAdapter : AdPopcornSSPSDK.BannerAdapterProtocol {
+final public class FBAudienceNetworkBannerAdapter : AdPopcornSSPSDK.BannerAdapterInappBiddingProtocol {
   weak final public var delegate: (any AdPopcornSSPSDK.BannerAdapterDelegate)?
   weak final public var rootViewController: UIKit.UIViewController?
   public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSPSDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSPSDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?)
+  final public func getBiddingToken() -> Swift.String
   final public func connectDelegate(delegate: any AdPopcornSSPSDK.BannerAdapterDelegate)
   final public func disconnectDelegate()
   final public func stop()
@@ -24,13 +26,15 @@ extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkBannerAdapter : AdPop
   final public func bannerViewClicked(message: Swift.String)
   final public func bannerViewImpression(message: Swift.String)
 }
-final public class FBAudienceNetworkInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterProtocol {
+final public class FBAudienceNetworkInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterInappBiddingProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSPSDK.InterstitialAdapterDelegate)?
   public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
   final public func connectDelegate(delegate: any AdPopcornSSPSDK.InterstitialAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: () -> Swift.Void)
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterDelegate {
@@ -41,13 +45,15 @@ extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialAdapter :
   final public func interstitialClicked(message: Swift.String)
   final public func interstitialClosed(message: Swift.String)
 }
-final public class FBAudienceNetworkInterstitialVideoAdapter : AdPopcornSSPSDK.InterstitialVideoAdapterProtocol {
+final public class FBAudienceNetworkInterstitialVideoAdapter : AdPopcornSSPSDK.InterstitialVideoAdapterInappBiddingProtocol {
   final public var delegate: (any AdPopcornSSPSDK.InterstitialVideoAdapterDelegate)?
   final public var rootViewController: UIKit.UIViewController?
   public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
   final public func connectDelegate(delegate: any AdPopcornSSPSDK.InterstitialVideoAdapterDelegate)
   final public func disconnectDelegate()
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialVideoAdapter : AdPopcornSSPSDK.InterstitialVideoAdapterDelegate {
@@ -102,13 +108,15 @@ extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkNativeAdapter : AdPop
   final public func nativeClicked(message: Swift.String)
   final public func nativeImpression(message: Swift.String)
 }
-final public class FBAudienceNetworkRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoAdapterProtocol {
+final public class FBAudienceNetworkRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoAdapterInappBiddingProtocol {
   final public var rootViewController: UIKit.UIViewController?
   final public var delegate: (any AdPopcornSSPSDK.RewardVideoAdapterDelegate)?
   public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  public init(inappbiddingPlacementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?)
   final public func connectDelegate(delegate: any AdPopcornSSPSDK.RewardVideoAdapterDelegate)
   final public func disconnectDelegate()
   final public func present(from: UIKit.UIViewController, completion: @escaping () -> Swift.Void)
+  final public func getBiddingToken() -> Swift.String
   @objc deinit
 }
 extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoAdapterDelegate {

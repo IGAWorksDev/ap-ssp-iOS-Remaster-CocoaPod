@@ -341,6 +341,89 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:bannerType:rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FBAudienceNetworkBannerAdapter",
+                "printedName": "APSDKMediationFBAudienceNetwork.FBAudienceNetworkBannerAdapter",
+                "usr": "s:31APSDKMediationFBAudienceNetwork0bC13BannerAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornBannerSize",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBannerSize",
+                "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBannerSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC13BannerAdapterC24inappbiddingPlacementDic10bannerType18rootViewControllerACSDyS2SG_15AdPopcornSSPSDK0noD4SizeOSo06UIViewM0CSgtcfc",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC13BannerAdapterC24inappbiddingPlacementDic10bannerType18rootViewControllerACSDyS2SG_15AdPopcornSSPSDK0noD4SizeOSo06UIViewM0CSgtcfc",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC13BannerAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC13BannerAdapterC15getBiddingTokenSSyF",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Function",
             "name": "connectDelegate",
             "printedName": "connectDelegate(delegate:)",
@@ -550,6 +633,13 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BannerAdapterInappBiddingProtocol",
+            "printedName": "BannerAdapterInappBiddingProtocol",
+            "usr": "s:15AdPopcornSSPSDK33BannerAdapterInappBiddingProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK33BannerAdapterInappBiddingProtocolP"
           },
           {
             "kind": "Conformance",
@@ -936,6 +1026,61 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FBAudienceNetworkInterstitialAdapter",
+                "printedName": "APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialAdapter",
+                "usr": "s:31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewK0CSgtcfc",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "connectDelegate",
             "printedName": "connectDelegate(delegate:)",
@@ -1023,6 +1168,28 @@
             "declKind": "Func",
             "usr": "s:31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC7present4from10completionySo16UIViewControllerC_yyXEtF",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC7present4from10completionySo16UIViewControllerC_yyXEtF",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC19InterstitialAdapterC15getBiddingTokenSSyF",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "Final",
@@ -1215,6 +1382,13 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "InterstitialAdapterInappBiddingProtocol",
+            "printedName": "InterstitialAdapterInappBiddingProtocol",
+            "usr": "s:15AdPopcornSSPSDK39InterstitialAdapterInappBiddingProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK39InterstitialAdapterInappBiddingProtocolP"
           },
           {
             "kind": "Conformance",
@@ -1601,6 +1775,61 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FBAudienceNetworkInterstitialVideoAdapter",
+                "printedName": "APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialVideoAdapter",
+                "usr": "s:31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewL0CSgtcfc",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewL0CSgtcfc",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "present",
             "printedName": "present(from:completion:)",
@@ -1685,6 +1914,28 @@
             "declKind": "Func",
             "usr": "s:31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC18disconnectDelegateyyF",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC24InterstitialVideoAdapterC15getBiddingTokenSSyF",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "Final",
@@ -1877,6 +2128,13 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "InterstitialVideoAdapterInappBiddingProtocol",
+            "printedName": "InterstitialVideoAdapterInappBiddingProtocol",
+            "usr": "s:15AdPopcornSSPSDK44InterstitialVideoAdapterInappBiddingProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK44InterstitialVideoAdapterInappBiddingProtocolP"
           },
           {
             "kind": "Conformance",
@@ -5146,6 +5404,61 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inappbiddingPlacementDic:rootViewController:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FBAudienceNetworkRewardVideoAdapter",
+                "printedName": "APSDKMediationFBAudienceNetwork.FBAudienceNetworkRewardVideoAdapter",
+                "usr": "s:31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewL0CSgtcfc",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC24inappbiddingPlacementDic18rootViewControllerACSDyS2SG_So06UIViewL0CSgtcfc",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
             "kind": "Function",
             "name": "connectDelegate",
             "printedName": "connectDelegate(delegate:)",
@@ -5230,6 +5543,28 @@
             "declKind": "Func",
             "usr": "s:31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC7present4from10completionySo16UIViewControllerC_yyctF",
+            "moduleName": "APSDKMediationFBAudienceNetwork",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getBiddingToken",
+            "printedName": "getBiddingToken()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC15getBiddingTokenSSyF",
+            "mangledName": "$s31APSDKMediationFBAudienceNetwork0bC18RewardVideoAdapterC15getBiddingTokenSSyF",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "Final",
@@ -5444,6 +5779,13 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RewardVideoAdapterInappBiddingProtocol",
+            "printedName": "RewardVideoAdapterInappBiddingProtocol",
+            "usr": "s:15AdPopcornSSPSDK38RewardVideoAdapterInappBiddingProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK38RewardVideoAdapterInappBiddingProtocolP"
           },
           {
             "kind": "Conformance",

@@ -22,6 +22,593 @@
         "moduleName": "APSDKMediationUnityAds"
       },
       {
+        "kind": "TypeDecl",
+        "name": "UnityAdsBannerAdapter",
+        "printedName": "UnityAdsBannerAdapter",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any AdPopcornSSPSDK.BannerAdapterDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvp",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvp",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ReferenceOwnership"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any AdPopcornSSPSDK.BannerAdapterDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerAdapterDelegate",
+                        "printedName": "any AdPopcornSSPSDK.BannerAdapterDelegate",
+                        "usr": "s:15AdPopcornSSPSDK21BannerAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvg",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvg",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any AdPopcornSSPSDK.BannerAdapterDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerAdapterDelegate",
+                        "printedName": "any AdPopcornSSPSDK.BannerAdapterDelegate",
+                        "usr": "s:15AdPopcornSSPSDK21BannerAdapterDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvs",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvs",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvM",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC8delegate15AdPopcornSSPSDK0dE8Delegate_pSgvM",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "rootViewController",
+            "printedName": "rootViewController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UIViewController?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvp",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvp",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ReferenceOwnership"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvg",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvg",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "UIKit.UIViewController?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIViewController",
+                        "printedName": "UIKit.UIViewController",
+                        "usr": "c:objc(cs)UIViewController"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvs",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvs",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvM",
+                "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC18rootViewControllerSo06UIViewH0CSgvM",
+                "moduleName": "APSDKMediationUnityAds",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(placementDic:bannerType:rootViewController:info:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UnityAdsBannerAdapter",
+                "printedName": "APSDKMediationUnityAds.UnityAdsBannerAdapter",
+                "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornBannerSize",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBannerSize",
+                "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBannerSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Any?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_15AdPopcornSSPSDK0noD4SizeOSo06UIViewL0CSgSDySSypSgGtcfc",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC12placementDic10bannerType18rootViewController4infoACSDyS2SG_15AdPopcornSSPSDK0noD4SizeOSo06UIViewL0CSgSDySSypSgGtcfc",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "connectDelegate",
+            "printedName": "connectDelegate(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BannerAdapterDelegate",
+                "printedName": "any AdPopcornSSPSDK.BannerAdapterDelegate",
+                "usr": "s:15AdPopcornSSPSDK21BannerAdapterDelegateP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC15connectDelegate8delegatey15AdPopcornSSPSDK0deG0_p_tF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC15connectDelegate8delegatey15AdPopcornSSPSDK0deG0_p_tF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "disconnectDelegate",
+            "printedName": "disconnectDelegate()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC18disconnectDelegateyyF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC18disconnectDelegateyyF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "stop",
+            "printedName": "stop()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC4stopyyF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC4stopyyF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewSuccess",
+            "printedName": "bannerViewSuccess(bannerView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC17bannerViewSuccess0fG0ySo6UIViewC_tF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewFailed",
+            "printedName": "bannerViewFailed(bannerView:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NetworkError",
+                "printedName": "AdPopcornSSPSDK.NetworkError",
+                "usr": "c:@M@AdPopcornSSPSDK@E@NetworkError"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC16bannerViewFailed0fG05errorySo6UIViewC_15AdPopcornSSPSDK12NetworkErrorOtF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC16bannerViewFailed0fG05errorySo6UIViewC_15AdPopcornSSPSDK12NetworkErrorOtF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewClicked",
+            "printedName": "bannerViewClicked(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC17bannerViewClicked7messageySS_tF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "bannerViewImpression",
+            "printedName": "bannerViewImpression(message:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
+            "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC20bannerViewImpression7messageySS_tF",
+            "moduleName": "APSDKMediationUnityAds",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:22APSDKMediationUnityAds0bC13BannerAdapterC",
+        "mangledName": "$s22APSDKMediationUnityAds0bC13BannerAdapterC",
+        "moduleName": "APSDKMediationUnityAds",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BannerAdapterProtocol",
+            "printedName": "BannerAdapterProtocol",
+            "usr": "s:15AdPopcornSSPSDK21BannerAdapterProtocolP",
+            "mangledName": "$s15AdPopcornSSPSDK21BannerAdapterProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BannerAdapterDelegate",
+            "printedName": "BannerAdapterDelegate",
+            "usr": "s:15AdPopcornSSPSDK21BannerAdapterDelegateP",
+            "mangledName": "$s15AdPopcornSSPSDK21BannerAdapterDelegateP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationUnityAds",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdPopcornSSPSDK",
+        "printedName": "AdPopcornSSPSDK",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationUnityAds"
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationUnityAds"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationUnityAds",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdPopcornSSPSDK",
+        "printedName": "AdPopcornSSPSDK",
+        "declKind": "Import",
+        "moduleName": "APSDKMediationUnityAds"
+      },
+      {
         "kind": "Import",
         "name": "UnityAds",
         "printedName": "UnityAds",

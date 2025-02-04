@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		MQnmSmvxEshGdGkLkCfMEF+PFrY=
+		0roCZ7JaDHWd6GCYZ3Jh/K+5bqM=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		k36EYvAf5UsUFRfAgjAKaR4QOJo=
+		7z0nwDzhY0JpBsDtB2XqQkqQ/Fo=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		k36EYvAf5UsUFRfAgjAKaR4QOJo=
+		7z0nwDzhY0JpBsDtB2XqQkqQ/Fo=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RGi9rG9QY1ZOkL/Jp7B6B1K0rBc=
+		5WKf3cmhWUOxqacfqTZnnGPTQ2I=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		MQnmSmvxEshGdGkLkCfMEF+PFrY=
+		0roCZ7JaDHWd6GCYZ3Jh/K+5bqM=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		x+oC/7Om1QNgWyHj1WQNQWRwyzo=
+		q9MLIfayb8Y5rxXqOItgmOR1Jk4=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		x+oC/7Om1QNgWyHj1WQNQWRwyzo=
+		q9MLIfayb8Y5rxXqOItgmOR1Jk4=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n0/qAr9kjsCyteXIH1N2kS0BJSY=
+		5UgcI0CZYPZpv/3xrfNHkQdgfzA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,14 +92,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uHtEfNCDbdAa70xziC/Psbo3c89nGSrFcEQ8yAjBsLQ=
+			xW2jj82/L9FWmIqcTabfwrSKyeBCrJLZgPoORXluolU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BL/+eDu0By3ef5I7kzgAm4Gn+TzN/tjL6kJsok7Vnuk=
+			BLZaWYbOcU3AvOkhZL97T2EQ9cDrXmMvsuAV7TJMBo0=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -113,28 +113,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BL/+eDu0By3ef5I7kzgAm4Gn+TzN/tjL6kJsok7Vnuk=
+			BLZaWYbOcU3AvOkhZL97T2EQ9cDrXmMvsuAV7TJMBo0=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kgtQuHgYCGMSoKiMDRgNeJK9cq5T2iMuJSE5y6yxQP8=
+			aLdDURhXfwTiQY+OnOfoIb1CwCvafywdGer1vCO0rhM=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uHtEfNCDbdAa70xziC/Psbo3c89nGSrFcEQ8yAjBsLQ=
+			xW2jj82/L9FWmIqcTabfwrSKyeBCrJLZgPoORXluolU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbdJGzTTtuWalxIPTd52FGq7DIw8IDC+JYG/UwfVbnI=
+			CGQkt0yMvZC4OVl6mpvctf6bYmRiodPFodk3keXM6Ok=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbdJGzTTtuWalxIPTd52FGq7DIw8IDC+JYG/UwfVbnI=
+			CGQkt0yMvZC4OVl6mpvctf6bYmRiodPFodk3keXM6Ok=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FxqhryMZAEaYBGIzAxezWop+G00N0OXtIDkJR5CJGlE=
+			u2cSRVS1hspveavVbTjMo1vMrWk4Otj68UkoRoIb1X4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

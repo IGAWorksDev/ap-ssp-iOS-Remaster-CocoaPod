@@ -82,6 +82,16 @@ extension AdPopcornSSPSDK.AdPopcornBannerView {
     get
   }
 }
+@objc public enum AdPopcornBidding : Swift.Int {
+  case FBAudienceNetwork = 1
+  case vungle = 2
+  case biddingdata = 10
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 @objc public enum MediationCompany : Swift.Int {
   case adPopcorn = 0
   case AdMob = 1
@@ -432,6 +442,9 @@ extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.Equatable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.RawRepresentable {}
+extension AdPopcornSSPSDK.AdPopcornBidding : Swift.Equatable {}
+extension AdPopcornSSPSDK.AdPopcornBidding : Swift.Hashable {}
+extension AdPopcornSSPSDK.AdPopcornBidding : Swift.RawRepresentable {}
 extension AdPopcornSSPSDK.MediationCompany : Swift.Equatable {}
 extension AdPopcornSSPSDK.MediationCompany : Swift.Hashable {}
 extension AdPopcornSSPSDK.MediationCompany : Swift.RawRepresentable {}
