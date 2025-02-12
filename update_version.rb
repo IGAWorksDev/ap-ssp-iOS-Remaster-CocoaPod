@@ -8,29 +8,29 @@
 require 'shellwords'
 
 # 업데이트할 버전 번호
-new_version = '0.0.21'
-APSSPSDK_version = '>= 0.0.21'
+new_version = '0.0.22'
+APSSPSDK_version = '>= 0.0.22'
 
 log_String = "pangle, UnityAds Banner 추가, error 수정"
 
 
 # 업데이트할 podspec 파일 경로
 podspec_files = [
-#    'AdPopcornSSPSDK.podspec',
+    'AdPopcornSSPSDK.podspec',
 #    'APSDKMediationNAM.podspec',
-    'APSDKMediationAdMob.podspec',
-    'APSDKMediationAdFit.podspec',
-    'APSDKMediationADOP.podspec',
-    'APSDKMediationAppLovin.podspec',
-    'APSDKMediationAppLovinMax.podspec',
-    'APSDKMediationCauly.podspec',
-    'APSDKMediationFBAudienceNetwork.podspec',
-    'APSDKMediationFyber.podspec',
-    'APSDKMediationMezzo.podspec',
-    'APSDKMediationMintegral.podspec',
-    'APSDKMediationPangle.podspec',
-    'APSDKMediationUnityAds.podspec',
-    'APSDKMediationvungle.podspec'
+#    'APSDKMediationAdMob.podspec',
+#    'APSDKMediationAdFit.podspec',
+#    'APSDKMediationADOP.podspec',
+#    'APSDKMediationAppLovin.podspec',
+#    'APSDKMediationAppLovinMax.podspec',
+#    'APSDKMediationCauly.podspec',
+#    'APSDKMediationFBAudienceNetwork.podspec',
+#    'APSDKMediationFyber.podspec',
+#    'APSDKMediationMezzo.podspec',
+#    'APSDKMediationMintegral.podspec',
+#    'APSDKMediationPangle.podspec',
+#    'APSDKMediationUnityAds.podspec',
+#    'APSDKMediationvungle.podspec'
     ]
 
 
