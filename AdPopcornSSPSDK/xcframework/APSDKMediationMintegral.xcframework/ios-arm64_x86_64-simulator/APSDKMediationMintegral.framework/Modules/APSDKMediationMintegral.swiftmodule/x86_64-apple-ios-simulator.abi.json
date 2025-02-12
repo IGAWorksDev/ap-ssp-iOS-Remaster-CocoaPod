@@ -1320,14 +1320,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)nativeAdView",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1352,12 +1353,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)nativeAdView",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1387,12 +1389,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setNativeAdView:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC06nativeE4ViewSo6UIViewCSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1440,14 +1443,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)iconImageView",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1472,12 +1476,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)iconImageView",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1507,12 +1512,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setIconImageView:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC13iconImageViewSo07UIImageI0CSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1560,14 +1566,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)appNameLabel",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1592,12 +1599,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)appNameLabel",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1627,12 +1635,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setAppNameLabel:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appNameLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1680,14 +1689,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)appDescLabel",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1712,12 +1722,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)appDescLabel",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1747,12 +1758,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setAppDescLabel:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12appDescLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1800,14 +1812,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)adCallButton",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1832,12 +1845,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)adCallButton",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1867,12 +1881,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setAdCallButton:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC12adCallButtonSo8UIButtonCSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1920,14 +1935,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)adChoicesViewWithConstraint",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1952,12 +1968,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)adChoicesViewWithConstraint",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1987,12 +2004,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setAdChoicesViewWithConstraint:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC27adChoicesViewWithConstraintSo08NSLayoutK0CSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2040,14 +2058,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvp",
+            "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(py)adChoicesViewHeightConstraint",
             "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvp",
             "moduleName": "APSDKMediationMintegral",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2072,12 +2091,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvg",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)adChoicesViewHeightConstraint",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvg",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2107,12 +2127,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvs",
+                "usr": "c:@M@APSDKMediationMintegral@objc(cs)APSSPMintegralNativeAdRenderable(im)setAdChoicesViewHeightConstraint:",
                 "mangledName": "$s23APSDKMediationMintegral32APSSPMintegralNativeAdRenderableC29adChoicesViewHeightConstraintSo08NSLayoutK0CSgvs",
                 "moduleName": "APSDKMediationMintegral",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },

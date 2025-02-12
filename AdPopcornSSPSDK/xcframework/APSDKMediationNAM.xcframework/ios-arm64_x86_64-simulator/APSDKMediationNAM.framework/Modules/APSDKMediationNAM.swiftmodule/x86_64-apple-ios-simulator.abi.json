@@ -2098,14 +2098,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvp",
+            "usr": "c:@M@APSDKMediationNAM@objc(cs)APSSPNAMNativeAdRenderable(py)namNativewAdView",
             "mangledName": "$s17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvp",
             "moduleName": "APSDKMediationNAM",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2130,12 +2131,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvg",
+                "usr": "c:@M@APSDKMediationNAM@objc(cs)APSSPNAMNativeAdRenderable(im)namNativewAdView",
                 "mangledName": "$s17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvg",
                 "moduleName": "APSDKMediationNAM",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2165,12 +2167,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvs",
+                "usr": "c:@M@APSDKMediationNAM@objc(cs)APSSPNAMNativeAdRenderable(im)setNamNativewAdView:",
                 "mangledName": "$s17APSDKMediationNAM26APSSPNAMNativeAdRenderableC010namNativewD4ViewSo015GFPNativeSimpledH0CSgvs",
                 "moduleName": "APSDKMediationNAM",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3702,14 +3705,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C17APSDKMediationNAME15bindNAMRenderer10renderableyAD014APSSPNAMNativeA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationNAM@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindNAMRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C17APSDKMediationNAME15bindNAMRenderer10renderableyAD014APSSPNAMNativeA10RenderableC_tF",
             "moduleName": "APSDKMediationNAM",
+            "objc_name": "bindNAMRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -3851,6 +3856,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3875,6 +3881,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3899,6 +3906,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3923,6 +3931,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3947,6 +3956,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,

@@ -2659,14 +2659,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvp",
+            "usr": "c:@M@APSDKMediationAppLovinMax@objc(cs)APSSPAppLovinNativeAdRenderable(py)nativeAdView",
             "mangledName": "$s25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvp",
             "moduleName": "APSDKMediationAppLovinMax",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2691,12 +2692,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvg",
+                "usr": "c:@M@APSDKMediationAppLovinMax@objc(cs)APSSPAppLovinNativeAdRenderable(im)nativeAdView",
                 "mangledName": "$s25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvg",
                 "moduleName": "APSDKMediationAppLovinMax",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2726,12 +2728,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvs",
+                "usr": "c:@M@APSDKMediationAppLovinMax@objc(cs)APSSPAppLovinNativeAdRenderable(im)setNativeAdView:",
                 "mangledName": "$s25APSDKMediationAppLovinMax08APSSPAppC18NativeAdRenderableC06nativeG4ViewSo08MANativegJ0CSgvs",
                 "moduleName": "APSDKMediationAppLovinMax",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3582,14 +3585,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C25APSDKMediationAppLovinMaxE04bindfgH8Renderer10renderableyAD08APSSPAppgdA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationAppLovinMax@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindAppLovinMaxRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C25APSDKMediationAppLovinMaxE04bindfgH8Renderer10renderableyAD08APSSPAppgdA10RenderableC_tF",
             "moduleName": "APSDKMediationAppLovinMax",
+            "objc_name": "bindAppLovinMaxRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"

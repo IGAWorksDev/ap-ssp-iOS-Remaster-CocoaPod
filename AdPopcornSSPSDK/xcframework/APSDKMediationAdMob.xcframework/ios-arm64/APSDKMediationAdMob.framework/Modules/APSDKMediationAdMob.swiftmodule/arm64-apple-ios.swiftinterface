@@ -65,7 +65,7 @@ extension APSDKMediationAdMob.AdMobInterstitialVideoAdapter : AdPopcornSSPSDK.In
   final public func interstitialVideoClosed(message: Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPAdMobNativeAdRenderable : ObjectiveC.NSObject {
-  final public var admobNativewAdView: GoogleMobileAds.GADNativeAdView?
+  @objc final public var admobNativewAdView: GoogleMobileAds.GADNativeAdView?
   @objc override dynamic public init()
   @objc deinit
 }
@@ -86,7 +86,7 @@ extension APSDKMediationAdMob.AdMobNativeAdapter : AdPopcornSSPSDK.NativeViewAda
   final public func nativeImpression(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindAdMobRenderer(renderable: APSDKMediationAdMob.APSSPAdMobNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindAdMobRenderer(renderable: APSDKMediationAdMob.APSSPAdMobNativeAdRenderable)
 }
 final public class AdMobRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
@@ -107,9 +107,9 @@ extension APSDKMediationAdMob.AdMobRewardVideoAdapter : AdPopcornSSPSDK.RewardVi
   final public func rewardVideoCompleted()
 }
 extension AdPopcornSSPSDK.AdPopcornSSP {
-  final public func AdMobisSupportBanner() -> Swift.Bool
-  final public func AdMobisSupportNative() -> Swift.Bool
-  final public func AdMobisSupportInterstitial() -> Swift.Bool
-  final public func AdMobisSupportInterstitialVideo() -> Swift.Bool
-  final public func AdMobisSupportRewardVideo() -> Swift.Bool
+  @objc final public func AdMobisSupportBanner() -> Swift.Bool
+  @objc final public func AdMobisSupportNative() -> Swift.Bool
+  @objc final public func AdMobisSupportInterstitial() -> Swift.Bool
+  @objc final public func AdMobisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func AdMobisSupportRewardVideo() -> Swift.Bool
 }

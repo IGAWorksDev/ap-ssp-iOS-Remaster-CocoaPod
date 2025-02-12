@@ -60,7 +60,7 @@ extension APSDKMediationAppLovinMax.AppLovinMaxInterstitialVideoAdapter : AdPopc
   final public func interstitialVideoClosed(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindAppLovinMaxRenderer(renderable: APSDKMediationAppLovinMax.APSSPAppLovinNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindAppLovinMaxRenderer(renderable: APSDKMediationAppLovinMax.APSSPAppLovinNativeAdRenderable)
 }
 final public class AppLovinMaxNativeAdapter : AdPopcornSSPSDK.NativeAdapterProtocol {
   final public var render: Swift.AnyObject?
@@ -79,7 +79,7 @@ extension APSDKMediationAppLovinMax.AppLovinMaxNativeAdapter : AdPopcornSSPSDK.N
   final public func nativeImpression(message: Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPAppLovinNativeAdRenderable : ObjectiveC.NSObject {
-  final public var nativeAdView: AppLovinSDK.MANativeAdView?
+  @objc final public var nativeAdView: AppLovinSDK.MANativeAdView?
   @objc override dynamic public init()
   @objc deinit
 }

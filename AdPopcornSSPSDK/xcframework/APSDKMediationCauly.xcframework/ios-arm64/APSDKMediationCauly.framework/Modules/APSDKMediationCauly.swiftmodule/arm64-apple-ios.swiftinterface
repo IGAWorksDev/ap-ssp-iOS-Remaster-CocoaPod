@@ -48,9 +48,9 @@ extension APSDKMediationCauly.CaulyInterstitialAdapter : AdPopcornSSPSDK.Interst
   final public func interstitialClosed(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornSSP {
-  final public func caulyisSupportBanner() -> Swift.Bool
-  final public func caulyisSupportNative() -> Swift.Bool
-  final public func caulyisSupportInterstitial() -> Swift.Bool
-  final public func caulyisSupportInterstitialVideo() -> Swift.Bool
-  final public func caulyisSupportRewardVideo() -> Swift.Bool
+  @objc final public func caulyisSupportBanner() -> Swift.Bool
+  @objc final public func caulyisSupportNative() -> Swift.Bool
+  @objc final public func caulyisSupportInterstitial() -> Swift.Bool
+  @objc final public func caulyisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func caulyisSupportRewardVideo() -> Swift.Bool
 }

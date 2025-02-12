@@ -1954,14 +1954,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvp",
+            "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(py)adfitNativewAdView",
             "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvp",
             "moduleName": "APSDKMediationAdFit",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1986,12 +1987,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvg",
+                "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(im)adfitNativewAdView",
                 "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvg",
                 "moduleName": "APSDKMediationAdFit",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2021,12 +2023,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvs",
+                "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(im)setAdfitNativewAdView:",
                 "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC012adfitNativewB4ViewSo6UIViewCSgvs",
                 "moduleName": "APSDKMediationAdFit",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2066,14 +2069,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvp",
+            "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(py)useBizBoardTemplate",
             "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvp",
             "moduleName": "APSDKMediationAdFit",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2090,12 +2094,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvg",
+                "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(im)useBizBoardTemplate",
                 "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvg",
                 "moduleName": "APSDKMediationAdFit",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2117,12 +2122,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvs",
+                "usr": "c:@M@APSDKMediationAdFit@objc(cs)APSSPAdFitNativeAdRenderable(im)setUseBizBoardTemplate:",
                 "mangledName": "$s19APSDKMediationAdFit07APSSPAdc6NativeB10RenderableC19useBizBoardTemplateSbvs",
                 "moduleName": "APSDKMediationAdFit",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3671,14 +3677,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C014APSDKMediationA3FitE04bindaF8Renderer10renderableyAD07APSSPAdfdA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationAdFit@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindAdFitRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C014APSDKMediationA3FitE04bindaF8Renderer10renderableyAD07APSSPAdfdA10RenderableC_tF",
             "moduleName": "APSDKMediationAdFit",
+            "objc_name": "bindAdFitRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -3827,6 +3835,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3851,6 +3860,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3875,6 +3885,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3899,6 +3910,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3923,6 +3935,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -3962,7 +3975,7 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/Mediation\/APSDKMediationAdFit\/APSDKMediationAdFit\/Native\/AdFitMediationNativeAdView.swift",
       "kind": "BooleanLiteral",
-      "offset": 311,
+      "offset": 323,
       "length": 5,
       "value": "false"
     }

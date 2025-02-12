@@ -65,30 +65,30 @@ extension APSDKMediationFBAudienceNetwork.FBAudienceNetworkInterstitialVideoAdap
   final public func interstitialVideoClosed(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindFBANRenderer(renderable: APSDKMediationFBAudienceNetwork.APSSPFBANNativeAdRenderable)
-  @_Concurrency.MainActor @preconcurrency final public func bindFBANRenderer(renderable: APSDKMediationFBAudienceNetwork.APSSPFBANNativeBannerRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindFBANRenderer(renderable: APSDKMediationFBAudienceNetwork.APSSPFBANNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindFBANNariveBannerRenderer(renderable: APSDKMediationFBAudienceNetwork.APSSPFBANNativeBannerRenderable)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPFBANNativeAdRenderable : ObjectiveC.NSObject {
-  final public var adUIView: UIKit.UIView?
-  final public var adIconImageView: FBAudienceNetwork.FBMediaView?
-  final public var adCoverMediaView: FBAudienceNetwork.FBMediaView?
-  final public var adTitleLable: UIKit.UILabel?
-  final public var adBodyLabel: UIKit.UILabel?
-  final public var adCallToActionButton: UIKit.UIButton?
-  final public var adSocialContextLabel: UIKit.UILabel?
-  final public var adSponsoredLabel: UIKit.UILabel?
-  final public var adChoicesView: FBAudienceNetwork.FBAdChoicesView?
+  @objc final public var adUIView: UIKit.UIView?
+  @objc final public var adIconImageView: FBAudienceNetwork.FBMediaView?
+  @objc final public var adCoverMediaView: FBAudienceNetwork.FBMediaView?
+  @objc final public var adTitleLable: UIKit.UILabel?
+  @objc final public var adBodyLabel: UIKit.UILabel?
+  @objc final public var adCallToActionButton: UIKit.UIButton?
+  @objc final public var adSocialContextLabel: UIKit.UILabel?
+  @objc final public var adSponsoredLabel: UIKit.UILabel?
+  @objc final public var adChoicesView: FBAudienceNetwork.FBAdChoicesView?
   @objc override dynamic public init()
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPFBANNativeBannerRenderable : ObjectiveC.NSObject {
-  final public var adUIView: UIKit.UIView?
-  final public var adIconImageView: FBAudienceNetwork.FBMediaView?
-  final public var adChoicesView: FBAudienceNetwork.FBAdChoicesView?
-  final public var adAdvertiserNameLabel: UIKit.UILabel?
-  final public var adSponsoredLabel: UIKit.UILabel?
-  final public var adCallToActionButton: UIKit.UIButton?
-  final public var nativeBannerAd: FBAudienceNetwork.FBNativeBannerAd?
+  @objc final public var adUIView: UIKit.UIView?
+  @objc final public var adIconImageView: FBAudienceNetwork.FBMediaView?
+  @objc final public var adChoicesView: FBAudienceNetwork.FBAdChoicesView?
+  @objc final public var adAdvertiserNameLabel: UIKit.UILabel?
+  @objc final public var adSponsoredLabel: UIKit.UILabel?
+  @objc final public var adCallToActionButton: UIKit.UIButton?
+  @objc final public var nativeBannerAd: FBAudienceNetwork.FBNativeBannerAd?
   @objc override dynamic public init()
   @objc deinit
 }

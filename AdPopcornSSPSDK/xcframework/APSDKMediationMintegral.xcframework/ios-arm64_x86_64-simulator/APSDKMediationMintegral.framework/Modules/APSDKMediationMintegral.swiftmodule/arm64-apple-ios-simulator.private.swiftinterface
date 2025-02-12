@@ -45,13 +45,13 @@ extension APSDKMediationMintegral.MintegralInterstitialVideoAdapter : AdPopcornS
   final public func interstitialVideoClosed(message: Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPMintegralNativeAdRenderable : ObjectiveC.NSObject {
-  final public var nativeAdView: UIKit.UIView?
-  final public var iconImageView: UIKit.UIImageView?
-  final public var appNameLabel: UIKit.UILabel?
-  final public var appDescLabel: UIKit.UILabel?
-  final public var adCallButton: UIKit.UIButton?
-  final public var adChoicesViewWithConstraint: UIKit.NSLayoutConstraint?
-  final public var adChoicesViewHeightConstraint: UIKit.NSLayoutConstraint?
+  @objc final public var nativeAdView: UIKit.UIView?
+  @objc final public var iconImageView: UIKit.UIImageView?
+  @objc final public var appNameLabel: UIKit.UILabel?
+  @objc final public var appDescLabel: UIKit.UILabel?
+  @objc final public var adCallButton: UIKit.UIButton?
+  @objc final public var adChoicesViewWithConstraint: UIKit.NSLayoutConstraint?
+  @objc final public var adChoicesViewHeightConstraint: UIKit.NSLayoutConstraint?
   @objc override dynamic public init()
   @objc deinit
 }

@@ -1494,14 +1494,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)nativeAdView",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1526,12 +1527,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)nativeAdView",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1561,12 +1563,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setNativeAdView:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC06nativeD4ViewSo6UIViewCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1614,14 +1617,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)iconView",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1646,12 +1650,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)iconView",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1681,12 +1686,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setIconView:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8iconViewSo07UIImageG0CSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1734,14 +1740,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)mediaView",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1766,12 +1773,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)mediaView",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1801,12 +1809,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setMediaView:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9mediaView12VungleAdsSDK05MediaG0CSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1854,14 +1863,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)titleLbl",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1886,12 +1896,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)titleLbl",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -1921,12 +1932,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setTitleLbl:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC8titleLblSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -1974,14 +1986,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)ratingLbl",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2006,12 +2019,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)ratingLbl",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2041,12 +2055,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setRatingLbl:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9ratingLblSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2094,14 +2109,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)sponsorLbl",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2126,12 +2142,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)sponsorLbl",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2161,12 +2178,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setSponsorLbl:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC10sponsorLblSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2214,14 +2232,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)privacyImage",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2246,12 +2265,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)privacyImage",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2281,12 +2301,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setPrivacyImage:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC12privacyImageSo11UIImageViewCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2334,14 +2355,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)adTextLbl",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2366,12 +2388,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)adTextLbl",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2401,12 +2424,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setAdTextLbl:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC9adTextLblSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2454,14 +2478,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvp",
+            "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(py)downloadBtn",
             "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvp",
             "moduleName": "APSDKMediationvungle",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2486,12 +2511,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvg",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)downloadBtn",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvg",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2521,12 +2547,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvs",
+                "usr": "c:@M@APSDKMediationvungle@objc(cs)APSSPVungleNativeAdRenderable(im)setDownloadBtn:",
                 "mangledName": "$s20APSDKMediationvungle29APSSPVungleNativeAdRenderableC11downloadBtnSo8UIButtonCSgvs",
                 "moduleName": "APSDKMediationvungle",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -4258,14 +4285,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20APSDKMediationvungleE18bindVungleRenderer10renderableyAD011APSSPVungledA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationvungle@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindVungleRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20APSDKMediationvungleE18bindVungleRenderer10renderableyAD011APSSPVungledA10RenderableC_tF",
             "moduleName": "APSDKMediationvungle",
+            "objc_name": "bindVungleRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -4407,6 +4436,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -4431,6 +4461,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -4455,6 +4486,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -4479,6 +4511,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,
@@ -4503,6 +4536,7 @@
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "isFromExtension": true,

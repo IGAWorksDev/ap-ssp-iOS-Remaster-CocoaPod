@@ -198,7 +198,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(py)delegate",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -208,7 +208,8 @@
               "Custom",
               "HasStorage",
               "ReferenceOwnership",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "ownership": 1,
             "hasStorage": true,
@@ -234,12 +235,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)delegate",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -269,12 +271,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)setDelegate:",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC8delegateAA0abdE8Delegate_pSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -322,7 +325,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(py)appkey",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -331,7 +334,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -356,12 +360,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)appkey",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -391,12 +396,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)setAppkey:",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkeySSSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -436,7 +442,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(py)placementID",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -444,7 +450,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -461,12 +468,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)placementID",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -488,12 +496,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)setPlacementID:",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC11placementIDSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -533,7 +542,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC7messageSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(py)message",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC7messageSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -542,7 +551,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -559,12 +569,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC7messageSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)message",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC7messageSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -586,12 +597,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC7messageSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)setMessage:",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC7messageSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -617,6 +629,93 @@
                 "accessorKind": "_modify"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(appkey:placementID:bannerSize:parentView:rootViewController:adRefreshTime:animationType:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornBannerView",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBannerView",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornBannerSize",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBannerSize",
+                "usr": "c:@M@AdPopcornSSPSDK@E@AdPopcornBannerSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AnimationType",
+                "printedName": "AdPopcornSSPSDK.AdPopcornBannerView.AnimationType",
+                "hasDefaultArg": true,
+                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)initWithAppkey:placementID:bannerSize:parentView:rootViewController:adRefreshTime:animationType:",
+            "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkey11placementID10bannerSize06parentE004rootE10Controller13adRefreshTime13animationTypeACSSSg_SSAA0abdJ0OSo6UIViewCSo0sM0CSgSiAC09AnimationR0Otcfc",
+            "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:bannerSize:parentView:rootViewController:adRefreshTime:animationType:",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Constructor",
@@ -658,18 +757,9 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "CoreFoundation.CGPoint?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGPoint",
-                    "printedName": "CoreFoundation.CGPoint",
-                    "usr": "c:@S@CGPoint"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
               },
               {
                 "kind": "TypeNominal",
@@ -708,13 +798,15 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC6appkey11placementID10bannerSize6origin06parentE004rootE10Controller13adRefreshTime13animationTypeACSSSg_SSAA0abdJ0OSo7CGPointVSgSo6UIViewCSo0uN0CSgSiAC09AnimationS0Otcfc",
-            "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkey11placementID10bannerSize6origin06parentE004rootE10Controller13adRefreshTime13animationTypeACSSSg_SSAA0abdJ0OSo7CGPointVSgSo6UIViewCSo0uN0CSgSiAC09AnimationS0Otcfc",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)initWithAppkey:placementID:bannerSize:origin:parentView:rootViewController:adRefreshTime:animationType:",
+            "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC6appkey11placementID10bannerSize6origin06parentE004rootE10Controller13adRefreshTime13animationTypeACSSSg_SSAA0abdJ0OSo7CGPointVSo6UIViewCSo0uN0CSgSiAC09AnimationS0Otcfc",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:bannerSize:origin:parentView:rootViewController:adRefreshTime:animationType:",
             "declAttributes": [
               "Preconcurrency",
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Designated"
           },
@@ -730,14 +822,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC04loadA0yyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)loadAd",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC04loadA0yyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -754,14 +847,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC4stopyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)stop",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC4stopyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -996,7 +1090,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO4noneyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO4noneyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 0
               },
               {
                 "kind": "Var",
@@ -1033,7 +1131,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8curlDownyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8curlDownyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 1
               },
               {
                 "kind": "Var",
@@ -1070,7 +1172,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO6curlUpyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO6curlUpyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 2
               },
               {
                 "kind": "Var",
@@ -1107,7 +1213,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO12flipFromLeftyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO12flipFromLeftyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 3
               },
               {
                 "kind": "Var",
@@ -1144,7 +1254,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO13flipFromRightyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO13flipFromRightyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 4
               },
               {
                 "kind": "Var",
@@ -1181,44 +1295,49 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO6fadeInyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO6fadeInyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 5
               },
               {
-                "kind": "Function",
-                "name": "==",
-                "printedName": "==(_:_:)",
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
+                    "name": "Optional",
+                    "printedName": "AdPopcornSSPSDK.AdPopcornBannerView.AnimationType?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AnimationType",
+                        "printedName": "AdPopcornSSPSDK.AdPopcornBannerView.AnimationType",
+                        "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "AnimationType",
-                    "printedName": "AdPopcornSSPSDK.AdPopcornBannerView.AnimationType",
-                    "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "AnimationType",
-                    "printedName": "AdPopcornSSPSDK.AdPopcornBannerView.AnimationType",
-                    "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
-                "declKind": "Func",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO2eeoiySbAE_AEtFZ",
-                "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO2eeoiySbAE_AEtFZ",
+                "declKind": "Constructor",
+                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueAESgSi_tcfc",
+                "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueAESgSi_tcfc",
                 "moduleName": "AdPopcornSSPSDK",
-                "static": true,
                 "implicit": true,
-                "funcSelfKind": "NonMutating"
+                "init_kind": "Designated"
               },
               {
                 "kind": "Var",
-                "name": "hashValue",
-                "printedName": "hashValue",
+                "name": "rawValue",
+                "printedName": "rawValue",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1228,8 +1347,8 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO9hashValueSivp",
-                "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO9hashValueSivp",
+                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueSivp",
+                "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueSivp",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "accessors": [
@@ -1246,38 +1365,13 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO9hashValueSivg",
-                    "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO9hashValueSivg",
+                    "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueSivg",
+                    "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO8rawValueSivg",
                     "moduleName": "AdPopcornSSPSDK",
                     "implicit": true,
                     "accessorKind": "get"
                   }
                 ]
-              },
-              {
-                "kind": "Function",
-                "name": "hash",
-                "printedName": "hash(into:)",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Hasher",
-                    "printedName": "Swift.Hasher",
-                    "paramValueOwnership": "InOut",
-                    "usr": "s:s6HasherV"
-                  }
-                ],
-                "declKind": "Func",
-                "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO4hash4intoys6HasherVz_tF",
-                "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO4hash4intoys6HasherVz_tF",
-                "moduleName": "AdPopcornSSPSDK",
-                "implicit": true,
-                "funcSelfKind": "NonMutating"
               },
               {
                 "kind": "Var",
@@ -1345,9 +1439,11 @@
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC13AnimationTypeO",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
+            "enumRawTypeName": "Int",
             "conformances": [
               {
                 "kind": "Conformance",
@@ -1376,6 +1472,28 @@
                 "printedName": "Hashable",
                 "usr": "s:SH",
                 "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
               },
               {
                 "kind": "Conformance",
@@ -1419,8 +1537,8 @@
           "Custom",
           "AccessControl",
           "Final",
-          "RawDocComment",
-          "ObjC"
+          "ObjC",
+          "RawDocComment"
         ],
         "superclassUsr": "c:objc(cs)UIView",
         "hasMissingDesignatedInitializers": true,
@@ -4687,7 +4805,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(py)delegate",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -4695,7 +4813,8 @@
               "Final",
               "HasStorage",
               "ReferenceOwnership",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "ownership": 1,
             "hasStorage": true,
@@ -4721,12 +4840,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)delegate",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -4756,12 +4876,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)setDelegate:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C8delegateAA0abdA8Delegate_pSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -4801,13 +4922,14 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(py)placementID",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4824,12 +4946,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)placementID",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -4851,12 +4974,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)setPlacementID:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C11placementIDSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -4904,14 +5028,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(py)appkey",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4936,12 +5061,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)appkey",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -4971,12 +5097,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)setAppkey:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C6appkeySSSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -5016,14 +5143,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(py)message",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -5040,12 +5168,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)message",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -5067,12 +5196,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)setMessage:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C7messageSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -5112,14 +5242,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(py)backgroundColor",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -5136,12 +5267,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)backgroundColor",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -5163,12 +5295,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)setBackgroundColor:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C15backgroundColorSo7UIColorCvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -5244,11 +5377,13 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewJ0CSgtcfc",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)initWithAppkey:placementID:rootViewController:",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewJ0CSgtcfc",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:rootViewController:",
             "declAttributes": [
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "init_kind": "Designated"
@@ -5265,12 +5400,13 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C4loadyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)load",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C4loadyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -5292,12 +5428,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab12InterstitialA0C7present4fromySo16UIViewControllerC_tF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialAd(im)presentFrom:",
             "mangledName": "$s15AdPopcornSSPSDK0ab12InterstitialA0C7present4fromySo16UIViewControllerC_tF",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "presentFrom:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -5888,7 +6026,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(py)delegate",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -5896,7 +6034,8 @@
               "Final",
               "HasStorage",
               "ReferenceOwnership",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "ownership": 1,
             "hasStorage": true,
@@ -5922,12 +6061,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)delegate",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -5957,12 +6097,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)setDelegate:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C8delegateAA0abdeA8Delegate_pSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -6010,14 +6151,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(py)appkey",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -6042,12 +6184,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)appkey",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -6077,12 +6220,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)setAppkey:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkeySSSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -6122,13 +6266,14 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(py)placementID",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -6145,12 +6290,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)placementID",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -6172,12 +6318,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)setPlacementID:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C11placementIDSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -6217,14 +6364,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(py)message",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -6241,12 +6389,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)message",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -6268,12 +6417,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)setMessage:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C7messageSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -6349,11 +6499,13 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewK0CSgtcfc",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)initWithAppkey:placementID:rootViewController:",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewK0CSgtcfc",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:rootViewController:",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Designated"
           },
@@ -6375,12 +6527,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C7present4fromySo16UIViewControllerC_tF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)presentFrom:",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C7present4fromySo16UIViewControllerC_tF",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "presentFrom:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -6396,12 +6550,13 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab17InterstitialVideoA0C4loadyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornInterstitialVideoAd(im)load",
             "mangledName": "$s15AdPopcornSSPSDK0ab17InterstitialVideoA0C4loadyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -10435,14 +10590,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)nativeView",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -10467,12 +10623,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)nativeView",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -10502,12 +10659,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setNativeView:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC10nativeViewAA0abeaH0CSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -10555,14 +10713,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)adTitleLabel",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -10587,12 +10746,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)adTitleLabel",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -10622,12 +10782,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setAdTitleLabel:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC12adTitleLabelSo7UILabelCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -10675,14 +10836,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)adDescLabel",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -10707,12 +10869,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)adDescLabel",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -10742,12 +10905,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setAdDescLabel:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adDescLabelSo7UILabelCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -10795,14 +10959,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)adMainImageView",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -10827,12 +10992,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)adMainImageView",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -10862,12 +11028,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setAdMainImageView:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC15adMainImageViewSo07UIImageJ0CSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -10915,14 +11082,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)adAppIconView",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -10947,12 +11115,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)adAppIconView",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -10982,12 +11151,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setAdAppIconView:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC13adAppIconViewSo07UIImageJ0CSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11035,14 +11205,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(py)adCTAButton",
             "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -11067,12 +11238,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)adCTAButton",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11102,12 +11274,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APSSPAdPopcornNativeAdRenderable(im)setAdCTAButton:",
                 "mangledName": "$s15AdPopcornSSPSDK07APSSPAdb6NativeA10RenderableC11adCTAButtonSo8UIButtonCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11446,7 +11619,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)delegate",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -11456,7 +11629,8 @@
               "Custom",
               "HasStorage",
               "ReferenceOwnership",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "ownership": 1,
             "hasStorage": true,
@@ -11482,12 +11656,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)delegate",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11517,12 +11692,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setDelegate:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C8delegateAA0abdA8Delegate_pSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11570,7 +11746,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)appkey",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -11579,7 +11755,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -11604,12 +11781,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)appkey",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11639,12 +11817,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setAppkey:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C6appkeySSSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11684,7 +11863,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)placementID",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -11692,7 +11871,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -11709,12 +11889,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)placementID",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11736,12 +11917,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setPlacementID:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C11placementIDSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11781,7 +11963,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C7messageSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)message",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C7messageSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -11790,7 +11972,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -11807,12 +11990,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C7messageSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)message",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C7messageSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11834,12 +12018,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C7messageSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setMessage:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C7messageSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11874,20 +12059,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)adMobRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -11896,6 +12082,7 @@
               "Custom",
               "HasStorage",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "hasStorage": true,
@@ -11908,24 +12095,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)adMobRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -11942,24 +12131,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setAdMobRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -11975,8 +12166,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adMobRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -11994,20 +12185,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)namRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12015,7 +12207,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12027,24 +12220,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)namRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12061,24 +12256,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setNamRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12094,8 +12291,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C13namRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C13namRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12113,20 +12310,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)adfitRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12134,7 +12332,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12146,24 +12345,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)adfitRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12180,24 +12381,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setAdfitRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12213,8 +12416,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C15adfitRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12232,20 +12435,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)adopRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12253,7 +12457,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12265,24 +12470,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)adopRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12299,24 +12506,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setAdopRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12332,8 +12541,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C14adopRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12351,20 +12560,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)vungleRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12372,7 +12582,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12384,24 +12595,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)vungleRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12418,24 +12631,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setVungleRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12451,8 +12666,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C16vungleRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12470,20 +12685,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)applovinMaxRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12491,7 +12707,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12503,24 +12720,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)applovinMaxRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12537,24 +12756,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setApplovinMaxRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12570,8 +12791,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C21applovinMaxRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12589,20 +12810,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)FBANNativeRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12610,7 +12832,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12622,24 +12845,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)FBANNativeRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12656,24 +12881,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setFBANNativeRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12689,8 +12916,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C20FBANNativeRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12708,20 +12935,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "AnyObject?",
+                "printedName": "ObjectiveC.NSObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "AnyObject"
+                    "name": "NSObject",
+                    "printedName": "ObjectiveC.NSObject",
+                    "usr": "c:objc(cs)NSObject"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvp",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(py)FBANnativeBannerRenderable",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableSo8NSObjectCSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -12729,7 +12957,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -12741,24 +12970,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvg",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)FBANnativeBannerRenderable",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableSo8NSObjectCSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -12775,24 +13006,26 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "AnyObject?",
+                    "printedName": "ObjectiveC.NSObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "AnyObject"
+                        "name": "NSObject",
+                        "printedName": "ObjectiveC.NSObject",
+                        "usr": "c:objc(cs)NSObject"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvs",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)setFBANnativeBannerRenderable:",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableSo8NSObjectCSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -12808,8 +13041,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvM",
-                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableyXlSgvM",
+                "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableSo8NSObjectCSgvM",
+                "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C26FBANnativeBannerRenderableSo8NSObjectCSgvM",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
@@ -12895,13 +13128,15 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewJ0CSgtcfc",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)initWithAppkey:placementID:rootViewController:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewJ0CSgtcfc",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:rootViewController:",
             "declAttributes": [
               "Preconcurrency",
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Designated"
           },
@@ -12917,14 +13152,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C4loadyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)load",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C4loadyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -12940,14 +13176,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C4stopyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)stop",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C4stopyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -13119,19 +13356,20 @@
                 "kind": "TypeNominal",
                 "name": "Bool",
                 "printedName": "Swift.Bool",
-                "hasDefaultArg": true,
                 "usr": "s:Sb"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C04bindA15PopcronRenderer02adB6Render11useTemplateyAA07APSSPAdbdA10RenderableC_SbtF",
+            "usr": "c:@CM@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindAdPopcronRendererWithAdPopcornRender:useTemplate:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C04bindA15PopcronRenderer02adB6Render11useTemplateyAA07APSSPAdbdA10RenderableC_SbtF",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "bindAdPopcronRendererWithAdPopcornRender:useTemplate:",
             "declAttributes": [
               "Final",
               "Preconcurrency",
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -14783,7 +15021,7 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(py)delegate",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
@@ -14791,7 +15029,8 @@
               "Final",
               "HasStorage",
               "ReferenceOwnership",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "ownership": 1,
             "hasStorage": true,
@@ -14817,12 +15056,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)delegate",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -14852,12 +15092,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)setDelegate:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C8delegateAA0abdeA8Delegate_pSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -14905,14 +15146,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(py)appkey",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -14937,12 +15179,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)appkey",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -14972,12 +15215,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)setAppkey:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C6appkeySSSgvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -15017,13 +15261,14 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(py)placementID",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -15040,12 +15285,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)placementID",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -15067,12 +15313,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)setPlacementID:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C11placementIDSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -15112,14 +15359,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvp",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(py)message",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvp",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -15136,12 +15384,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvg",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)message",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvg",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -15163,12 +15412,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvs",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)setMessage:",
                 "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C7messageSSvs",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -15244,11 +15494,13 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewK0CSgtcfc",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)initWithAppkey:placementID:rootViewController:",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C6appkey11placementID18rootViewControllerACSSSg_SSSo06UIViewK0CSgtcfc",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "initWithAppkey:placementID:rootViewController:",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Designated"
           },
@@ -15270,12 +15522,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C7present4fromySo16UIViewControllerC_tF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)presentFrom:",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C7present4fromySo16UIViewControllerC_tF",
             "moduleName": "AdPopcornSSPSDK",
+            "objc_name": "presentFrom:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -15291,12 +15545,13 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab11RewardVideoA0C4loadyyF",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornRewardVideoAd(im)load",
             "mangledName": "$s15AdPopcornSSPSDK0ab11RewardVideoA0C4loadyyF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -16396,7 +16651,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO3allyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO3allyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 0
               },
               {
                 "kind": "Var",
@@ -16433,7 +16692,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO7networkyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO7networkyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 1
               },
               {
                 "kind": "Var",
@@ -16470,7 +16733,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO4infoyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO4infoyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 2
               },
               {
                 "kind": "Var",
@@ -16507,7 +16774,11 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO5erroryA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO5erroryA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 3
               },
               {
                 "kind": "Var",
@@ -16544,44 +16815,49 @@
                 "declKind": "EnumElement",
                 "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO4noneyA2EmF",
                 "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO4noneyA2EmF",
-                "moduleName": "AdPopcornSSPSDK"
+                "moduleName": "AdPopcornSSPSDK",
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "fixedbinaryorder": 4
               },
               {
-                "kind": "Function",
-                "name": "==",
-                "printedName": "==(_:_:)",
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Bool",
-                    "printedName": "Swift.Bool",
-                    "usr": "s:Sb"
+                    "name": "Optional",
+                    "printedName": "AdPopcornSSPSDK.APLogger.Log?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Log",
+                        "printedName": "AdPopcornSSPSDK.APLogger.Log",
+                        "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Log",
-                    "printedName": "AdPopcornSSPSDK.APLogger.Log",
-                    "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Log",
-                    "printedName": "AdPopcornSSPSDK.APLogger.Log",
-                    "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
-                "declKind": "Func",
-                "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO2eeoiySbAE_AEtFZ",
-                "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO2eeoiySbAE_AEtFZ",
+                "declKind": "Constructor",
+                "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO8rawValueAESgSi_tcfc",
+                "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO8rawValueAESgSi_tcfc",
                 "moduleName": "AdPopcornSSPSDK",
-                "static": true,
                 "implicit": true,
-                "funcSelfKind": "NonMutating"
+                "init_kind": "Designated"
               },
               {
                 "kind": "Var",
-                "name": "hashValue",
-                "printedName": "hashValue",
+                "name": "rawValue",
+                "printedName": "rawValue",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -16591,8 +16867,8 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO9hashValueSivp",
-                "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO9hashValueSivp",
+                "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO8rawValueSivp",
+                "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO8rawValueSivp",
                 "moduleName": "AdPopcornSSPSDK",
                 "implicit": true,
                 "accessors": [
@@ -16609,38 +16885,13 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO9hashValueSivg",
-                    "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO9hashValueSivg",
+                    "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO8rawValueSivg",
+                    "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO8rawValueSivg",
                     "moduleName": "AdPopcornSSPSDK",
                     "implicit": true,
                     "accessorKind": "get"
                   }
                 ]
-              },
-              {
-                "kind": "Function",
-                "name": "hash",
-                "printedName": "hash(into:)",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Hasher",
-                    "printedName": "Swift.Hasher",
-                    "paramValueOwnership": "InOut",
-                    "usr": "s:s6HasherV"
-                  }
-                ],
-                "declKind": "Func",
-                "usr": "s:15AdPopcornSSPSDK8APLoggerC3LogO4hash4intoys6HasherVz_tF",
-                "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO4hash4intoys6HasherVz_tF",
-                "moduleName": "AdPopcornSSPSDK",
-                "implicit": true,
-                "funcSelfKind": "NonMutating"
               }
             ],
             "declKind": "Enum",
@@ -16648,8 +16899,10 @@
             "mangledName": "$s15AdPopcornSSPSDK8APLoggerC3LogO",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
+            "enumRawTypeName": "Int",
             "conformances": [
               {
                 "kind": "Conformance",
@@ -16678,8 +16931,56 @@
                 "printedName": "Hashable",
                 "usr": "s:SH",
                 "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "APLogger",
+                "printedName": "AdPopcornSSPSDK.APLogger",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APLogger"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APLogger(im)init",
+            "mangledName": "$s15AdPopcornSSPSDK8APLoggerCACycfc",
+            "moduleName": "AdPopcornSSPSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Function",
@@ -16887,13 +17188,18 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:15AdPopcornSSPSDK8APLoggerC",
+        "usr": "c:@M@AdPopcornSSPSDK@objc(cs)APLogger",
         "mangledName": "$s15AdPopcornSSPSDK8APLoggerC",
         "moduleName": "AdPopcornSSPSDK",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
-        "hasMissingDesignatedInitializers": true,
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
         "conformances": [
           {
             "kind": "Conformance",
@@ -16908,6 +17214,55 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
       },
@@ -17002,13 +17357,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC9setUSerID3usnySS_tFZ",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(cm)setUSerIDWithUsn:",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC9setUSerID3usnySS_tFZ",
             "moduleName": "AdPopcornSSPSDK",
             "static": true,
+            "objc_name": "setUSerIDWithUsn:",
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -17031,13 +17388,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC13initializeSDK6appKeyySS_tFZ",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(cm)initializeSDKWithAppKey:",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC13initializeSDK6appKeyySS_tFZ",
             "moduleName": "AdPopcornSSPSDK",
             "static": true,
+            "objc_name": "initializeSDKWithAppKey:",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -17059,13 +17418,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC10setLogTypeyyAA8APLoggerC0F0OFZ",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(cm)setLogType:",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC10setLogTypeyyAA8APLoggerC0F0OFZ",
             "moduleName": "AdPopcornSSPSDK",
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -17093,26 +17453,58 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC23presentCSViewController_6userIDySo06UIViewG0C_SStFZ",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(cm)presentCSViewController:userID:",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC23presentCSViewController_6userIDySo06UIViewG0C_SStFZ",
             "moduleName": "AdPopcornSSPSDK",
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AdPopcornSSP",
+                "printedName": "AdPopcornSSPSDK.AdPopcornSSP",
+                "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)init",
+            "mangledName": "$s15AdPopcornSSPSDK0aB3SSPCACycfc",
+            "moduleName": "AdPopcornSSPSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
           }
         ],
         "declKind": "Class",
-        "usr": "s:15AdPopcornSSPSDK0aB3SSPC",
+        "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP",
         "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC",
         "moduleName": "AdPopcornSSPSDK",
         "declAttributes": [
           "Final",
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
-        "hasMissingDesignatedInitializers": true,
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
         "conformances": [
           {
             "kind": "Conformance",
@@ -17127,6 +17519,55 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
       }
@@ -17137,14 +17578,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "StringLiteral",
-      "offset": 1143,
+      "offset": 1173,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1488,
+      "offset": 1518,
       "length": 4,
       "value": "true"
     },
@@ -17157,10 +17598,52 @@
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2639,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6758,
+      "offset": 7628,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10615,
+      "length": 8,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10637,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10657,
+      "length": 12,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10683,
+      "length": 13,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10710,
+      "length": 6,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornMediationBannerViewModel.swift",
@@ -17683,14 +18166,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Interstitial\/AdPopcornInterstitialAd.swift",
       "kind": "StringLiteral",
-      "offset": 1028,
+      "offset": 1052,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Interstitial\/AdPopcornInterstitialAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 1312,
+      "offset": 1342,
       "length": 5,
       "value": "false"
     },
@@ -17711,14 +18194,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/InterstitialVideo\/AdPopcornInterstitialVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 1142,
+      "offset": 1166,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/InterstitialVideo\/AdPopcornInterstitialVideoAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 1456,
+      "offset": 1480,
       "length": 5,
       "value": "false"
     },
@@ -18656,21 +19139,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Native\/AdPopcornNativeAd.swift",
       "kind": "StringLiteral",
-      "offset": 806,
+      "offset": 830,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Native\/AdPopcornNativeAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 1063,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Native\/AdPopcornNativeAd.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4363,
+      "offset": 1087,
       "length": 5,
       "value": "false"
     },
@@ -18698,14 +19174,14 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/RewardVideo\/AdPopcornRewardVideoAd.swift",
       "kind": "StringLiteral",
-      "offset": 1144,
+      "offset": 1168,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/RewardVideo\/AdPopcornRewardVideoAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 1304,
+      "offset": 1328,
       "length": 5,
       "value": "false"
     },
@@ -20668,6 +21144,34 @@
       "offset": 488,
       "length": 12,
       "value": "\"🔴 Error\""
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Utils\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 654,
+      "length": 7,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Utils\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 675,
+      "length": 4,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Utils\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 693,
+      "length": 5,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Utils\/Logger.swift",
+      "kind": "IntegerLiteral",
+      "offset": 712,
+      "length": 4,
+      "value": "4"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Utils\/ParameterUtils.swift",

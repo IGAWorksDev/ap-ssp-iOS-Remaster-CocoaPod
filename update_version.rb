@@ -16,8 +16,8 @@ log_String = "pangle, UnityAds Banner 추가, error 수정"
 
 # 업데이트할 podspec 파일 경로
 podspec_files = [
-    'AdPopcornSSPSDK.podspec',
-    'APSDKMediationNAM.podspec',
+#    'AdPopcornSSPSDK.podspec',
+#    'APSDKMediationNAM.podspec',
     'APSDKMediationAdMob.podspec',
     'APSDKMediationAdFit.podspec',
     'APSDKMediationADOP.podspec',
@@ -44,9 +44,9 @@ podspec_files = [
 
 
 # git 변경사항 추가
-  system("git add .")
-  commit_message = "#{new_version}.ver 업데이트 #{log_String}".shellescape
-  system("git commit -m \"#{commit_message}\"")
+#  system("git add .")
+#  commit_message = "#{new_version}.ver 업데이트 #{log_String}".shellescape
+#  system("git commit -m \"#{commit_message}\"")
 #  system("git push") # 브랜치 연결이 잘 되어 있는지 확인해야 됨!!
 
 
@@ -61,11 +61,11 @@ podspec_files = [
 
 
 
-## podspec 파일 업데이트
-#podspec_files.each do |podspec|
-#    if podspec == 'APSDKMediationNAM.podspec'
-#        system("pod trunk push #{podspec} --skip-import-validation")
-#    else
-#        system("pod trunk push #{podspec}")
-#    end
-#end
+# podspec 파일 업데이트
+podspec_files.each do |podspec|
+    if podspec == 'APSDKMediationNAM.podspec'
+        system("pod trunk push #{podspec} --skip-import-validation")
+    else
+        system("pod trunk push #{podspec}")
+    end
+end

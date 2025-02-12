@@ -65,10 +65,10 @@ extension APSDKMediationNAM.NAMInterstitialVideoAdapter : AdPopcornSSPSDK.Inters
   final public func interstitialVideoClosed(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindNAMRenderer(renderable: APSDKMediationNAM.APSSPNAMNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindNAMRenderer(renderable: APSDKMediationNAM.APSSPNAMNativeAdRenderable)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPNAMNativeAdRenderable : ObjectiveC.NSObject {
-  final public var namNativewAdView: GFPSDK.GFPNativeSimpleAdView?
+  @objc final public var namNativewAdView: GFPSDK.GFPNativeSimpleAdView?
   @objc override dynamic public init()
   @objc deinit
 }
@@ -107,9 +107,9 @@ extension APSDKMediationNAM.NAMRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoA
   final public func rewardVideoCompleted()
 }
 extension AdPopcornSSPSDK.AdPopcornSSP {
-  final public func NAMisSupportBanner() -> Swift.Bool
-  final public func NAMisSupportNative() -> Swift.Bool
-  final public func NAMisSupportInterstitial() -> Swift.Bool
-  final public func NAMisSupportInterstitialVideo() -> Swift.Bool
-  final public func NAMisSupportRewardVideo() -> Swift.Bool
+  @objc final public func NAMisSupportBanner() -> Swift.Bool
+  @objc final public func NAMisSupportNative() -> Swift.Bool
+  @objc final public func NAMisSupportInterstitial() -> Swift.Bool
+  @objc final public func NAMisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func NAMisSupportRewardVideo() -> Swift.Bool
 }

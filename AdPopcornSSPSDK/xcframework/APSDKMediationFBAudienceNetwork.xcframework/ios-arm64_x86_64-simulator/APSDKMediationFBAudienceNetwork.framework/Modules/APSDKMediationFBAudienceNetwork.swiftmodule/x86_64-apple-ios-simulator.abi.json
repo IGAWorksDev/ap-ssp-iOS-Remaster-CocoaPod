@@ -2243,14 +2243,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adUIView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2275,12 +2276,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adUIView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2310,12 +2312,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdUIView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC8adUIViewSo0H0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2363,14 +2366,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adIconImageView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2395,12 +2399,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adIconImageView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2430,12 +2435,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdIconImageView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC15adIconImageViewSo07FBMediaJ0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2483,14 +2489,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adCoverMediaView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2515,12 +2522,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adCoverMediaView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2550,12 +2558,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdCoverMediaView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adCoverMediaViewSo07FBMediaJ0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2603,14 +2612,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adTitleLable",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2635,12 +2645,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adTitleLable",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2670,12 +2681,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdTitleLable:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC12adTitleLableSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2723,14 +2735,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adBodyLabel",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2755,12 +2768,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adBodyLabel",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2790,12 +2804,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdBodyLabel:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC11adBodyLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2843,14 +2858,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adCallToActionButton",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2875,12 +2891,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adCallToActionButton",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2910,12 +2927,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdCallToActionButton:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adCallToActionButtonSo8UIButtonCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -2963,14 +2981,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adSocialContextLabel",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2995,12 +3014,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adSocialContextLabel",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3030,12 +3050,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdSocialContextLabel:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC20adSocialContextLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3083,14 +3104,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adSponsoredLabel",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3115,12 +3137,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adSponsoredLabel",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3150,12 +3173,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdSponsoredLabel:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC16adSponsoredLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3203,14 +3227,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(py)adChoicesView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3235,12 +3260,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)adChoicesView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3270,12 +3296,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeAdRenderable(im)setAdChoicesView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork27APSSPFBANNativeAdRenderableC13adChoicesViewSo04FBAdhI0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3435,14 +3462,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adUIView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3467,12 +3495,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adUIView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3502,12 +3531,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdUIView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC8adUIViewSo0H0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3555,14 +3585,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adIconImageView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3587,12 +3618,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adIconImageView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3622,12 +3654,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdIconImageView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC15adIconImageViewSo07FBMediaJ0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3675,14 +3708,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adChoicesView",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3707,12 +3741,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adChoicesView",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3742,12 +3777,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdChoicesView:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC13adChoicesViewSo04FBAdhI0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3795,14 +3831,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adAdvertiserNameLabel",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3827,12 +3864,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adAdvertiserNameLabel",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3862,12 +3900,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdAdvertiserNameLabel:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC21adAdvertiserNameLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3915,14 +3954,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adSponsoredLabel",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -3947,12 +3987,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adSponsoredLabel",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -3982,12 +4023,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdSponsoredLabel:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC16adSponsoredLabelSo7UILabelCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -4035,14 +4077,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)adCallToActionButton",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4067,12 +4110,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)adCallToActionButton",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -4102,12 +4146,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setAdCallToActionButton:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC20adCallToActionButtonSo8UIButtonCSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -4155,14 +4200,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvp",
+            "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(py)nativeBannerAd",
             "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvp",
             "moduleName": "APSDKMediationFBAudienceNetwork",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -4187,12 +4233,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvg",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)nativeBannerAd",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvg",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -4222,12 +4269,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvs",
+                "usr": "c:@M@APSDKMediationFBAudienceNetwork@objc(cs)APSSPFBANNativeBannerRenderable(im)setNativeBannerAd:",
                 "mangledName": "$s31APSDKMediationFBAudienceNetwork31APSSPFBANNativeBannerRenderableC06nativeE2AdSo08FBNativeeH0CSgvs",
                 "moduleName": "APSDKMediationFBAudienceNetwork",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -5826,22 +5874,24 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C31APSDKMediationFBAudienceNetworkE16bindFBANRenderer10renderableyAD015APSSPFBANNativeA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationFBAudienceNetwork@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindFBANRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C31APSDKMediationFBAudienceNetworkE16bindFBANRenderer10renderableyAD015APSSPFBANNativeA10RenderableC_tF",
             "moduleName": "APSDKMediationFBAudienceNetwork",
+            "objc_name": "bindFBANRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Function",
-            "name": "bindFBANRenderer",
-            "printedName": "bindFBANRenderer(renderable:)",
+            "name": "bindFBANNariveBannerRenderer",
+            "printedName": "bindFBANNariveBannerRenderer(renderable:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5856,14 +5906,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C31APSDKMediationFBAudienceNetworkE16bindFBANRenderer10renderableyAD31APSSPFBANNativeBannerRenderableC_tF",
-            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C31APSDKMediationFBAudienceNetworkE16bindFBANRenderer10renderableyAD31APSSPFBANNativeBannerRenderableC_tF",
+            "usr": "c:@CM@APSDKMediationFBAudienceNetwork@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindFBANNariveBannerRendererWithRenderable:",
+            "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C31APSDKMediationFBAudienceNetworkE28bindFBANNariveBannerRenderer10renderableyAD015APSSPFBANNativeJ10RenderableC_tF",
             "moduleName": "APSDKMediationFBAudienceNetwork",
+            "objc_name": "bindFBANNariveBannerRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"

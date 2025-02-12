@@ -4,3 +4,8 @@ framework module AdPopcornSSPSDK {
 
   module * { export * }
 }
+
+module AdPopcornSSPSDK.Swift {
+  header "AdPopcornSSPSDK-Swift.h"
+  requires objc
+}

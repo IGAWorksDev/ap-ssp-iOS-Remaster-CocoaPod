@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name AdPopcornSSPSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 @_exported import AdPopcornSSPSDK
 import AdSupport
@@ -21,15 +22,16 @@ import _SwiftConcurrencyShims
   @objc optional func adPopcornBannerViewClicked(bannerView: AdPopcornSSPSDK.AdPopcornBannerView)
   @objc optional func adPopcornBannerViewImpression(bannerView: AdPopcornSSPSDK.AdPopcornBannerView)
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency final public class AdPopcornBannerView : UIKit.UIView {
-  @_Concurrency.MainActor @preconcurrency weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornBannerViewDelegate)?
-  @_Concurrency.MainActor @preconcurrency final public var appkey: Swift.String?
-  @_Concurrency.MainActor @preconcurrency final public var placementID: Swift.String
-  @_Concurrency.MainActor @preconcurrency final public var message: Swift.String
-  @_Concurrency.MainActor @preconcurrency public init(appkey: Swift.String? = nil, placementID: Swift.String, bannerSize: AdPopcornSSPSDK.AdPopcornBannerSize, origin: CoreFoundation.CGPoint? = nil, parentView: UIKit.UIView, rootViewController: UIKit.UIViewController? = nil, adRefreshTime: Swift.Int = 60, animationType: AdPopcornSSPSDK.AdPopcornBannerView.AnimationType = .none)
+@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor @preconcurrency final public class AdPopcornBannerView : UIKit.UIView {
+  @objc @_Concurrency.MainActor @preconcurrency weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornBannerViewDelegate)?
+  @objc @_Concurrency.MainActor @preconcurrency final public var appkey: Swift.String?
+  @objc @_Concurrency.MainActor @preconcurrency final public var placementID: Swift.String
+  @objc @_Concurrency.MainActor @preconcurrency final public var message: Swift.String
+  @objc @_Concurrency.MainActor @preconcurrency public init(appkey: Swift.String? = nil, placementID: Swift.String, bannerSize: AdPopcornSSPSDK.AdPopcornBannerSize, parentView: UIKit.UIView, rootViewController: UIKit.UIViewController? = nil, adRefreshTime: Swift.Int = 60, animationType: AdPopcornSSPSDK.AdPopcornBannerView.AnimationType = .none)
+  @objc @_Concurrency.MainActor @preconcurrency public init(appkey: Swift.String? = nil, placementID: Swift.String, bannerSize: AdPopcornSSPSDK.AdPopcornBannerSize, origin: CoreFoundation.CGPoint, parentView: UIKit.UIView, rootViewController: UIKit.UIViewController? = nil, adRefreshTime: Swift.Int = 60, animationType: AdPopcornSSPSDK.AdPopcornBannerView.AnimationType = .none)
   @objc deinit
-  @_Concurrency.MainActor @preconcurrency final public func loadAd()
-  @_Concurrency.MainActor @preconcurrency final public func stop()
+  @objc @_Concurrency.MainActor @preconcurrency final public func loadAd()
+  @objc @_Concurrency.MainActor @preconcurrency final public func stop()
 }
 extension AdPopcornSSPSDK.AdPopcornBannerView : AdPopcornSSPSDK.BannerAdapterDelegate {
   @_Concurrency.MainActor @preconcurrency final public func bannerViewSuccess(bannerView: UIKit.UIView)
@@ -41,20 +43,20 @@ extension AdPopcornSSPSDK.AdPopcornBannerView {
   @_Concurrency.MainActor @preconcurrency final public func setAutoBgColor(_ istrue: Swift.Bool = true)
 }
 extension AdPopcornSSPSDK.AdPopcornBannerView {
-  public enum AnimationType : Swift.CaseIterable {
+  @objc public enum AnimationType : Swift.Int, Swift.CaseIterable {
     case none
     case curlDown
     case curlUp
     case flipFromLeft
     case flipFromRight
     case fadeIn
-    public static func == (a: AdPopcornSSPSDK.AdPopcornBannerView.AnimationType, b: AdPopcornSSPSDK.AdPopcornBannerView.AnimationType) -> Swift.Bool
-    public func hash(into hasher: inout Swift.Hasher)
+    public init?(rawValue: Swift.Int)
     public typealias AllCases = [AdPopcornSSPSDK.AdPopcornBannerView.AnimationType]
+    public typealias RawValue = Swift.Int
     nonisolated public static var allCases: [AdPopcornSSPSDK.AdPopcornBannerView.AnimationType] {
       get
     }
-    public var hashValue: Swift.Int {
+    public var rawValue: Swift.Int {
       get
     }
   }
@@ -160,15 +162,15 @@ extension AdPopcornSSPSDK.AdPopcornBannerView {
   @objc optional func adPopcorninterstitialAdClosed(interstitialAd: AdPopcornSSPSDK.AdPopcornInterstitialAd)
 }
 @objc final public class AdPopcornInterstitialAd : ObjectiveC.NSObject {
-  weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornInterstitialAdDelegate)?
-  final public var placementID: Swift.String
-  final public var appkey: Swift.String?
-  final public var message: Swift.String
-  final public var backgroundColor: UIKit.UIColor
-  public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
+  @objc weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornInterstitialAdDelegate)?
+  @objc final public var placementID: Swift.String
+  @objc final public var appkey: Swift.String?
+  @objc final public var message: Swift.String
+  @objc final public var backgroundColor: UIKit.UIColor
+  @objc public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
   @objc deinit
-  final public func load()
-  final public func present(from: UIKit.UIViewController)
+  @objc final public func load()
+  @objc final public func present(from: UIKit.UIViewController)
 }
 extension AdPopcornSSPSDK.AdPopcornInterstitialAd : AdPopcornSSPSDK.InterstitialAdapterDelegate {
   final public func interstitialLoadSuccess()
@@ -187,14 +189,14 @@ extension AdPopcornSSPSDK.AdPopcornInterstitialAd : AdPopcornSSPSDK.Interstitial
   @objc optional func adPopcorninterstitialVideoAdClosed(interstitialVideoAd: AdPopcornSSPSDK.AdPopcornInterstitialVideoAd)
 }
 @objc final public class AdPopcornInterstitialVideoAd : ObjectiveC.NSObject {
-  weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornInterstitialVideoAdDelegate)?
-  final public var appkey: Swift.String?
-  final public var placementID: Swift.String
-  final public var message: Swift.String
-  public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
+  @objc weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornInterstitialVideoAdDelegate)?
+  @objc final public var appkey: Swift.String?
+  @objc final public var placementID: Swift.String
+  @objc final public var message: Swift.String
+  @objc public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
   @objc deinit
-  final public func present(from: UIKit.UIViewController)
-  final public func load()
+  @objc final public func present(from: UIKit.UIViewController)
+  @objc final public func load()
 }
 extension AdPopcornSSPSDK.AdPopcornInterstitialVideoAd : AdPopcornSSPSDK.InterstitialVideoAdapterDelegate {
   final public func interstitialVideoLoadSuccess()
@@ -316,12 +318,12 @@ public protocol RewardVideoAdapterInappBiddingProtocol : AdPopcornSSPSDK.RewardV
   func getBiddingToken() -> Swift.String
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPAdPopcornNativeAdRenderable : ObjectiveC.NSObject {
-  final public var nativeView: AdPopcornSSPSDK.AdPopcornNativeAdView?
-  final public var adTitleLabel: UIKit.UILabel?
-  final public var adDescLabel: UIKit.UILabel?
-  final public var adMainImageView: UIKit.UIImageView?
-  final public var adAppIconView: UIKit.UIImageView?
-  final public var adCTAButton: UIKit.UIButton?
+  @objc final public var nativeView: AdPopcornSSPSDK.AdPopcornNativeAdView?
+  @objc final public var adTitleLabel: UIKit.UILabel?
+  @objc final public var adDescLabel: UIKit.UILabel?
+  @objc final public var adMainImageView: UIKit.UIImageView?
+  @objc final public var adAppIconView: UIKit.UIImageView?
+  @objc final public var adCTAButton: UIKit.UIButton?
   @objc override dynamic public init()
   @objc deinit
 }
@@ -332,23 +334,23 @@ public protocol RewardVideoAdapterInappBiddingProtocol : AdPopcornSSPSDK.RewardV
   @objc optional func adPopcornNativeAdImpression(nativewAd: AdPopcornSSPSDK.AdPopcornNativeAd)
 }
 @_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor @preconcurrency final public class AdPopcornNativeAd : UIKit.UIView {
-  @_Concurrency.MainActor @preconcurrency weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornNativeAdDelegate)?
-  @_Concurrency.MainActor @preconcurrency final public var appkey: Swift.String?
-  @_Concurrency.MainActor @preconcurrency final public var placementID: Swift.String
-  @_Concurrency.MainActor @preconcurrency final public var message: Swift.String
-  @_Concurrency.MainActor @preconcurrency final public var adMobRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var namRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var adfitRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var adopRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var vungleRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var applovinMaxRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var FBANNativeRenderable: Swift.AnyObject?
-  @_Concurrency.MainActor @preconcurrency final public var FBANnativeBannerRenderable: Swift.AnyObject?
+  @objc @_Concurrency.MainActor @preconcurrency weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornNativeAdDelegate)?
+  @objc @_Concurrency.MainActor @preconcurrency final public var appkey: Swift.String?
+  @objc @_Concurrency.MainActor @preconcurrency final public var placementID: Swift.String
+  @objc @_Concurrency.MainActor @preconcurrency final public var message: Swift.String
+  @objc @_Concurrency.MainActor @preconcurrency final public var adMobRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var namRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var adfitRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var adopRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var vungleRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var applovinMaxRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var FBANNativeRenderable: ObjectiveC.NSObject?
+  @objc @_Concurrency.MainActor @preconcurrency final public var FBANnativeBannerRenderable: ObjectiveC.NSObject?
   @_Concurrency.MainActor @preconcurrency @objc dynamic public init()
-  @_Concurrency.MainActor @preconcurrency public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
+  @objc @_Concurrency.MainActor @preconcurrency public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
   @objc deinit
-  @_Concurrency.MainActor @preconcurrency final public func load()
-  @_Concurrency.MainActor @preconcurrency final public func stop()
+  @objc @_Concurrency.MainActor @preconcurrency final public func load()
+  @objc @_Concurrency.MainActor @preconcurrency final public func stop()
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd : AdPopcornSSPSDK.NativeViewAdapterDelegate {
   @_Concurrency.MainActor @preconcurrency final public func nativeLoadSuccess()
@@ -357,9 +359,9 @@ extension AdPopcornSSPSDK.AdPopcornNativeAd : AdPopcornSSPSDK.NativeViewAdapterD
   @_Concurrency.MainActor @preconcurrency final public func nativeImpression(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindAdPopcronRenderer(adPopcornRender: AdPopcornSSPSDK.APSSPAdPopcornNativeAdRenderable, useTemplate: Swift.Bool = false)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindAdPopcronRenderer(adPopcornRender: AdPopcornSSPSDK.APSSPAdPopcornNativeAdRenderable, useTemplate: Swift.Bool)
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class AdPopcornNativeAdView : UIKit.UIView {
+@_inheritsConvenienceInitializers @objc @_Concurrency.MainActor @preconcurrency open class AdPopcornNativeAdView : UIKit.UIView {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
@@ -391,14 +393,14 @@ extension AdPopcornSSPSDK.AdPopcornNativeAd {
   @objc optional func adPopcornRewardVideoAdCompleted(rewardVideoAd: AdPopcornSSPSDK.AdPopcornRewardVideoAd, currenMediationType: AdPopcornSSPSDK.MediationCompany)
 }
 @objc final public class AdPopcornRewardVideoAd : ObjectiveC.NSObject {
-  weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornRewardVideoAdDelegate)?
-  final public var appkey: Swift.String?
-  final public var placementID: Swift.String
-  final public var message: Swift.String
-  public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
+  @objc weak final public var delegate: (any AdPopcornSSPSDK.AdPopcornRewardVideoAdDelegate)?
+  @objc final public var appkey: Swift.String?
+  @objc final public var placementID: Swift.String
+  @objc final public var message: Swift.String
+  @objc public init(appkey: Swift.String? = nil, placementID: Swift.String, rootViewController: UIKit.UIViewController? = nil)
   @objc deinit
-  final public func present(from: UIKit.UIViewController)
-  final public func load()
+  @objc final public func present(from: UIKit.UIViewController)
+  @objc final public func load()
 }
 extension AdPopcornSSPSDK.AdPopcornRewardVideoAd : AdPopcornSSPSDK.RewardVideoAdapterDelegate {
   final public func rewardVideoLoadSuccess()
@@ -409,19 +411,20 @@ extension AdPopcornSSPSDK.AdPopcornRewardVideoAd : AdPopcornSSPSDK.RewardVideoAd
   final public func rewardVideoClosed(message: Swift.String)
   final public func rewardVideoCompleted()
 }
-@_hasMissingDesignatedInitializers public class APLogger {
-  public enum Log {
+@_inheritsConvenienceInitializers @objc public class APLogger : ObjectiveC.NSObject {
+  @objc public enum Log : Swift.Int {
     case all
     case network
     case info
     case error
     case none
-    public static func == (a: AdPopcornSSPSDK.APLogger.Log, b: AdPopcornSSPSDK.APLogger.Log) -> Swift.Bool
-    public func hash(into hasher: inout Swift.Hasher)
-    public var hashValue: Swift.Int {
+    public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
+    public var rawValue: Swift.Int {
       get
     }
   }
+  @objc override dynamic public init()
   @objc deinit
 }
 extension AdPopcornSSPSDK.APLogger {
@@ -430,15 +433,17 @@ extension AdPopcornSSPSDK.APLogger {
   public static func network(selfType: Any?, _ message: Any, _ arguments: Any...)
   public static func error(selfType: Any?, _ message: Any, _ arguments: Any...)
 }
-@_hasMissingDesignatedInitializers final public class AdPopcornSSP {
-  public static func setUSerID(usn: Swift.String)
-  public static func initializeSDK(appKey: Swift.String)
-  public static func setLogType(_ type: AdPopcornSSPSDK.APLogger.Log)
-  public static func presentCSViewController(_ rootViewController: UIKit.UIViewController, userID: Swift.String)
+@_inheritsConvenienceInitializers @objc final public class AdPopcornSSP : ObjectiveC.NSObject {
+  @objc public static func setUSerID(usn: Swift.String)
+  @objc public static func initializeSDK(appKey: Swift.String)
+  @objc public static func setLogType(_ type: AdPopcornSSPSDK.APLogger.Log)
+  @objc public static func presentCSViewController(_ rootViewController: UIKit.UIViewController, userID: Swift.String)
+  @objc override dynamic public init()
   @objc deinit
 }
 extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.Equatable {}
 extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.Hashable {}
+extension AdPopcornSSPSDK.AdPopcornBannerView.AnimationType : Swift.RawRepresentable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.Equatable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdPopcornBannerSize : Swift.RawRepresentable {}
@@ -456,3 +461,4 @@ extension AdPopcornSSPSDK.AdapterInfo : Swift.Hashable {}
 extension AdPopcornSSPSDK.AdapterInfo : Swift.RawRepresentable {}
 extension AdPopcornSSPSDK.APLogger.Log : Swift.Equatable {}
 extension AdPopcornSSPSDK.APLogger.Log : Swift.Hashable {}
+extension AdPopcornSSPSDK.APLogger.Log : Swift.RawRepresentable {}

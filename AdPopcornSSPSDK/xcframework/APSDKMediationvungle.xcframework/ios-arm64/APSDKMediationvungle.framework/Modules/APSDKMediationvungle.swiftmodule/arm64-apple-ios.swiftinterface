@@ -47,18 +47,18 @@ extension APSDKMediationvungle.VungleInterstitialVideoAdapter : AdPopcornSSPSDK.
   final public func interstitialVideoClosed(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindVungleRenderer(renderable: APSDKMediationvungle.APSSPVungleNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindVungleRenderer(renderable: APSDKMediationvungle.APSSPVungleNativeAdRenderable)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPVungleNativeAdRenderable : ObjectiveC.NSObject {
-  final public var nativeAdView: UIKit.UIView?
-  final public var iconView: UIKit.UIImageView?
-  final public var mediaView: VungleAdsSDK.MediaView?
-  final public var titleLbl: UIKit.UILabel?
-  final public var ratingLbl: UIKit.UILabel?
-  final public var sponsorLbl: UIKit.UILabel?
-  final public var privacyImage: UIKit.UIImageView?
-  final public var adTextLbl: UIKit.UILabel?
-  final public var downloadBtn: UIKit.UIButton?
+  @objc final public var nativeAdView: UIKit.UIView?
+  @objc final public var iconView: UIKit.UIImageView?
+  @objc final public var mediaView: VungleAdsSDK.MediaView?
+  @objc final public var titleLbl: UIKit.UILabel?
+  @objc final public var ratingLbl: UIKit.UILabel?
+  @objc final public var sponsorLbl: UIKit.UILabel?
+  @objc final public var privacyImage: UIKit.UIImageView?
+  @objc final public var adTextLbl: UIKit.UILabel?
+  @objc final public var downloadBtn: UIKit.UIButton?
   @objc override dynamic public init()
   @objc deinit
 }
@@ -101,9 +101,9 @@ extension APSDKMediationvungle.VungleRewardVideoAdapter : AdPopcornSSPSDK.Reward
   final public func rewardVideoCompleted()
 }
 extension AdPopcornSSPSDK.AdPopcornSSP {
-  final public func vungleisSupportBanner() -> Swift.Bool
-  final public func vungleisSupportNative() -> Swift.Bool
-  final public func vungleisSupportInterstitial() -> Swift.Bool
-  final public func vungleisSupportInterstitialVideo() -> Swift.Bool
-  final public func vungleisSupportRewardVideo() -> Swift.Bool
+  @objc final public func vungleisSupportBanner() -> Swift.Bool
+  @objc final public func vungleisSupportNative() -> Swift.Bool
+  @objc final public func vungleisSupportInterstitial() -> Swift.Bool
+  @objc final public func vungleisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func vungleisSupportRewardVideo() -> Swift.Bool
 }

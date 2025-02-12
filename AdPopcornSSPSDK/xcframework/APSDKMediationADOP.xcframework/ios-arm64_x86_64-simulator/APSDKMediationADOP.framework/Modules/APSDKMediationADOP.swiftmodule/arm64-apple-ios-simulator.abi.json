@@ -2078,14 +2078,15 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvp",
+            "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(py)admobNativewAdView",
             "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvp",
             "moduleName": "APSDKMediationADOP",
             "declAttributes": [
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -2110,12 +2111,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvg",
+                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)admobNativewAdView",
                 "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvg",
                 "moduleName": "APSDKMediationADOP",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "get"
               },
@@ -2145,12 +2147,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvs",
+                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)setAdmobNativewAdView:",
                 "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvs",
                 "moduleName": "APSDKMediationADOP",
                 "implicit": true,
                 "declAttributes": [
-                  "Final"
+                  "Final",
+                  "ObjC"
                 ],
                 "accessorKind": "set"
               },
@@ -3699,14 +3702,16 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0ab6NativeA0C18APSDKMediationADOPE16bindADOPRenderer10renderableyAD015APSSPADOPNativeA10RenderableC_tF",
+            "usr": "c:@CM@APSDKMediationADOP@AdPopcornSSPSDK@objc(cs)AdPopcornNativeAd(im)bindADOPRendererWithRenderable:",
             "mangledName": "$s15AdPopcornSSPSDK0ab6NativeA0C18APSDKMediationADOPE16bindADOPRenderer10renderableyAD015APSSPADOPNativeA10RenderableC_tF",
             "moduleName": "APSDKMediationADOP",
+            "objc_name": "bindADOPRendererWithRenderable:",
             "declAttributes": [
+              "Final",
               "Preconcurrency",
               "Custom",
-              "Final",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"

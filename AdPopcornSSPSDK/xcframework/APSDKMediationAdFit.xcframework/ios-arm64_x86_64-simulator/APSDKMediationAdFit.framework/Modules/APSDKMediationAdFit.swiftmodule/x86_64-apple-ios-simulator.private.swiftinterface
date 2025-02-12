@@ -60,8 +60,8 @@ extension APSDKMediationAdFit.AdFitInterstitialVideoAdapter : AdPopcornSSPSDK.In
   final public func interstitialVideoClosed(message: Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPAdFitNativeAdRenderable : ObjectiveC.NSObject {
-  final public var adfitNativewAdView: UIKit.UIView?
-  final public var useBizBoardTemplate: Swift.Bool
+  @objc final public var adfitNativewAdView: UIKit.UIView?
+  @objc final public var useBizBoardTemplate: Swift.Bool
   @objc override dynamic public init()
   @objc deinit
 }
@@ -82,7 +82,7 @@ extension APSDKMediationAdFit.AdFitNativeAdapter : AdPopcornSSPSDK.NativeViewAda
   final public func nativeImpression(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornNativeAd {
-  @_Concurrency.MainActor @preconcurrency final public func bindAdFitRenderer(renderable: APSDKMediationAdFit.APSSPAdFitNativeAdRenderable)
+  @objc @_Concurrency.MainActor @preconcurrency final public func bindAdFitRenderer(renderable: APSDKMediationAdFit.APSSPAdFitNativeAdRenderable)
 }
 final public class AdFitRewardVideoAdapter : AdPopcornSSPSDK.RewardVideoAdapterProtocol {
   final public var rootViewController: UIKit.UIViewController?
@@ -103,9 +103,9 @@ extension APSDKMediationAdFit.AdFitRewardVideoAdapter : AdPopcornSSPSDK.RewardVi
   final public func rewardVideoCompleted()
 }
 extension AdPopcornSSPSDK.AdPopcornSSP {
-  final public func AdFitisSupportBanner() -> Swift.Bool
-  final public func AdFitisSupportNative() -> Swift.Bool
-  final public func AdFitisSupportInterstitial() -> Swift.Bool
-  final public func AdFitisSupportInterstitialVideo() -> Swift.Bool
-  final public func AdFitisSupportRewardVideo() -> Swift.Bool
+  @objc final public func AdFitisSupportBanner() -> Swift.Bool
+  @objc final public func AdFitisSupportNative() -> Swift.Bool
+  @objc final public func AdFitisSupportInterstitial() -> Swift.Bool
+  @objc final public func AdFitisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func AdFitisSupportRewardVideo() -> Swift.Bool
 }
