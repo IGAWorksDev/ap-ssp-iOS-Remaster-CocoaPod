@@ -12,6 +12,10 @@
 		<data>
 		VWCA3MeaiPMoOAS1uOteTSLX8js=
 		</data>
+		<key>Headers/APSDKMediationADOP-Swift.h</key>
+		<data>
+		Ahrc6d7gCyJUjP2H48Mw8JpA7E0=
+		</data>
 		<key>Headers/APSDKMediationADOP.h</key>
 		<data>
 		AOf7CQlZgZoEML0rRm/ICMBUXkM=
@@ -22,11 +26,11 @@
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1sFViIhuh0g85jKoTZKNYRMLVZ8=
+		f0m+oCWFwmPQIi/PK4BXs1HaOxg=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		EEJkk2jTKHOUfXUcWX56SRgG+Y4=
+		UPY30vus0h8t4wMZ3koPG3gTuY8=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,15 +38,15 @@
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		EEJkk2jTKHOUfXUcWX56SRgG+Y4=
+		UPY30vus0h8t4wMZ3koPG3gTuY8=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ChFGdn+dRbgi2JQxq5qPi4Fz8jE=
+		NTSIyn5xKkkgRGhVu29GtfBFYho=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		3fVIgZ65pkGsJdj5mB9uQLr4FKU=
+		Uag///x7kq2DtnCH1Fuy2WRCL3c=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -69,6 +73,13 @@
 			afsRJYL8I/wGxjXJYdJio/e0tWVNKEeHSR3jAA2t+dI=
 			</data>
 		</dict>
+		<key>Headers/APSDKMediationADOP-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qYuMVU/AgpbkosUiq39kGEpC3r9xNDJLI23bZmzTmpI=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationADOP.h</key>
 		<dict>
 			<key>hash2</key>
@@ -80,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PdIeeKkQBqKDYFTiAiB2C+350onkKXWXlYo5AbRuHcc=
+			JBLCRmm+wS3eU+Jn0lwC6gYCCBYUC8uBHwv8vxHpQq0=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gjWZuMpohIOIunFO1JF/HyERkrmwgRn1tOBcr4+QJs=
+			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -101,21 +112,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gjWZuMpohIOIunFO1JF/HyERkrmwgRn1tOBcr4+QJs=
+			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2L61hv2dFzE1yCMIsKz3o40ktposken3NKJWwI10Tt8=
+			DcF9jI2sX7nHZzhXNqk+lRkRh6hJ9NuiSXhWVxgyra4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8rbCqxZQFbBj2osHW7tsNx74eJqMHqM1NXEu/HOf08w=
+			a6eZGXd3VjiOnc/Ng9saa3f2aZfZ7T2pAEESRLxowI4=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>

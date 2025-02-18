@@ -4,3 +4,8 @@ framework module APSDKMediationPangle {
 
   module * { export * }
 }
+
+module APSDKMediationPangle.Swift {
+  header "APSDKMediationPangle-Swift.h"
+  requires objc
+}

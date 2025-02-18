@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationPangle-Swift.h</key>
+		<data>
+		e1JsA4/AEiOQrtRP5naFj+SWL9g=
+		</data>
 		<key>Headers/APSDKMediationPangle.h</key>
 		<data>
 		vBCNpHvbTLSz4tZDCv49oG0QnoQ=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Lkda/3IgKZzLfUXeA/vUygSmFaw=
+		W7Pn9vy44tT25CaMCXphnCJHJxw=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Lkda/3IgKZzLfUXeA/vUygSmFaw=
+		W7Pn9vy44tT25CaMCXphnCJHJxw=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7zAFe/3scf9J+q3lDdqApvy5V6M=
+		pi1FY2gTEjJTvkY3JYWotUqLY/4=
 		</data>
 		<key>PAGAdSDK.bundle/Assets.car</key>
 		<data>
@@ -258,6 +262,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationPangle-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WQD8WtUT1ww5TFul+2zLvRCBN8DvT5kG066Rp7xKQI4=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationPangle.h</key>
 		<dict>
 			<key>hash2</key>
@@ -276,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JvsVxqSMW4ZMhJpWEAskVQaw61sx3M8bNptC52LSfY=
+			31WOZ3VtPqnkM2snzXvfd6aHqS7YUFXZ6cDQMh5sof8=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -290,7 +301,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JvsVxqSMW4ZMhJpWEAskVQaw61sx3M8bNptC52LSfY=
+			31WOZ3VtPqnkM2snzXvfd6aHqS7YUFXZ6cDQMh5sof8=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -304,7 +315,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l3Bq0CBVnINslHa3DL9Yd9RQic/UMHi5tyS7ih/g6Tg=
+			XIYLrNgVXS1owP/AsNwp/fL/IogpW7Zvu7bPgBazaQk=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/Assets.car</key>

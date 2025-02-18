@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationvungle-Swift.h</key>
+		<data>
+		7PqzBuoWhlGWePVMS/VH5WwkJMQ=
+		</data>
 		<key>Headers/APSDKMediationvungle.h</key>
 		<data>
 		yiAsaKpDDbWzacEfGkwLDKPbjOk=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BKrgUGII7sJWAcvGK5kwQkTvsUM=
+		Yti96IdmpBWKHbYsDchD0TbK50U=
 		</data>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BKrgUGII7sJWAcvGK5kwQkTvsUM=
+		Yti96IdmpBWKHbYsDchD0TbK50U=
 		</data>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jAXj46YDl71xaLUFAPfce3RtVuQ=
+		AGG9L7JdtR8MxXhfSiZtSBZdThM=
 		</data>
 		<key>VungleAds.bundle/Info.plist</key>
 		<data>
@@ -47,6 +51,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationvungle-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tr3T0KhoEHoSjQoicXKWtstsRvT7KrC4qSj4teYc54w=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationvungle.h</key>
 		<dict>
 			<key>hash2</key>
@@ -65,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jwdE4L9bE59QMfnwMRkIPQJ4/z2/yu0YyVjRbvtLPwU=
+			sommzi3L9FrrTzYj/LD6qesLmdCkeMQEoRZYRjM4YjI=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -79,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jwdE4L9bE59QMfnwMRkIPQJ4/z2/yu0YyVjRbvtLPwU=
+			sommzi3L9FrrTzYj/LD6qesLmdCkeMQEoRZYRjM4YjI=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -93,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1MqQi32Pl9MGIKR8SIp1UBrfPMYId4aNG0Nr3Jl9j+g=
+			/bLxoemNtqsepqXyBkBewkZ4xo09kC8HWTj7RgRcTt0=
 			</data>
 		</dict>
 		<key>VungleAds.bundle/Info.plist</key>

@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationMezzo-Swift.h</key>
+		<data>
+		2nIdYtzvfmVzriMLj/sYH2QIzCQ=
+		</data>
 		<key>Headers/APSDKMediationMezzo.h</key>
 		<data>
 		ygYMbOZBCfiD+t8vqY2O4pqs4TA=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kHszeikVifzcw2vLuuVxAg+vsuE=
+		NKMMiW5N8/591lqKZkfGBrTli1w=
 		</data>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kHszeikVifzcw2vLuuVxAg+vsuE=
+		NKMMiW5N8/591lqKZkfGBrTli1w=
 		</data>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,11 +38,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Q2F1UpfnFEGvwUGMRKNot7flJ5o=
+		9Zmuma04z/ZqO1CnCI1hheZcSYo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationMezzo-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PLPv/pPcr0KuhTe4b3qbXr+h56qSoi9MYfOjTmCtV2I=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationMezzo.h</key>
 		<dict>
 			<key>hash2</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDOCVWRqn0aMne/3DcEEwfvlKH119r39uC43WQMEHZE=
+			nmhNIwqamtc895GvNZ/YF9kBnO7vWKipz09rXwCg9Vg=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZDOCVWRqn0aMne/3DcEEwfvlKH119r39uC43WQMEHZE=
+			nmhNIwqamtc895GvNZ/YF9kBnO7vWKipz09rXwCg9Vg=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationMezzo.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moAjMY3iZLeL36UnasHiq7sAoh8Tc5kK79Nnr+i1C/w=
+			8hyhJQWqDB/d8p7q1RUw+Q/4K8v0ENVoIzoOYa1+qF0=
 			</data>
 		</dict>
 	</dict>

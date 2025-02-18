@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationMintegral-Swift.h</key>
+		<data>
+		VbB5iNdRzAkNn4sqUzKNRS8ULgI=
+		</data>
 		<key>Headers/APSDKMediationMintegral.h</key>
 		<data>
 		vA+33+cDkm4L1P2qYvrl3z3I+Xo=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		CKQObxTvTKnOHl55hCiNAyOtC1U=
+		eyCEdVqdzOHrXUhQF0RSYxMqvo8=
 		</data>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		CKQObxTvTKnOHl55hCiNAyOtC1U=
+		eyCEdVqdzOHrXUhQF0RSYxMqvo8=
 		</data>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -42,11 +46,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		v/oiDnKJxYt7gsHBVnPWsA+W2Iw=
+		uG2K96QQ2gPxfFF5o6n2ZjTF2qM=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationMintegral-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0VuCYXljpH74aV++rQhpmJIjrx2hL+Dp/YikvoCViKg=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationMintegral.h</key>
 		<dict>
 			<key>hash2</key>
@@ -79,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			piiBMjk+81v1PL8QfWV8NizIVcB9zKxpe8FQ9xthA2E=
+			CtePHsbGOdrfqq0z5BhojexiTEecyKKoWVeDg1syXWQ=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -93,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			piiBMjk+81v1PL8QfWV8NizIVcB9zKxpe8FQ9xthA2E=
+			CtePHsbGOdrfqq0z5BhojexiTEecyKKoWVeDg1syXWQ=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -107,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcukboESDj2BtqbWyMwoaoUuHzOT74SfFHe7RiPbsFo=
+			RFkFpvWs8a+y/d9kmAQ6ACd1wlM7z3JUlrbbZ2A58vs=
 			</data>
 		</dict>
 	</dict>

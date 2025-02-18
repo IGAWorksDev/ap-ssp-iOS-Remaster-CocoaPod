@@ -4,3 +4,8 @@ framework module APSDKMediationNAM {
 
   module * { export * }
 }
+
+module APSDKMediationNAM.Swift {
+  header "APSDKMediationNAM-Swift.h"
+  requires objc
+}

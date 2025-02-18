@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationAdFit-Swift.h</key>
+		<data>
+		F2MLXkuf7yFgyuFA1AyX763AGLg=
+		</data>
 		<key>Headers/APSDKMediationAdFit.h</key>
 		<data>
 		lLcN3aq3ocIhhPcGtYQ19t/F5xw=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dWpLHTQYQy0tw/axCIFbYrIMmrI=
+		LI8qvIpKMTmv4MGKXxGw8ZCpEIs=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dWpLHTQYQy0tw/axCIFbYrIMmrI=
+		LI8qvIpKMTmv4MGKXxGw8ZCpEIs=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,11 +38,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		rCAF/fJV2lWpa95pRq+BH3VeHlA=
+		ya3wmeGXjDiNq6ibVck6KJx5fTo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationAdFit-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vDK1w9Zj3kfTADXZA05Y4nMI0dkggUzoIbIeXLSn3g0=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationAdFit.h</key>
 		<dict>
 			<key>hash2</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S3+dbjQAKcWeWTNZkr45TvJ8FldcMTffO4x/zEyj580=
+			SDGBmrANC3DvE4/Cc3NLftSoI5B148Y7HX3MNs52QLo=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S3+dbjQAKcWeWTNZkr45TvJ8FldcMTffO4x/zEyj580=
+			SDGBmrANC3DvE4/Cc3NLftSoI5B148Y7HX3MNs52QLo=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dztYanIbSlDPiTIL8KHzzJ4SRz/9ERUMCkY+2oJk6YE=
+			a1xoZjGqyZ2FA68LoyVG0y9/BZc6+yjHc8uDwO5L5hM=
 			</data>
 		</dict>
 	</dict>

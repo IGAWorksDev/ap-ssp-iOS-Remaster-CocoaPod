@@ -4,3 +4,8 @@ framework module APSDKMediationAdFit {
 
   module * { export * }
 }
+
+module APSDKMediationAdFit.Swift {
+  header "APSDKMediationAdFit-Swift.h"
+  requires objc
+}

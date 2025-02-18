@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationPangle-Swift.h</key>
+		<data>
+		8APAMHac55lWpM3lsZIPtqAoLQo=
+		</data>
 		<key>Headers/APSDKMediationPangle.h</key>
 		<data>
 		vBCNpHvbTLSz4tZDCv49oG0QnoQ=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+5E59LAhuhwb09yCIm1sT0VsgXk=
+		LI5cJH4T/2hQMvNjLx36gfZuuUs=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+5E59LAhuhwb09yCIm1sT0VsgXk=
+		LI5cJH4T/2hQMvNjLx36gfZuuUs=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		mHbsx2WKR9dMqElTe/Z9r0ZUVM4=
+		sNqjjZFHTWutV2jhZi+JRNZ+5PE=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +50,7 @@
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		mHbsx2WKR9dMqElTe/Z9r0ZUVM4=
+		sNqjjZFHTWutV2jhZi+JRNZ+5PE=
 		</data>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -54,7 +58,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		7zAFe/3scf9J+q3lDdqApvy5V6M=
+		pi1FY2gTEjJTvkY3JYWotUqLY/4=
 		</data>
 		<key>PAGAdSDK.bundle/Assets.car</key>
 		<data>
@@ -278,6 +282,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationPangle-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ny4NhD57MEv/ETC11EVGOeyd4lg4gReWyw98/ja2/tU=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationPangle.h</key>
 		<dict>
 			<key>hash2</key>
@@ -296,7 +307,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JFzhRKUkKidfgtc2rHI3MXv6zYqMvIvpE1+zYjXhHHg=
+			TkVuKVuO8hd37+lwWdlfqCGb1XAtZWoSN+DYCQX6QQs=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -310,7 +321,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JFzhRKUkKidfgtc2rHI3MXv6zYqMvIvpE1+zYjXhHHg=
+			TkVuKVuO8hd37+lwWdlfqCGb1XAtZWoSN+DYCQX6QQs=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
@@ -331,7 +342,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGUqUHKkWmwofefzCTR3ngzf8y5XDQ9Nqln6zbhFqnw=
+			hfTX483/76yd1DVviwMVvmIvQ86bnP8aHDGhIVdaueU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -345,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGUqUHKkWmwofefzCTR3ngzf8y5XDQ9Nqln6zbhFqnw=
+			hfTX483/76yd1DVviwMVvmIvQ86bnP8aHDGhIVdaueU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationPangle.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
@@ -359,7 +370,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l3Bq0CBVnINslHa3DL9Yd9RQic/UMHi5tyS7ih/g6Tg=
+			XIYLrNgVXS1owP/AsNwp/fL/IogpW7Zvu7bPgBazaQk=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/Assets.car</key>

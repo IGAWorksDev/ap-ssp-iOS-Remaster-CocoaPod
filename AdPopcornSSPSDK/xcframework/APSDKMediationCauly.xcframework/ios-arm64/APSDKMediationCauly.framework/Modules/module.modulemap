@@ -4,3 +4,8 @@ framework module APSDKMediationCauly {
 
   module * { export * }
 }
+
+module APSDKMediationCauly.Swift {
+  header "APSDKMediationCauly-Swift.h"
+  requires objc
+}

@@ -12,6 +12,10 @@
 		<data>
 		iJf6SpfSfy71MDcGI+K9k1a78DU=
 		</data>
+		<key>Headers/APSDKMediationFBAudienceNetwork-Swift.h</key>
+		<data>
+		XPLKGJG4XLkpl6+U+Zvs2Kuv+7w=
+		</data>
 		<key>Headers/APSDKMediationFBAudienceNetwork.h</key>
 		<data>
 		+kJiAAQDNfkeVfvuyDyItrKwUGQ=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		xmGA3mF4t6n892uK/LLAlM95Tqo=
+		nQDoXfcl9u5kQDAPoSQoHuPEO/s=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		xmGA3mF4t6n892uK/LLAlM95Tqo=
+		nQDoXfcl9u5kQDAPoSQoHuPEO/s=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -42,7 +46,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jD7nsUbCAPLTY0xGSHWxEI384fM=
+		6Uk3enmqyY9uwtEpeHbPaEcSa5Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -59,6 +63,13 @@
 			<key>hash2</key>
 			<data>
 			cSw93xWtIPxdaMlNpIyJu23eaMe/V5QkksYayESwhlc=
+			</data>
+		</dict>
+		<key>Headers/APSDKMediationFBAudienceNetwork-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1GjcJX/iB4VUA2gxwg2PIfic+kcJolkbn3u+/MkU3y4=
 			</data>
 		</dict>
 		<key>Headers/APSDKMediationFBAudienceNetwork.h</key>
@@ -79,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBjf+bC2YH13q6JUn6bmgfpwziRGc27tLV4FiZkHFyg=
+			o99VGTPVYhEQilWBx0ZJGXT4NM5M8IRyMVsvkXqhbLE=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -93,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBjf+bC2YH13q6JUn6bmgfpwziRGc27tLV4FiZkHFyg=
+			o99VGTPVYhEQilWBx0ZJGXT4NM5M8IRyMVsvkXqhbLE=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -107,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NAyQANgeucrVp3hJMlIupQSLyWQx9hIAqP+ZE4Fs69I=
+			UYmIGiUoFB9joX/gYiA5eYMtYXtzTB1l4ZBtuIr97tk=
 			</data>
 		</dict>
 	</dict>

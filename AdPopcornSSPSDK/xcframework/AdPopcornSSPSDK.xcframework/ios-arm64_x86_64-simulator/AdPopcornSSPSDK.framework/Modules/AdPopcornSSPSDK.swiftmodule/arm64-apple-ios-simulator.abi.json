@@ -5383,8 +5383,7 @@
             "objc_name": "initWithAppkey:placementID:rootViewController:",
             "declAttributes": [
               "AccessControl",
-              "ObjC",
-              "RawDocComment"
+              "ObjC"
             ],
             "init_kind": "Designated"
           },

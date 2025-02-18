@@ -4,3 +4,8 @@ framework module APSDKMediationFBAudienceNetwork {
 
   module * { export * }
 }
+
+module APSDKMediationFBAudienceNetwork.Swift {
+  header "APSDKMediationFBAudienceNetwork-Swift.h"
+  requires objc
+}

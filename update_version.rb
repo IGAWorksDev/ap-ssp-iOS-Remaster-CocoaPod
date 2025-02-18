@@ -8,7 +8,7 @@
 require 'shellwords'
 
 # 업데이트할 버전 번호
-new_version = '0.0.22'
+new_version = '0.0.23'
 APSSPSDK_version = '>= 0.0.22'
 
 log_String = "pangle, UnityAds Banner 추가, error 수정"

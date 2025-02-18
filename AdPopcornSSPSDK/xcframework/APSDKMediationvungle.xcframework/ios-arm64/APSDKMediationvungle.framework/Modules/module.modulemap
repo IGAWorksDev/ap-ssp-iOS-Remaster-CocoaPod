@@ -4,3 +4,8 @@ framework module APSDKMediationvungle {
 
   module * { export * }
 }
+
+module APSDKMediationvungle.Swift {
+  header "APSDKMediationvungle-Swift.h"
+  requires objc
+}

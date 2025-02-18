@@ -4,3 +4,8 @@ framework module APSDKMediationUnityAds {
 
   module * { export * }
 }
+
+module APSDKMediationUnityAds.Swift {
+  header "APSDKMediationUnityAds-Swift.h"
+  requires objc
+}

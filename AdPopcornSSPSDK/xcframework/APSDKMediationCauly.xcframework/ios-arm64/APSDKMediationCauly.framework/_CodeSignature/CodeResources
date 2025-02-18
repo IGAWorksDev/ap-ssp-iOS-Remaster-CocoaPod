@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationCauly-Swift.h</key>
+		<data>
+		tlt4CrjfwcxvXt8bBYoAX4pRaYc=
+		</data>
 		<key>Headers/APSDKMediationCauly.h</key>
 		<data>
 		N50QHjOvXVPqstBJjsokO2qZyAs=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		6ItOgrL/qlbgEgjhxitHHA4BxeQ=
+		hyLOxl2CoT6yVnrJ0g7xw/BD0j0=
 		</data>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		6ItOgrL/qlbgEgjhxitHHA4BxeQ=
+		hyLOxl2CoT6yVnrJ0g7xw/BD0j0=
 		</data>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,11 +38,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		3X0H1GO3jp6+Zw2Yr+2nfzKQuDs=
+		O887Nio4tnwGgq2VE0cL14KjYdo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationCauly-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ugc7VPSFGI2N5iiZyWWmkxd6ZSDrcWMwStX1CBbMS/I=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationCauly.h</key>
 		<dict>
 			<key>hash2</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hl8AOkBhY9dEitBKuSX4ooilstHHbhnw30QXGRk5SSY=
+			hB2Ti+76S33duNXcwhzsY8d9+Q4IXjaCNPWaxo93RuU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hl8AOkBhY9dEitBKuSX4ooilstHHbhnw30QXGRk5SSY=
+			hB2Ti+76S33duNXcwhzsY8d9+Q4IXjaCNPWaxo93RuU=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aq9bPymZ75F9ZolTyqq/oMzUSeUkkXrgZJiPySfOKsM=
+			4ZOWK3tREwgDuba2wxjZZHM1CdCd5f9i1tWyex9GjFs=
 			</data>
 		</dict>
 	</dict>

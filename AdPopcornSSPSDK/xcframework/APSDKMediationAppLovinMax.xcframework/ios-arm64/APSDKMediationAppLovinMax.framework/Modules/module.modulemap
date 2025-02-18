@@ -4,3 +4,8 @@ framework module APSDKMediationAppLovinMax {
 
   module * { export * }
 }
+
+module APSDKMediationAppLovinMax.Swift {
+  header "APSDKMediationAppLovinMax-Swift.h"
+  requires objc
+}

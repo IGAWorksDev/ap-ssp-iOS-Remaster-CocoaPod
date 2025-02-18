@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationAdFit-Swift.h</key>
+		<data>
+		IgdFfN9afoOqZQOkUXOukwjN/sk=
+		</data>
 		<key>Headers/APSDKMediationAdFit.h</key>
 		<data>
 		lLcN3aq3ocIhhPcGtYQ19t/F5xw=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		TwpEQ2bLOUsieigqFUlkyR1l4GE=
+		8idafOvqLtv6MpQgFbx8hvTtfxo=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TwpEQ2bLOUsieigqFUlkyR1l4GE=
+		8idafOvqLtv6MpQgFbx8hvTtfxo=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -38,7 +42,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tP52CZbbN0Xh82CBIjWIfAEMPz0=
+		bkHPkMykqOXv1ExifelQiE36tl0=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +50,7 @@
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tP52CZbbN0Xh82CBIjWIfAEMPz0=
+		bkHPkMykqOXv1ExifelQiE36tl0=
 		</data>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -54,11 +58,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		rCAF/fJV2lWpa95pRq+BH3VeHlA=
+		ya3wmeGXjDiNq6ibVck6KJx5fTo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationAdFit-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			788eEVLFsLKE8tnWwRhRBELRC2iQFpCmVgb8SvupuiM=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationAdFit.h</key>
 		<dict>
 			<key>hash2</key>
@@ -77,7 +88,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vML4fVWJ0EALIfUP4PeSlw7W1S6m2tkhXC6GErnHuuc=
+			d1h4QFP14Rm9095jJqzc6ERsmCbOYzfwM8P4clpy9CE=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -91,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vML4fVWJ0EALIfUP4PeSlw7W1S6m2tkhXC6GErnHuuc=
+			d1h4QFP14Rm9095jJqzc6ERsmCbOYzfwM8P4clpy9CE=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
@@ -112,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FCEL+nWe2B+pj2lBKtZK6B/XMEbBs2KTfZ2LLOtiVWA=
+			FM1a6tctKjSgcSxz0nS3sCMUTuHzOwFmc2zd70h7m7s=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,7 +137,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FCEL+nWe2B+pj2lBKtZK6B/XMEbBs2KTfZ2LLOtiVWA=
+			FM1a6tctKjSgcSxz0nS3sCMUTuHzOwFmc2zd70h7m7s=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAdFit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
@@ -140,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dztYanIbSlDPiTIL8KHzzJ4SRz/9ERUMCkY+2oJk6YE=
+			a1xoZjGqyZ2FA68LoyVG0y9/BZc6+yjHc8uDwO5L5hM=
 			</data>
 		</dict>
 	</dict>

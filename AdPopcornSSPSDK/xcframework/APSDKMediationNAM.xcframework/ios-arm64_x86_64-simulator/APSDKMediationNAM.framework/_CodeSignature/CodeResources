@@ -190,6 +190,10 @@
 		<data>
 		WX9bWVBNl+h/NW1bQTdx+psJVyU=
 		</data>
+		<key>Headers/APSDKMediationNAM-Swift.h</key>
+		<data>
+		NB/VC/R6PUgL/ga4LzWu3a5wTN8=
+		</data>
 		<key>Headers/APSDKMediationNAM.h</key>
 		<data>
 		bcF5mMTvaIdkwe2CBt39wJ8LcA4=
@@ -204,7 +208,7 @@
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iUndujwvR8I6C36HMI1rUZGHdZU=
+		Gy/N/xfHOliIfxtO5H5hXF3/vbw=
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -212,7 +216,7 @@
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iUndujwvR8I6C36HMI1rUZGHdZU=
+		Gy/N/xfHOliIfxtO5H5hXF3/vbw=
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -224,7 +228,7 @@
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		KDza6X+mkI063au/ambz+XAOZr4=
+		pQi5Dni7i/B0PDs2o6yyhbzcmGw=
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -232,7 +236,7 @@
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KDza6X+mkI063au/ambz+XAOZr4=
+		pQi5Dni7i/B0PDs2o6yyhbzcmGw=
 		</data>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
@@ -240,7 +244,7 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		3SyWBFvtfFAhjtkbXFqkSR1K+Yw=
+		9JHF/Nf7vWKWDceVKO7LItrGujk=
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
@@ -647,6 +651,17 @@
 			Hlaaa4S6qm4V7fKq/DHH3FhORcQgKZ+hqniOO4ptmHc=
 			</data>
 		</dict>
+		<key>Headers/APSDKMediationNAM-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NB/VC/R6PUgL/ga4LzWu3a5wTN8=
+			</data>
+			<key>hash2</key>
+			<data>
+			L0R+4WXIoRO/6TVZ5T4xWMhoauy8xpn/ZK04wjRyLCk=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationNAM.h</key>
 		<dict>
 			<key>hash</key>
@@ -673,11 +688,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iUndujwvR8I6C36HMI1rUZGHdZU=
+			Gy/N/xfHOliIfxtO5H5hXF3/vbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			TwMPykehs3flLE+lnU0cNDQVqTG2p1FYjxMrl8+0g6g=
+			lB+fqcr2t2st523suOo8Ne7+ztXruFysT0MXnDP5xbM=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -695,11 +710,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iUndujwvR8I6C36HMI1rUZGHdZU=
+			Gy/N/xfHOliIfxtO5H5hXF3/vbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			TwMPykehs3flLE+lnU0cNDQVqTG2p1FYjxMrl8+0g6g=
+			lB+fqcr2t2st523suOo8Ne7+ztXruFysT0MXnDP5xbM=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationNAM.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
@@ -728,11 +743,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KDza6X+mkI063au/ambz+XAOZr4=
+			pQi5Dni7i/B0PDs2o6yyhbzcmGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0mB5c9HZ0k8eW/MNhz4FF7ooTpqAGeGek0ltQx/mZnw=
+			QydIcH6vViQuj1Hy7t0PRTh8SbNs08hn/IeUBACC2X8=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -750,11 +765,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KDza6X+mkI063au/ambz+XAOZr4=
+			pQi5Dni7i/B0PDs2o6yyhbzcmGw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0mB5c9HZ0k8eW/MNhz4FF7ooTpqAGeGek0ltQx/mZnw=
+			QydIcH6vViQuj1Hy7t0PRTh8SbNs08hn/IeUBACC2X8=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationNAM.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
@@ -772,11 +787,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3SyWBFvtfFAhjtkbXFqkSR1K+Yw=
+			9JHF/Nf7vWKWDceVKO7LItrGujk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Vt4yi38d7SYWekkSPK8pCHxDllDrOTkgCemEZQ/sZE=
+			lUqaJUrFt+j80egCL/adzzVfFDBg9dTO6tR6oqcMVyo=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/Info.plist</key>

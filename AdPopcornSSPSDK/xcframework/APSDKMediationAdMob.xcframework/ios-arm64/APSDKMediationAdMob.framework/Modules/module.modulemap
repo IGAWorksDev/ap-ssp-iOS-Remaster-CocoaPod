@@ -4,3 +4,8 @@ framework module APSDKMediationAdMob {
 
   module * { export * }
 }
+
+module APSDKMediationAdMob.Swift {
+  header "APSDKMediationAdMob-Swift.h"
+  requires objc
+}

@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/APSDKMediationAppLovin-Swift.h</key>
+		<data>
+		wr46k5aUDbW2pmxHhL9J4zuU5o4=
+		</data>
 		<key>Headers/APSDKMediationAppLovin.h</key>
 		<data>
 		sKIde8SEbTzXpEOKL6wr3/uJ17w=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		4yl/pBmzWbJBicQrV8EQhHm5gu8=
+		q0s7vo1+tWXHpNixOPFTH9YN76c=
 		</data>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		4yl/pBmzWbJBicQrV8EQhHm5gu8=
+		q0s7vo1+tWXHpNixOPFTH9YN76c=
 		</data>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
@@ -34,11 +38,18 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		TNtfxWqad8/YUV+gmyF+UQydBdA=
+		JyxWF5IHTLbx1XUNOZda67QdHG4=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/APSDKMediationAppLovin-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zJSzzxJTbg2pZi/wQK3EeGd+WH2K5201tdCI33oe+OQ=
+			</data>
+		</dict>
 		<key>Headers/APSDKMediationAppLovin.h</key>
 		<dict>
 			<key>hash2</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAVTcTBCpChsqV3yM6urF0rQWgU80E1LDnWARFFs59I=
+			q0CBPXWAGbaxDoRKa1XC1qWGxsrTfuw05vhuaENYfFI=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,7 +82,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAVTcTBCpChsqV3yM6urF0rQWgU80E1LDnWARFFs59I=
+			q0CBPXWAGbaxDoRKa1XC1qWGxsrTfuw05vhuaENYfFI=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationAppLovin.swiftmodule/arm64-apple-ios.swiftmodule</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMC7xv+y2Uj6wpWTCu0iGrq0XPrz6G7BV4GW09xge1o=
+			yLlHDAuHnnMs70Kmwz2czxApHdsQbt3uJA+4l86yXLY=
 			</data>
 		</dict>
 	</dict>

@@ -4,3 +4,8 @@ framework module APSDKMediationFyber {
 
   module * { export * }
 }
+
+module APSDKMediationFyber.Swift {
+  header "APSDKMediationFyber-Swift.h"
+  requires objc
+}

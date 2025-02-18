@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		f+xiF1htBEtEVafySzlj5p5Coxc=
+		qf4ZEzc4aZEo6MtnmOagiaLr3so=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		++ocyk6+gdjwnI+AgwNrpU/8u0U=
+		3J+/ZDCmCRDpMCk/RX6fj7H9Moo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n+Ua/uj9G5FB81AW31024o+RHKBbnlTlnMscBbuoxXQ=
+			pTBYH4YSUhG6Q+WgnE3k6MRLTtyrt86MCeLqpitWgSE=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -129,7 +129,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0NSHsrr5fgLo8uDx7Cobafa1P7E2Xc6ICQvw+M0f/o=
+			hEMNciGSvBuWGFKdrDljXAUxmoCRU94zAfIhvgiySVw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

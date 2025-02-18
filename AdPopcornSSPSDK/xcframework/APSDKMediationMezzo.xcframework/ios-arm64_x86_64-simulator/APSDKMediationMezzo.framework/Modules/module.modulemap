@@ -4,3 +4,8 @@ framework module APSDKMediationMezzo {
 
   module * { export * }
 }
+
+module APSDKMediationMezzo.Swift {
+  header "APSDKMediationMezzo-Swift.h"
+  requires objc
+}
