@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		F4egq3aUrVFUj6ctOLnmnhiZpgY=
+		lxDf1EIDJUDZHxfpmx4aqVU8814=
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GMe+Ju9PWDlx7UTFxegpbTHMOqs=
+		zjq3Qlv1R4OgKuZo/GHAUgbxLqQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXOK1CNiKymJsvibiXb5z5Uf+6/QpMUHtko6knCAyDs=
+			LdKrDqo+uFWBmsgv6i8sJ/wlRFDAWVLFQSDbowkH67s=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cMEr4wmMyPYLBvqpYzndZr275RiK7OwPJYJXxDs1k4U=
+			RN4IP9/2kAJf2HUv1lGX/YSimawpFkdZ9ROMdmE/unA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

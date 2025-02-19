@@ -280,6 +280,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import AdPopcornSSPSDK;
 #endif
 
 #endif
@@ -301,6 +302,20 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationCauly))
+/// true
+- (BOOL)caulyisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)caulyisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
+@end
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
@@ -591,6 +606,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import AdPopcornSSPSDK;
 #endif
 
 #endif
@@ -612,6 +628,20 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationCauly))
+/// true
+- (BOOL)caulyisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)caulyisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)caulyisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
+@end
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

@@ -3847,7 +3847,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A18MobisSupportBannerSbyF",
+            "usr": "c:@CM@APSDKMediationAdMob@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)AdMobisSupportBanner",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A18MobisSupportBannerSbyF",
             "moduleName": "APSDKMediationAdMob",
             "declAttributes": [
@@ -3872,7 +3872,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A18MobisSupportNativeSbyF",
+            "usr": "c:@CM@APSDKMediationAdMob@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)AdMobisSupportNative",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A18MobisSupportNativeSbyF",
             "moduleName": "APSDKMediationAdMob",
             "declAttributes": [
@@ -3897,7 +3897,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A24MobisSupportInterstitialSbyF",
+            "usr": "c:@CM@APSDKMediationAdMob@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)AdMobisSupportInterstitial",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A24MobisSupportInterstitialSbyF",
             "moduleName": "APSDKMediationAdMob",
             "declAttributes": [
@@ -3922,7 +3922,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A29MobisSupportInterstitialVideoSbyF",
+            "usr": "c:@CM@APSDKMediationAdMob@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)AdMobisSupportInterstitialVideo",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A29MobisSupportInterstitialVideoSbyF",
             "moduleName": "APSDKMediationAdMob",
             "declAttributes": [
@@ -3947,7 +3947,7 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A23MobisSupportRewardVideoSbyF",
+            "usr": "c:@CM@APSDKMediationAdMob@AdPopcornSSPSDK@objc(cs)AdPopcornSSP(im)AdMobisSupportRewardVideo",
             "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC014APSDKMediationA3MobE0A23MobisSupportRewardVideoSbyF",
             "moduleName": "APSDKMediationAdMob",
             "declAttributes": [
@@ -3961,14 +3961,19 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:15AdPopcornSSPSDK0aB3SSPC",
+        "usr": "c:@M@AdPopcornSSPSDK@objc(cs)AdPopcornSSP",
         "mangledName": "$s15AdPopcornSSPSDK0aB3SSPC",
         "moduleName": "AdPopcornSSPSDK",
         "declAttributes": [
-          "Final"
+          "Final",
+          "ObjC"
         ],
+        "superclassUsr": "c:objc(cs)NSObject",
         "isExternal": true,
-        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
         "conformances": [
           {
             "kind": "Conformance",
@@ -3983,6 +3988,55 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
       }

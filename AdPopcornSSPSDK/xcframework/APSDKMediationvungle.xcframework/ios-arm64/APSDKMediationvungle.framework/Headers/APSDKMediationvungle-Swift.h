@@ -328,6 +328,20 @@ SWIFT_CLASS("_TtC20APSDKMediationvungle29APSSPVungleNativeAdRenderable")
 - (void)bindVungleRendererWithRenderable:(APSSPVungleNativeAdRenderable * _Nonnull)renderable;
 @end
 
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationvungle))
+/// true
+- (BOOL)vungleisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)vungleisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)vungleisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)vungleisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)vungleisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
+@end
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

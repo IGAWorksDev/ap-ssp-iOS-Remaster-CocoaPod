@@ -316,6 +316,20 @@ SWIFT_CLASS("_TtC17APSDKMediationNAM26APSSPNAMNativeAdRenderable")
 - (void)bindNAMRendererWithRenderable:(APSSPNAMNativeAdRenderable * _Nonnull)renderable;
 @end
 
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationNAM))
+/// true
+- (BOOL)NAMisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)NAMisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
+@end
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
@@ -640,6 +654,20 @@ SWIFT_CLASS("_TtC17APSDKMediationNAM26APSSPNAMNativeAdRenderable")
 
 @interface AdPopcornNativeAd (SWIFT_EXTENSION(APSDKMediationNAM))
 - (void)bindNAMRendererWithRenderable:(APSSPNAMNativeAdRenderable * _Nonnull)renderable;
+@end
+
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationNAM))
+/// true
+- (BOOL)NAMisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)NAMisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// fasle
+- (BOOL)NAMisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
 @end
 
 #endif

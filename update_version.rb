@@ -8,8 +8,8 @@
 require 'shellwords'
 
 # 업데이트할 버전 번호
-new_version = '0.0.23'
-APSSPSDK_version = '>= 0.0.22'
+new_version = '0.0.24'
+APSSPSDK_version = '>= 0.0.23'
 
 log_String = "pangle, UnityAds Banner 추가, error 수정"
 
@@ -17,30 +17,30 @@ log_String = "pangle, UnityAds Banner 추가, error 수정"
 # 업데이트할 podspec 파일 경로
 podspec_files = [
     'AdPopcornSSPSDK.podspec',
-#    'APSDKMediationNAM.podspec',
-#    'APSDKMediationAdMob.podspec',
-#    'APSDKMediationAdFit.podspec',
-#    'APSDKMediationADOP.podspec',
-#    'APSDKMediationAppLovin.podspec',
-#    'APSDKMediationAppLovinMax.podspec',
-#    'APSDKMediationCauly.podspec',
-#    'APSDKMediationFBAudienceNetwork.podspec',
-#    'APSDKMediationFyber.podspec',
-#    'APSDKMediationMezzo.podspec',
-#    'APSDKMediationMintegral.podspec',
-#    'APSDKMediationPangle.podspec',
-#    'APSDKMediationUnityAds.podspec',
-#    'APSDKMediationvungle.podspec'
+    'APSDKMediationNAM.podspec',
+    'APSDKMediationAdMob.podspec',
+    'APSDKMediationAdFit.podspec',
+    'APSDKMediationADOP.podspec',
+    'APSDKMediationAppLovin.podspec',
+    'APSDKMediationAppLovinMax.podspec',
+    'APSDKMediationCauly.podspec',
+    'APSDKMediationFBAudienceNetwork.podspec',
+    'APSDKMediationFyber.podspec',
+    'APSDKMediationMezzo.podspec',
+    'APSDKMediationMintegral.podspec',
+    'APSDKMediationPangle.podspec',
+    'APSDKMediationUnityAds.podspec',
+    'APSDKMediationvungle.podspec'
     ]
 
 
-## podspec 파일 업데이트
-#podspec_files.each do |podspec|
-#  contents = File.read(podspec)
-#  contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{new_version}'")
-#  contents.gsub!(/s\.dependency\s+['"]AdPopcornSSPSDK['"],\s+['"][^'"]+['"]/, "s.dependency 'AdPopcornSSPSDK', '#{APSSPSDK_version}'")
-#  File.write(podspec, contents)
-#end
+# podspec 파일 업데이트
+podspec_files.each do |podspec|
+  contents = File.read(podspec)
+  contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{new_version}'")
+  contents.gsub!(/s\.dependency\s+['"]AdPopcornSSPSDK['"],\s+['"][^'"]+['"]/, "s.dependency 'AdPopcornSSPSDK', '#{APSSPSDK_version}'")
+  File.write(podspec, contents)
+end
 
 
 # git 변경사항 추가
@@ -61,11 +61,11 @@ podspec_files = [
 
 
 
-# podspec 파일 업데이트
-podspec_files.each do |podspec|
-    if podspec == 'APSDKMediationNAM.podspec'
-        system("pod trunk push #{podspec} --skip-import-validation")
-    else
-        system("pod trunk push #{podspec}")
-    end
-end
+## podspec 파일 업데이트
+#podspec_files.each do |podspec|
+#    if podspec == 'APSDKMediationNAM.podspec'
+#        system("pod trunk push #{podspec} --skip-import-validation")
+#    else
+#        system("pod trunk push #{podspec}")
+#    end
+#end

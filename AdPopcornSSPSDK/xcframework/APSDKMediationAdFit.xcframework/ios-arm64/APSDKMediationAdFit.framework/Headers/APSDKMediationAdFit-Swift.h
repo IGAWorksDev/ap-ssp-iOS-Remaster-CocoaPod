@@ -317,6 +317,20 @@ SWIFT_CLASS("_TtC19APSDKMediationAdFit28APSSPAdFitNativeAdRenderable")
 - (void)bindAdFitRendererWithRenderable:(APSSPAdFitNativeAdRenderable * _Nonnull)renderable;
 @end
 
+
+@interface AdPopcornSSP (SWIFT_EXTENSION(APSDKMediationAdFit))
+/// true
+- (BOOL)AdFitisSupportBanner SWIFT_WARN_UNUSED_RESULT;
+/// true
+- (BOOL)AdFitisSupportNative SWIFT_WARN_UNUSED_RESULT;
+/// false
+- (BOOL)AdFitisSupportInterstitial SWIFT_WARN_UNUSED_RESULT;
+/// false
+- (BOOL)AdFitisSupportInterstitialVideo SWIFT_WARN_UNUSED_RESULT;
+/// false
+- (BOOL)AdFitisSupportRewardVideo SWIFT_WARN_UNUSED_RESULT;
+@end
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
