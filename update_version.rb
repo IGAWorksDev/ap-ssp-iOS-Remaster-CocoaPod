@@ -8,7 +8,7 @@
 require 'shellwords'
 
 # 업데이트할 버전 번호
-new_version = '0.0.24'
+new_version = '0.0.25'
 APSSPSDK_version = '>= 0.0.23'
 
 log_String = "pangle, UnityAds Banner 추가, error 수정"
@@ -61,7 +61,7 @@ end
 
 
 
-## podspec 파일 업데이트
+# podspec 파일 업데이트
 #podspec_files.each do |podspec|
 #    if podspec == 'APSDKMediationNAM.podspec'
 #        system("pod trunk push #{podspec} --skip-import-validation")

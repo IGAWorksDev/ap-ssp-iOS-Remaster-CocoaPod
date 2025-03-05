@@ -61,6 +61,10 @@
 	<dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			+vVVfTmWQSGJIYWAO3BXQxYy01A=
+			</data>
 			<key>hash2</key>
 			<data>
 			EM2y9+GVaXW7VruXXjcRIRB6qzbbS6Se++0yvxCP58I=
@@ -68,6 +72,10 @@
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VWCA3MeaiPMoOAS1uOteTSLX8js=
+			</data>
 			<key>hash2</key>
 			<data>
 			afsRJYL8I/wGxjXJYdJio/e0tWVNKEeHSR3jAA2t+dI=
@@ -75,6 +83,10 @@
 		</dict>
 		<key>Headers/APSDKMediationADOP-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ahrc6d7gCyJUjP2H48Mw8JpA7E0=
+			</data>
 			<key>hash2</key>
 			<data>
 			qYuMVU/AgpbkosUiq39kGEpC3r9xNDJLI23bZmzTmpI=
@@ -82,6 +94,10 @@
 		</dict>
 		<key>Headers/APSDKMediationADOP.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AOf7CQlZgZoEML0rRm/ICMBUXkM=
+			</data>
 			<key>hash2</key>
 			<data>
 			EKaqiZUyznq7qQwyeIB81YpzsR9CcS4Uwa1Rn17jpM4=
@@ -89,6 +105,10 @@
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			f0m+oCWFwmPQIi/PK4BXs1HaOxg=
+			</data>
 			<key>hash2</key>
 			<data>
 			JBLCRmm+wS3eU+Jn0lwC6gYCCBYUC8uBHwv8vxHpQq0=
@@ -96,6 +116,10 @@
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UPY30vus0h8t4wMZ3koPG3gTuY8=
+			</data>
 			<key>hash2</key>
 			<data>
 			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
@@ -103,6 +127,10 @@
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			nqx65qFzjW9M+OisXIP3AZytUAo=
+			</data>
 			<key>hash2</key>
 			<data>
 			04DW4Nag62wnqy7No9DYE4xJ9GxV90MiJoMG18+0JkE=
@@ -110,6 +138,10 @@
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			UPY30vus0h8t4wMZ3koPG3gTuY8=
+			</data>
 			<key>hash2</key>
 			<data>
 			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
@@ -117,6 +149,10 @@
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NTSIyn5xKkkgRGhVu29GtfBFYho=
+			</data>
 			<key>hash2</key>
 			<data>
 			DcF9jI2sX7nHZzhXNqk+lRkRh6hJ9NuiSXhWVxgyra4=
@@ -124,6 +160,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Uag///x7kq2DtnCH1Fuy2WRCL3c=
+			</data>
 			<key>hash2</key>
 			<data>
 			a6eZGXd3VjiOnc/Ng9saa3f2aZfZ7T2pAEESRLxowI4=
@@ -131,6 +171,10 @@
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2Mu1TvW0tYmNAz6ep3/3sEjhCAc=
+			</data>
 			<key>hash2</key>
 			<data>
 			TJI4XIUeyilIxi+Z/AZIfd4CFg6e/5SUJN6o919D21Y=
@@ -138,6 +182,10 @@
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			k9OFlDPBRWfteJ+bfG12WAoBuls=
+			</data>
 			<key>hash2</key>
 			<data>
 			RbetuZ/NLZYqHIAPv8wTJbV6f6QWX0FhgjI7tf/pyQA=

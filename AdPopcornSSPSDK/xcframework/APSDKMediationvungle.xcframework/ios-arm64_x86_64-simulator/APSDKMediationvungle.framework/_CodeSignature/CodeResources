@@ -73,6 +73,10 @@
 	<dict>
 		<key>Headers/APSDKMediationvungle-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PX3ZisEkxkLl13bqtYQQTjW8veY=
+			</data>
 			<key>hash2</key>
 			<data>
 			46U9anCzHDfCJppR3UCYlCwnMQQhWnAdhTtD5cTPxDA=
@@ -80,6 +84,10 @@
 		</dict>
 		<key>Headers/APSDKMediationvungle.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yiAsaKpDDbWzacEfGkwLDKPbjOk=
+			</data>
 			<key>hash2</key>
 			<data>
 			I3j+zpWpYtYtmTAcdCakY3ifWy8/PFS5/iFJ27fkOjM=
@@ -87,6 +95,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GDHklHKvnN3PiplBQjnkmvMN55U=
+			</data>
 			<key>hash2</key>
 			<data>
 			vHkO0PGB+v4/Vaq+ibk3i/45yUEcsN2xtvaQZkfmJFE=
@@ -94,6 +106,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tioZKZSw4f2AuP2On+YSwrWDVwY=
+			</data>
 			<key>hash2</key>
 			<data>
 			JDrG/0wO3RUILZPulQsU03ZknV4ePN1nSySjW3MAOMM=
@@ -101,6 +117,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LppppT6Dab/C2obQRlNI4S8Tx2c=
+			</data>
 			<key>hash2</key>
 			<data>
 			QeFZ9X+k3mIczsMFcbsVFGrvDWJgMJ7avEJIyUFSaHo=
@@ -108,6 +128,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tioZKZSw4f2AuP2On+YSwrWDVwY=
+			</data>
 			<key>hash2</key>
 			<data>
 			JDrG/0wO3RUILZPulQsU03ZknV4ePN1nSySjW3MAOMM=
@@ -115,6 +139,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yaCElkjNG34pDjzATlX6Zg52P50=
+			</data>
 			<key>hash2</key>
 			<data>
 			voF+Iq+YDJYgt1dcZh0kl1vw8721DKtEScG3IKBIPE0=
@@ -122,6 +150,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GDHklHKvnN3PiplBQjnkmvMN55U=
+			</data>
 			<key>hash2</key>
 			<data>
 			vHkO0PGB+v4/Vaq+ibk3i/45yUEcsN2xtvaQZkfmJFE=
@@ -129,6 +161,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pStNwAKCP9n63xMqpiwkMw7d+/k=
+			</data>
 			<key>hash2</key>
 			<data>
 			tlkgQqnsnjCU+IQQ/ZosFXspDvFu5mg9UWDzoAmfZXA=
@@ -136,6 +172,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			csVs1WOLOhXxhn3wd09Zb/JJaUU=
+			</data>
 			<key>hash2</key>
 			<data>
 			yDe3E4WYhYmi+xJl26gBjPDi7ETA5sQzvSoDqvrYesM=
@@ -143,6 +183,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pStNwAKCP9n63xMqpiwkMw7d+/k=
+			</data>
 			<key>hash2</key>
 			<data>
 			tlkgQqnsnjCU+IQQ/ZosFXspDvFu5mg9UWDzoAmfZXA=
@@ -150,6 +194,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ITQMbAWdaLktDWU2W/UoFXwApjE=
+			</data>
 			<key>hash2</key>
 			<data>
 			CT3vcGmjitstm89O206GYxqoBDwOMVCoSzWmiuWcYlY=
@@ -157,6 +205,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AGG9L7JdtR8MxXhfSiZtSBZdThM=
+			</data>
 			<key>hash2</key>
 			<data>
 			/bLxoemNtqsepqXyBkBewkZ4xo09kC8HWTj7RgRcTt0=
@@ -164,6 +216,10 @@
 		</dict>
 		<key>VungleAds.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			HI52jDobZLeWDBptWIvF6bQxDb4=
+			</data>
 			<key>hash2</key>
 			<data>
 			e45XX4TYhmQ6irGAABWStN6ScDTNMd4s0Ya4Ajtqzs8=
@@ -171,6 +227,10 @@
 		</dict>
 		<key>VungleAds.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			99lHiKAMEwibufp7vGK7r8V203g=
+			</data>
 			<key>hash2</key>
 			<data>
 			RX/aXFa+FOCjdkY1ix5eE2OBHeionXWqGUSFGTmdVUQ=

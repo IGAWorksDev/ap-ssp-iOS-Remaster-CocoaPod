@@ -53,6 +53,10 @@
 	<dict>
 		<key>Headers/APSDKMediationvungle-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			L1u9y3v+ReAZ6Ib6+4yTXGOZvFs=
+			</data>
 			<key>hash2</key>
 			<data>
 			Wew9PGQfCAXpQOfjhfolOPNb1zO8v25o6fiSu2nPLqs=
@@ -60,6 +64,10 @@
 		</dict>
 		<key>Headers/APSDKMediationvungle.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yiAsaKpDDbWzacEfGkwLDKPbjOk=
+			</data>
 			<key>hash2</key>
 			<data>
 			I3j+zpWpYtYtmTAcdCakY3ifWy8/PFS5/iFJ27fkOjM=
@@ -67,6 +75,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GDHklHKvnN3PiplBQjnkmvMN55U=
+			</data>
 			<key>hash2</key>
 			<data>
 			vHkO0PGB+v4/Vaq+ibk3i/45yUEcsN2xtvaQZkfmJFE=
@@ -74,6 +86,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Yti96IdmpBWKHbYsDchD0TbK50U=
+			</data>
 			<key>hash2</key>
 			<data>
 			sommzi3L9FrrTzYj/LD6qesLmdCkeMQEoRZYRjM4YjI=
@@ -81,6 +97,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pHCkMEkfGeOCfKhh72OD6pLcRYk=
+			</data>
 			<key>hash2</key>
 			<data>
 			WxbiKJe1ydq4cchLsPIoRW+e4NTNNAV11sOXyltZeZY=
@@ -88,6 +108,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Yti96IdmpBWKHbYsDchD0TbK50U=
+			</data>
 			<key>hash2</key>
 			<data>
 			sommzi3L9FrrTzYj/LD6qesLmdCkeMQEoRZYRjM4YjI=
@@ -95,6 +119,10 @@
 		</dict>
 		<key>Modules/APSDKMediationvungle.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xFAkoRh2mMT7lw1uMme98mmDjM4=
+			</data>
 			<key>hash2</key>
 			<data>
 			zkGu5gssn45tXx6qmQRYRD0b8vUlVU6LrRld9fPPB8g=
@@ -102,6 +130,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AGG9L7JdtR8MxXhfSiZtSBZdThM=
+			</data>
 			<key>hash2</key>
 			<data>
 			/bLxoemNtqsepqXyBkBewkZ4xo09kC8HWTj7RgRcTt0=
@@ -109,6 +141,10 @@
 		</dict>
 		<key>VungleAds.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Qmrvgpg8qBy4PTSJFlgX2SrktrI=
+			</data>
 			<key>hash2</key>
 			<data>
 			tC+9ykZ3/lgtWGPpdEG3XoBYrxvvnjF13fgVFeRvPgE=
@@ -116,6 +152,10 @@
 		</dict>
 		<key>VungleAds.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			99lHiKAMEwibufp7vGK7r8V203g=
+			</data>
 			<key>hash2</key>
 			<data>
 			RX/aXFa+FOCjdkY1ix5eE2OBHeionXWqGUSFGTmdVUQ=
