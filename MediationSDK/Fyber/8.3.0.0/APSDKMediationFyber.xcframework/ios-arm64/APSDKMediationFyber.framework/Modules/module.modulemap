@@ -1,0 +1,11 @@
+framework module APSDKMediationFyber {
+  umbrella header "APSDKMediationFyber.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationFyber.Swift {
+  header "APSDKMediationFyber-Swift.h"
+  requires objc
+}

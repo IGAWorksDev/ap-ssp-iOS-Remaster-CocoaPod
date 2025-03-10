@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "APSDKMediationMintegral"
-    s.version   = '0.0.25'
+    s.version   = '7.6.9.0'
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK Mediation"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
@@ -14,10 +14,10 @@ Pod::Spec.new do |s|
                        "odin.song" => "odin.song@adpopcorn.com"
                      }
     s.ios.deployment_target = "13.0"
-    s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :tag => "#{s.version.to_s}" }
+    s.source       = { :git => "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod.git", :branch => "main" }
     
     
-    s.vendored_frameworks = "AdPopcornSSPSDK/xcframework/APSDKMediationMintegral.xcframework"
+    s.vendored_frameworks = "MediationSDK/Mintegral/#{s.version.to_s}/APSDKMediationMintegral.xcframework"
     s.dependency 'AdPopcornSSPSDK', '>= 0.0.23'
     s.dependency 'MintegralAdSDK', '7.6.6'
     

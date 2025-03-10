@@ -1,0 +1,28 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name APSDKMediationMezzo
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+@_exported import APSDKMediationMezzo
+import AdPopcornSSPSDK
+import Foundation
+import LibADPlus
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+final public class MezzoBannerAdapter : AdPopcornSSPSDK.BannerAdapterProtocol {
+  weak final public var delegate: (any AdPopcornSSPSDK.BannerAdapterDelegate)?
+  weak final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSPSDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSPSDK.BannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension APSDKMediationMezzo.MezzoBannerAdapter : AdPopcornSSPSDK.BannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSPSDK.NetworkError)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}

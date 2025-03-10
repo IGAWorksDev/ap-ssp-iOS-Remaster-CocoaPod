@@ -1,0 +1,11 @@
+framework module APSDKMediationUnityAds {
+  umbrella header "APSDKMediationUnityAds.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationUnityAds.Swift {
+  header "APSDKMediationUnityAds-Swift.h"
+  requires objc
+}

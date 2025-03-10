@@ -1,0 +1,11 @@
+framework module APSDKMediationAppLovinMax {
+  umbrella header "APSDKMediationAppLovinMax.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationAppLovinMax.Swift {
+  header "APSDKMediationAppLovinMax-Swift.h"
+  requires objc
+}
