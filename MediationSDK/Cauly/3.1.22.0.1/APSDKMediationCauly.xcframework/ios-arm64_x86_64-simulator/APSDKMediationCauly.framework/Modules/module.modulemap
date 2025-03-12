@@ -1,0 +1,11 @@
+framework module APSDKMediationCauly {
+  umbrella header "APSDKMediationCauly.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationCauly.Swift {
+  header "APSDKMediationCauly-Swift.h"
+  requires objc
+}

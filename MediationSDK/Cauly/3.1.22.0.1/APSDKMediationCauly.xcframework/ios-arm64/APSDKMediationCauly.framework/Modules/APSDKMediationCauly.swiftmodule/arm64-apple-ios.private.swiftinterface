@@ -1,0 +1,57 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name APSDKMediationCauly
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+@_exported import APSDKMediationCauly
+import AdPopcornSSPSDK
+import CaulySDK
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+final public class CaulyBannerAdapter : AdPopcornSSPSDK.BannerAdapterProtocol {
+  weak final public var delegate: (any AdPopcornSSPSDK.BannerAdapterDelegate)?
+  weak final public var rootViewController: UIKit.UIViewController?
+  public init(placementDic: [Swift.String : Swift.String], bannerType: AdPopcornSSPSDK.AdPopcornBannerSize, rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSPSDK.BannerAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func stop()
+  @objc deinit
+}
+extension APSDKMediationCauly.CaulyBannerAdapter : AdPopcornSSPSDK.BannerAdapterDelegate {
+  final public func bannerViewSuccess(bannerView: UIKit.UIView)
+  final public func bannerViewFailed(bannerView: UIKit.UIView, error: AdPopcornSSPSDK.NetworkError)
+  final public func bannerViewClicked(message: Swift.String)
+  final public func bannerViewImpression(message: Swift.String)
+}
+final public class CaulyInitializationAdapter : AdPopcornSSPSDK.InitializationProtocol {
+  public init()
+  final public func start(appkey: Swift.String)
+  @objc deinit
+}
+final public class CaulyInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterProtocol {
+  final public var rootViewController: UIKit.UIViewController?
+  final public var delegate: (any AdPopcornSSPSDK.InterstitialAdapterDelegate)?
+  public init(placementDic: [Swift.String : Swift.String], rootViewController: UIKit.UIViewController?, info: [Swift.String : Any?])
+  final public func connectDelegate(delegate: any AdPopcornSSPSDK.InterstitialAdapterDelegate)
+  final public func disconnectDelegate()
+  final public func present(from: UIKit.UIViewController, completion: () -> Swift.Void)
+  @objc deinit
+}
+extension APSDKMediationCauly.CaulyInterstitialAdapter : AdPopcornSSPSDK.InterstitialAdapterDelegate {
+  final public func interstitialLoadSuccess()
+  final public func interstitialLoadFail(error: AdPopcornSSPSDK.NetworkError)
+  final public func interstitialShowSuccess(message: Swift.String)
+  final public func interstitialShowFail(message: Swift.String)
+  final public func interstitialClicked(message: Swift.String)
+  final public func interstitialClosed(message: Swift.String)
+}
+extension AdPopcornSSPSDK.AdPopcornSSP {
+  @objc final public func caulyisSupportBanner() -> Swift.Bool
+  @objc final public func caulyisSupportNative() -> Swift.Bool
+  @objc final public func caulyisSupportInterstitial() -> Swift.Bool
+  @objc final public func caulyisSupportInterstitialVideo() -> Swift.Bool
+  @objc final public func caulyisSupportRewardVideo() -> Swift.Bool
+}

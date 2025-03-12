@@ -1,0 +1,11 @@
+framework module APSDKMediationMintegral {
+  umbrella header "APSDKMediationMintegral.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationMintegral.Swift {
+  header "APSDKMediationMintegral-Swift.h"
+  requires objc
+}

@@ -1,0 +1,11 @@
+framework module APSDKMediationvungle {
+  umbrella header "APSDKMediationvungle.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationvungle.Swift {
+  header "APSDKMediationvungle-Swift.h"
+  requires objc
+}
