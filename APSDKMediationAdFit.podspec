@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "APSDKMediationAdFit"
-    s.version   = '3.14.5.0'
+    s.version   = '3.14.5.0.1'
     s.summary      = "AdPopcorn Mobile Ads Mediation SDK Mediation"
     s.homepage     = "https://github.com/IGAWorksDev/ap-ssp-iOS-Remaster-CocoaPod"
     s.license      = {
