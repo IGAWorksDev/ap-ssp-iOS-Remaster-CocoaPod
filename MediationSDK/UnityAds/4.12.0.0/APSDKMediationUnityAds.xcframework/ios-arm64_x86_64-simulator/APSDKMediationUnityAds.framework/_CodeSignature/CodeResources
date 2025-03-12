@@ -81,6 +81,10 @@
 	<dict>
 		<key>Headers/APSDKMediationUnityAds-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			izU3gcXsHTTxHnsxOOxy/2VUBfQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			p3rVRIH5XlwxXKqqdUgLfnbV/Wuk18AoEzOJJxByAQQ=
@@ -88,6 +92,10 @@
 		</dict>
 		<key>Headers/APSDKMediationUnityAds.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xC2l3NShroKYXUIqIzjG9Ncpzic=
+			</data>
 			<key>hash2</key>
 			<data>
 			ojpFaZGK0YpoZHs6EgM5qBqkkeOCoXRkVhm4nGtja1o=
@@ -95,6 +103,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			mkZmba6WtGdTm6e+Ca5uHhw+X78=
+			</data>
 			<key>hash2</key>
 			<data>
 			GTpRpw9UVGLynseVfDZIbFvJKRpmeUGn/FRadNv+JQg=
@@ -102,6 +114,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MBQHVXLH+BNWUkp8CSszlQezm/A=
+			</data>
 			<key>hash2</key>
 			<data>
 			q3x3v97c7NpIFYCKEnFTlMjwpBXOstav58E7BRQAAHI=
@@ -109,6 +125,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ha7aeI/IRwRnOFmHVZuXT+Egz6s=
+			</data>
 			<key>hash2</key>
 			<data>
 			buet6zEDYJbWYmjpxfxSHM+YUdZVsqwny4ocWxaAGBM=
@@ -116,6 +136,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MBQHVXLH+BNWUkp8CSszlQezm/A=
+			</data>
 			<key>hash2</key>
 			<data>
 			q3x3v97c7NpIFYCKEnFTlMjwpBXOstav58E7BRQAAHI=
@@ -123,6 +147,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			D9o7yFMn0TBoS40AGyeTGjf1IJc=
+			</data>
 			<key>hash2</key>
 			<data>
 			DZ9NwkA+wlCxkF9oK6cIB8ax3loI6HBMdG0TUrwkxF4=
@@ -130,6 +158,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			mkZmba6WtGdTm6e+Ca5uHhw+X78=
+			</data>
 			<key>hash2</key>
 			<data>
 			GTpRpw9UVGLynseVfDZIbFvJKRpmeUGn/FRadNv+JQg=
@@ -137,6 +169,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			jA0NqcNGcZzzquKLLQ+XlmX0Uzc=
+			</data>
 			<key>hash2</key>
 			<data>
 			VfQzSbyVW5XJ73BtoHLEJJQqiJ8Ahyq0sTdzDzndthU=
@@ -144,6 +180,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0FjIFEA7+gvLciivDtT2wNyfKcs=
+			</data>
 			<key>hash2</key>
 			<data>
 			1IR9NJnoMDfdN2NQxkxufo692ysK4Qhe0WVgHOpYk64=
@@ -151,6 +191,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			jA0NqcNGcZzzquKLLQ+XlmX0Uzc=
+			</data>
 			<key>hash2</key>
 			<data>
 			VfQzSbyVW5XJ73BtoHLEJJQqiJ8Ahyq0sTdzDzndthU=
@@ -158,6 +202,10 @@
 		</dict>
 		<key>Modules/APSDKMediationUnityAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pQczcItKKISeiiJ8Os88RF/ctYc=
+			</data>
 			<key>hash2</key>
 			<data>
 			7NroncIuF75NI9jGrj/wXXpNT/12dXJ6ynJxm2glfLY=
@@ -165,6 +213,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			si1xg0NcVXIpdrl3+u9nl57E9WM=
+			</data>
 			<key>hash2</key>
 			<data>
 			U1zycz6YRTFTib0202Iq3DsKN78ZMaYgs5dH1bQa8ns=
@@ -172,6 +224,10 @@
 		</dict>
 		<key>UnityAdsResources.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			aXYUmi8anDNWWXP1ZzaBJBdDddY=
+			</data>
 			<key>hash2</key>
 			<data>
 			oDLnWm/C2oBdplRavGjusD8TEIo4QnZ81zggKShvSTo=
@@ -179,6 +235,10 @@
 		</dict>
 		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
@@ -186,6 +246,10 @@
 		</dict>
 		<key>UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			</data>
 			<key>hash2</key>
 			<data>
 			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
@@ -193,6 +257,10 @@
 		</dict>
 		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			xFoo41tIvFKNNRq9NwW500wQtM8=
+			</data>
 			<key>hash2</key>
 			<data>
 			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=

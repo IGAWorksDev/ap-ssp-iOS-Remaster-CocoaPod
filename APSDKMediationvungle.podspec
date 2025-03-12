@@ -18,11 +18,11 @@ Pod::Spec.new do |s|
     
     
     s.vendored_frameworks = "MediationSDK/Vungle/#{s.version.to_s}/APSDKMediationvungle.xcframework"
-    s.dependency 'AdPopcornSSPSDK', '>= 0.0.23'
+    s.dependency 'AdPopcornSSPSDK', '>= 0.0.26'
     s.dependency 'VungleAds', '7.3.2'
     
     
-    s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
+    s.frameworks = 'UIKit', 'Foundation', 'QuartzCore', 'AdSupport', 'AVFoundation', 'AVKit', 'MobileCoreServices', 'SystemConfiguration', 'WebKit', 'CoreLocation'
 
 
     s.requires_arc = true

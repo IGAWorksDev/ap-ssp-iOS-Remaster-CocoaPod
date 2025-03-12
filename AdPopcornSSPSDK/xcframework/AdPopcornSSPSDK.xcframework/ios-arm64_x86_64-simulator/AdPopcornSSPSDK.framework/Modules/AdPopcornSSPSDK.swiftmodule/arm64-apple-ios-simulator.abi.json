@@ -1038,14 +1038,15 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15AdPopcornSSPSDK0aB10BannerViewC14setAutoBgColoryySbF",
+            "usr": "c:@CM@AdPopcornSSPSDK@objc(cs)AdPopcornBannerView(im)setAutoBgColor:",
             "mangledName": "$s15AdPopcornSSPSDK0aB10BannerViewC14setAutoBgColoryySbF",
             "moduleName": "AdPopcornSSPSDK",
             "declAttributes": [
               "Final",
               "Preconcurrency",
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -17605,42 +17606,42 @@
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7628,
+      "offset": 7634,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10615,
+      "offset": 10621,
       "length": 8,
       "value": "1"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10637,
+      "offset": 10643,
       "length": 6,
       "value": "2"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10657,
+      "offset": 10663,
       "length": 12,
       "value": "3"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10683,
+      "offset": 10689,
       "length": 13,
       "value": "4"
     },
     {
       "filePath": "\/Users\/odin.songhwangho\/Documents\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/AdPopcornSSPSDK\/Sources\/Banner\/AdPopcornBannerView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10710,
+      "offset": 10716,
       "length": 6,
       "value": "5"
     },

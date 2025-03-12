@@ -18,14 +18,15 @@ Pod::Spec.new do |s|
     
     
     s.vendored_frameworks = "MediationSDK/AdFit/#{s.version.to_s}/APSDKMediationAdFit.xcframework"
-    s.dependency 'AdPopcornSSPSDK', '>= 0.0.23'
+    s.dependency 'AdPopcornSSPSDK', '>= 0.0.26'
     s.dependency 'AdFitSDK', '3.14.5'
     
     
-    s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
+    s.frameworks = 'UIKit', 'Foundation', 'QuartzCore', 'AdSupport', 'AVFoundation', 'AVKit', 'MobileCoreServices', 'SystemConfiguration', 'WebKit', 'CoreLocation'
 
 
     s.requires_arc = true
+    s.static_framework = true
     
     s.swift_versions = ['5.0']
     

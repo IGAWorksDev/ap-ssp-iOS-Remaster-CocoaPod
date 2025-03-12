@@ -53,6 +53,10 @@
 	<dict>
 		<key>Fyber_Marketplace_SDK.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4B8ovC36iAoUdNGbT2cK0bpjtK8=
+			</data>
 			<key>hash2</key>
 			<data>
 			teD3r+6v9JV8759Nm5ydgK7gZO/VFh1Dw98vI5il/a4=
@@ -60,6 +64,10 @@
 		</dict>
 		<key>Fyber_Marketplace_SDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			wQj/VbiBnny3b63k0acjA2qnfNs=
+			</data>
 			<key>hash2</key>
 			<data>
 			dDIi4xb1Sm+j5OK6zfnCY49nltBpkaMQSrbcnLj/KfY=
@@ -67,6 +75,10 @@
 		</dict>
 		<key>Headers/APSDKMediationFyber-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			rwN2ukgk2lfDYhFc6d/d+DfDAcs=
+			</data>
 			<key>hash2</key>
 			<data>
 			Z8gr8px7crnEILwGRlaCDINYpeajMyxNdEWofupMSJM=
@@ -74,6 +86,10 @@
 		</dict>
 		<key>Headers/APSDKMediationFyber.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			qKsN21DJRI0qIt1lrP4SKV0ryTs=
+			</data>
 			<key>hash2</key>
 			<data>
 			txLE5SZsEwMluCJCIyTloKCELeDVUSgkRBQNoEoi2ss=
@@ -81,6 +97,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFyber.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			BP63yqGHtB0B9zHehBqIsOroeJ4=
+			</data>
 			<key>hash2</key>
 			<data>
 			CKBDM8ysrtYA4fOiYqtooh8eMdmFTZ+02zKP7I4Ciz0=
@@ -88,6 +108,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFyber.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0Zec900CojMhwR5ZdYvXfEZxEoc=
+			</data>
 			<key>hash2</key>
 			<data>
 			CEUznrAWqoJl+9EcvkC/+VPE2zJxSBtPc0A525ra8Og=
@@ -95,6 +119,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFyber.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ZwOBmCn0JnowuqTAOKer987zrjk=
+			</data>
 			<key>hash2</key>
 			<data>
 			UdgFTd5FusxhQrktGvLn6nbf1s2FUck0CWTVEwbIRjI=
@@ -102,6 +130,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFyber.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0Zec900CojMhwR5ZdYvXfEZxEoc=
+			</data>
 			<key>hash2</key>
 			<data>
 			CEUznrAWqoJl+9EcvkC/+VPE2zJxSBtPc0A525ra8Og=
@@ -109,6 +141,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFyber.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			kw3Z9cPytIVrV6It/mY9ukeXjoE=
+			</data>
 			<key>hash2</key>
 			<data>
 			Yynb+DZ0FsFxD1AWekmTFHgjZoEIWc5M4VLp/Y5h8lg=
@@ -116,6 +152,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8hCGYsppaly4McklR0u0KLF1Kig=
+			</data>
 			<key>hash2</key>
 			<data>
 			l/kM5o2JYAWh7C/VzVAsP27xqNaNU5GcGaJcIfVBojo=

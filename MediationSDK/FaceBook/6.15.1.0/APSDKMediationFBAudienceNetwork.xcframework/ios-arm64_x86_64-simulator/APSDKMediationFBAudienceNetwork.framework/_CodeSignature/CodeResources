@@ -73,6 +73,10 @@
 	<dict>
 		<key>FBAudienceNetwork.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MOAfQ928vBWB2CYC13rr+zgvoVc=
+			</data>
 			<key>hash2</key>
 			<data>
 			bnF+EeNxYtnzmCeDUlDiA7dhjfcz/nm+ytA6u9cLcqo=
@@ -80,6 +84,10 @@
 		</dict>
 		<key>FBAudienceNetwork.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iJf6SpfSfy71MDcGI+K9k1a78DU=
+			</data>
 			<key>hash2</key>
 			<data>
 			cSw93xWtIPxdaMlNpIyJu23eaMe/V5QkksYayESwhlc=
@@ -87,6 +95,10 @@
 		</dict>
 		<key>Headers/APSDKMediationFBAudienceNetwork-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			12Auh63PepTNqMFLbr0SGDxmA0w=
+			</data>
 			<key>hash2</key>
 			<data>
 			/leT0awJSmxtif/nSs6HFlPcb3Jrd0XmHW75qT2cTeg=
@@ -94,6 +106,10 @@
 		</dict>
 		<key>Headers/APSDKMediationFBAudienceNetwork.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			+kJiAAQDNfkeVfvuyDyItrKwUGQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			QNPyPRfFkQH/HdxxxidXH3QGgpifrgz73gngxMacJT8=
@@ -101,6 +117,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ikiJAV1U5msmRlxg2j0ry5vade8=
+			</data>
 			<key>hash2</key>
 			<data>
 			pcTis75Jbhdsf6xTn0UmTWeVvWfUG8SHIQif8Wry8is=
@@ -108,6 +128,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			H4nHxsxKI5qW1XZIiRNLOtM3b14=
+			</data>
 			<key>hash2</key>
 			<data>
 			4AhU6T2hbUb3Kv1FVKWvHftLgCBkm9tDqbXmvzEePmw=
@@ -115,6 +139,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pt9EHCN9TD/nHrt1YJiqTFqdB7Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			lE7DSwysP50jSQV0kM6zIW3WJuhZrF8lo3ZErPTE86Y=
@@ -122,6 +150,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			H4nHxsxKI5qW1XZIiRNLOtM3b14=
+			</data>
 			<key>hash2</key>
 			<data>
 			4AhU6T2hbUb3Kv1FVKWvHftLgCBkm9tDqbXmvzEePmw=
@@ -129,6 +161,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			lxDf1EIDJUDZHxfpmx4aqVU8814=
+			</data>
 			<key>hash2</key>
 			<data>
 			LdKrDqo+uFWBmsgv6i8sJ/wlRFDAWVLFQSDbowkH67s=
@@ -136,6 +172,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ikiJAV1U5msmRlxg2j0ry5vade8=
+			</data>
 			<key>hash2</key>
 			<data>
 			pcTis75Jbhdsf6xTn0UmTWeVvWfUG8SHIQif8Wry8is=
@@ -143,6 +183,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LGs3AF6GA3f2reH6dtig6EbhQP0=
+			</data>
 			<key>hash2</key>
 			<data>
 			H5fZt8V+8IWna2IKsuGlCB3ZH9neoMqmP1hMb0ks+Ls=
@@ -150,6 +194,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4/xVdXWPFHOVFLA3rZjIQAxbp/c=
+			</data>
 			<key>hash2</key>
 			<data>
 			FmV03jvAE2ePT2PQuaM2Wps0/1II/DaBk2NNhrEVKTw=
@@ -157,6 +205,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LGs3AF6GA3f2reH6dtig6EbhQP0=
+			</data>
 			<key>hash2</key>
 			<data>
 			H5fZt8V+8IWna2IKsuGlCB3ZH9neoMqmP1hMb0ks+Ls=
@@ -164,6 +216,10 @@
 		</dict>
 		<key>Modules/APSDKMediationFBAudienceNetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			zjq3Qlv1R4OgKuZo/GHAUgbxLqQ=
+			</data>
 			<key>hash2</key>
 			<data>
 			RN4IP9/2kAJf2HUv1lGX/YSimawpFkdZ9ROMdmE/unA=
@@ -171,6 +227,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6Uk3enmqyY9uwtEpeHbPaEcSa5Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			UYmIGiUoFB9joX/gYiA5eYMtYXtzTB1l4ZBtuIr97tk=

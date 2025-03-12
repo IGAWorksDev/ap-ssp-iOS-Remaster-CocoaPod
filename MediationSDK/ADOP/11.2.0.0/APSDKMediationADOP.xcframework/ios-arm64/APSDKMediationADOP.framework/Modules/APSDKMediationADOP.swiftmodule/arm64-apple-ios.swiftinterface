@@ -66,7 +66,7 @@ extension APSDKMediationADOP.ADOPInterstitialVideoAdapter : AdPopcornSSPSDK.Inte
   final public func interstitialVideoClosed(message: Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class APSSPADOPNativeAdRenderable : ObjectiveC.NSObject {
-  @objc final public var admobNativewAdView: GoogleMobileAds.GADNativeAdView?
+  @objc final public var adopNativewAdView: GoogleMobileAds.GADNativeAdView?
   @objc override dynamic public init()
   @objc deinit
 }

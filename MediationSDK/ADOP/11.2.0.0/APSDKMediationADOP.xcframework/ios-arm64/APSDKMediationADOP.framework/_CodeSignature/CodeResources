@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/APSDKMediationADOP-Swift.h</key>
 		<data>
-		Ahrc6d7gCyJUjP2H48Mw8JpA7E0=
+		BFlVIEsKRU9fte4nVdqZhOun64I=
 		</data>
 		<key>Headers/APSDKMediationADOP.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		f0m+oCWFwmPQIi/PK4BXs1HaOxg=
+		7UnXTOq9dvUwco0LaLNM1KeEoYI=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		UPY30vus0h8t4wMZ3koPG3gTuY8=
+		CE3rVnz3utvRQk8cATy59dDui5E=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UPY30vus0h8t4wMZ3koPG3gTuY8=
+		CE3rVnz3utvRQk8cATy59dDui5E=
 		</data>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NTSIyn5xKkkgRGhVu29GtfBFYho=
+		JqKzrGJvCmSSyD0JbSsyujZwLRo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,11 +85,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ahrc6d7gCyJUjP2H48Mw8JpA7E0=
+			BFlVIEsKRU9fte4nVdqZhOun64I=
 			</data>
 			<key>hash2</key>
 			<data>
-			qYuMVU/AgpbkosUiq39kGEpC3r9xNDJLI23bZmzTmpI=
+			kViCeZlBfbujsqPZ7rJGwdvHIx4k5cp90WjULO894PU=
 			</data>
 		</dict>
 		<key>Headers/APSDKMediationADOP.h</key>
@@ -107,22 +107,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f0m+oCWFwmPQIi/PK4BXs1HaOxg=
+			7UnXTOq9dvUwco0LaLNM1KeEoYI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JBLCRmm+wS3eU+Jn0lwC6gYCCBYUC8uBHwv8vxHpQq0=
+			f1yHdPbQUlnGPWdK3LuwktIt6NY+uljZOwqEag3H2sQ=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UPY30vus0h8t4wMZ3koPG3gTuY8=
+			CE3rVnz3utvRQk8cATy59dDui5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
+			jVi64J2/+ioef3tcjW0tIC9kSAgONl+9JaF3aI1nHtQ=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -140,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UPY30vus0h8t4wMZ3koPG3gTuY8=
+			CE3rVnz3utvRQk8cATy59dDui5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			ps4lyJNle6wYgETpq2K8Ef7V0TcSTo4RIWVYzka/WnA=
+			jVi64J2/+ioef3tcjW0tIC9kSAgONl+9JaF3aI1nHtQ=
 			</data>
 		</dict>
 		<key>Modules/APSDKMediationADOP.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NTSIyn5xKkkgRGhVu29GtfBFYho=
+			JqKzrGJvCmSSyD0JbSsyujZwLRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			DcF9jI2sX7nHZzhXNqk+lRkRh6hJ9NuiSXhWVxgyra4=
+			VvUnNMtl2lq6E1eQi9uZnH+dD9R/M6JeGlqvI1YE/7c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

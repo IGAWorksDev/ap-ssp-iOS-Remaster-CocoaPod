@@ -18,12 +18,12 @@ Pod::Spec.new do |s|
     
     
     s.vendored_frameworks = "MediationSDK/NAM/#{s.version.to_s}/APSDKMediationNAM.xcframework"
-    s.dependency 'AdPopcornSSPSDK', '>= 0.0.23'
+    s.dependency 'AdPopcornSSPSDK', '>= 0.0.26'
     s.dependency 'NAMSDK', '7.10.2'
     s.dependency 'NAMSDK/MediationNDA', '7.10.2'
     
     
-    s.frameworks = 'UIKit', 'Foundation', 'AVFoundation', 'WebKit', 'AVKit', 'Network', 'AdSupport', 'AppTrackingTransparency', 'CoreTelephony', 'OSLog',  'MobileCoreServices', 'SystemConfiguration'
+    s.frameworks = 'UIKit', 'Foundation', 'QuartzCore', 'AdSupport', 'AVFoundation', 'AVKit', 'MobileCoreServices', 'SystemConfiguration', 'WebKit', 'CoreLocation'
 
 
     s.requires_arc = true

@@ -307,7 +307,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC18APSDKMediationADOP27APSSPADOPNativeAdRenderable")
 @interface APSSPADOPNativeAdRenderable : NSObject
-@property (nonatomic, strong) GADNativeAdView * _Nullable admobNativewAdView;
+@property (nonatomic, strong) GADNativeAdView * _Nullable adopNativewAdView;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -634,7 +634,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC18APSDKMediationADOP27APSSPADOPNativeAdRenderable")
 @interface APSSPADOPNativeAdRenderable : NSObject
-@property (nonatomic, strong) GADNativeAdView * _Nullable admobNativewAdView;
+@property (nonatomic, strong) GADNativeAdView * _Nullable adopNativewAdView;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

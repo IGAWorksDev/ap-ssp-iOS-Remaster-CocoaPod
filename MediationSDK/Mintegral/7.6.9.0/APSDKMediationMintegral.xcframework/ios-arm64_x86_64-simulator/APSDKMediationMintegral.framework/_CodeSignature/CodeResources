@@ -73,6 +73,10 @@
 	<dict>
 		<key>Headers/APSDKMediationMintegral-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			JYGftHXHLm0LG3HWf8Ua4PXnl5s=
+			</data>
 			<key>hash2</key>
 			<data>
 			zUD8vfhNodgGb5U4O4p1BZ8sdLzblykhG77kCN1mjKs=
@@ -80,6 +84,10 @@
 		</dict>
 		<key>Headers/APSDKMediationMintegral.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			vA+33+cDkm4L1P2qYvrl3z3I+Xo=
+			</data>
 			<key>hash2</key>
 			<data>
 			QX0qdY7ZKYtZHUipqWK1JK1Fny2hxA+LshrtWHdQY60=
@@ -87,6 +95,10 @@
 		</dict>
 		<key>MTGSDK.bundle/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LpI1jvoH+gcpfvLueLiKJhYCBy4=
+			</data>
 			<key>hash2</key>
 			<data>
 			/HY53m/Q+WEQGscrJhuTNh6JQtxGyclJzo0Nrp4eR+4=
@@ -94,6 +106,10 @@
 		</dict>
 		<key>MTGSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			7pb/tiRb/KGE5KXo5P2+XBbJDLs=
+			</data>
 			<key>hash2</key>
 			<data>
 			NBdLMoqFX7Ov/mII2GrezPd6ClAP70i6z2JRWl/xxEg=
@@ -101,6 +117,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5Mk09ok8payo2D+NJcZlVF8PGxc=
+			</data>
 			<key>hash2</key>
 			<data>
 			iVWa5hZ5H4sBx1RqUcOQ3iVNZFotcLym3YsAgJpIkks=
@@ -108,6 +128,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yzw+4wVyDL/NwYQxDqeRyddVHFg=
+			</data>
 			<key>hash2</key>
 			<data>
 			GE34nFC6A1XFYfEA+vG1GtYgkIwBhQAcS/KzPj1ewnA=
@@ -115,6 +139,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			LYHEu6GXRcloqeTsmaEJejrTK+Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			Z9A2q5zyhToQ3k3e4bGDvDtJbahmTtC51CBFrEmwEVk=
@@ -122,6 +150,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yzw+4wVyDL/NwYQxDqeRyddVHFg=
+			</data>
 			<key>hash2</key>
 			<data>
 			GE34nFC6A1XFYfEA+vG1GtYgkIwBhQAcS/KzPj1ewnA=
@@ -129,6 +161,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			6GyJwPimtBlHwMnCLefWb96NWYw=
+			</data>
 			<key>hash2</key>
 			<data>
 			Ji9Cg0hluDZq+8Zp8leFbZJMemfQteIWj6uxzHGhLeY=
@@ -136,6 +172,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5Mk09ok8payo2D+NJcZlVF8PGxc=
+			</data>
 			<key>hash2</key>
 			<data>
 			iVWa5hZ5H4sBx1RqUcOQ3iVNZFotcLym3YsAgJpIkks=
@@ -143,6 +183,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GLrFY6atq00Dp6Gx7CFBCPhPPjo=
+			</data>
 			<key>hash2</key>
 			<data>
 			kNiQluA2qSzBQLIAnFiypK3onw4gytbWBHjMAflrqxI=
@@ -150,6 +194,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			pXv8QZBSJVktaQ8SkYZd+2b3gOc=
+			</data>
 			<key>hash2</key>
 			<data>
 			cYmFRgm/lsmxtXi1tOr6wC/H7r0rzu3tCOo7tWCtF2k=
@@ -157,6 +205,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GLrFY6atq00Dp6Gx7CFBCPhPPjo=
+			</data>
 			<key>hash2</key>
 			<data>
 			kNiQluA2qSzBQLIAnFiypK3onw4gytbWBHjMAflrqxI=
@@ -164,6 +216,10 @@
 		</dict>
 		<key>Modules/APSDKMediationMintegral.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fEhYFynZN3QLqv14wOc84GZSH2E=
+			</data>
 			<key>hash2</key>
 			<data>
 			5Vmv5SnmtpMskv5ABrNT1hBZLh+h2WEg+cJwPb5OC1Q=
@@ -171,6 +227,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uG2K96QQ2gPxfFF5o6n2ZjTF2qM=
+			</data>
 			<key>hash2</key>
 			<data>
 			RFkFpvWs8a+y/d9kmAQ6ACd1wlM7z3JUlrbbZ2A58vs=

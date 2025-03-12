@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdPopcornSSPSDK-Swift.h</key>
 		<data>
-		5K0MVftHc0IrvNKlE56Zrl3UxHw=
+		t+A8B/mQANitfGeSiwwzIyux31Q=
 		</data>
 		<key>Headers/AdPopcornSSPSDK.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qf4ZEzc4aZEo6MtnmOagiaLr3so=
+		r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		wr6P/8vAsBwP8m+41BzCFORs1qw=
+		W1KRA3rhFzZmb/Z0MTptZb/sZ/s=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wr6P/8vAsBwP8m+41BzCFORs1qw=
+		W1KRA3rhFzZmb/Z0MTptZb/sZ/s=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		04EqOzjg736a/mAJP4FHdR8F1c0=
+		dEc+v5zPcilvgA2O/ZSmE1F14dA=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qf4ZEzc4aZEo6MtnmOagiaLr3so=
+		r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		8z2EvWYQKlzbNY1grQtShZhQ99I=
+		0NikSAe6qQT8o6ybtiMxeFNqnJ8=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		8z2EvWYQKlzbNY1grQtShZhQ99I=
+		0NikSAe6qQT8o6ybtiMxeFNqnJ8=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NrFwrMvP7VnD2zdUsLb+tTbMIpw=
+		qAC9lYC8mwCzJ36Gr63taSWnhU4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -105,13 +105,21 @@
 	<dict>
 		<key>Headers/AdPopcornSSPSDK-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			t+A8B/mQANitfGeSiwwzIyux31Q=
+			</data>
 			<key>hash2</key>
 			<data>
-			Gm2zQ0pUvtG5wh0HUd8vSRM6FbLIu94m8/f9a5mFAGo=
+			4/gwb9YEJ4tYBCnJCu798c4ltEecm93gVKNPXJ4nE9Y=
 			</data>
 		</dict>
 		<key>Headers/AdPopcornSSPSDK.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			DvTj13tYbmbYUG4ECZjlddFTwtM=
+			</data>
 			<key>hash2</key>
 			<data>
 			fucDlNgHXGFCsSAN9ZHoOP7xeJ4cLXqIZuxrp4RIZiI=
@@ -119,20 +127,32 @@
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+			</data>
 			<key>hash2</key>
 			<data>
-			pTBYH4YSUhG6Q+WgnE3k6MRLTtyrt86MCeLqpitWgSE=
+			kDXUSGUFFC4e1VRmBtT3EwLbkkgrpssOQ4PG98HVkfM=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			W1KRA3rhFzZmb/Z0MTptZb/sZ/s=
+			</data>
 			<key>hash2</key>
 			<data>
-			Eiuq/bCZ9L2fARFz2oRJUAIMZ8YxCUlQr0vgP2oULLc=
+			eDW0CYuPDPZBKkckG13BiQ6n+vIi8ieCRJkZURqAM6U=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			RCYgvXN12RAEdue6sS8sWi4qG78=
+			</data>
 			<key>hash2</key>
 			<data>
 			TgIDwxEpVB0cDsSd82Uh7kGwQqdKU0pSyhi1jEu0Yt4=
@@ -140,34 +160,54 @@
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			W1KRA3rhFzZmb/Z0MTptZb/sZ/s=
+			</data>
 			<key>hash2</key>
 			<data>
-			Eiuq/bCZ9L2fARFz2oRJUAIMZ8YxCUlQr0vgP2oULLc=
+			eDW0CYuPDPZBKkckG13BiQ6n+vIi8ieCRJkZURqAM6U=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			dEc+v5zPcilvgA2O/ZSmE1F14dA=
+			</data>
 			<key>hash2</key>
 			<data>
-			MM1FM6vJ3wnTS94jVPDCAQwO6tK+Svcgdjtbe3Ag2Lc=
+			LMFDuXjhQ/NIuEazGJ8cb3wMhEKh9XbJU/544/BJK9o=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+			</data>
 			<key>hash2</key>
 			<data>
-			pTBYH4YSUhG6Q+WgnE3k6MRLTtyrt86MCeLqpitWgSE=
+			kDXUSGUFFC4e1VRmBtT3EwLbkkgrpssOQ4PG98HVkfM=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0NikSAe6qQT8o6ybtiMxeFNqnJ8=
+			</data>
 			<key>hash2</key>
 			<data>
-			rqc0fnvLxwUIKykoy3tzuxUOuMgQunxwYgkO58Mo0uI=
+			WrA28CykTGe56eu2yhMGSGDzqEAURu4sRq2jTQwBGvs=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Tc+LyAsmx6CTlUK9vL8JQp5pe2k=
+			</data>
 			<key>hash2</key>
 			<data>
 			Hd2zbxQj5orujygRSE3Azk7MYnFzcSn/ed9g6MYx3bQ=
@@ -175,20 +215,32 @@
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0NikSAe6qQT8o6ybtiMxeFNqnJ8=
+			</data>
 			<key>hash2</key>
 			<data>
-			rqc0fnvLxwUIKykoy3tzuxUOuMgQunxwYgkO58Mo0uI=
+			WrA28CykTGe56eu2yhMGSGDzqEAURu4sRq2jTQwBGvs=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			qAC9lYC8mwCzJ36Gr63taSWnhU4=
+			</data>
 			<key>hash2</key>
 			<data>
-			TECduGxrzj/DZ1zO4WMO5JuEA+pRbKHpFqsl01PRP8Y=
+			2C0I9fBDPmZGHYUfJxB72sdTMSur+tfrAYihakBizd4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VOw435q6JvV3F8uBldO1cqqdQgM=
+			</data>
 			<key>hash2</key>
 			<data>
 			fJbWp5bH4OpXev1K1nL+dKsENFvAnPZyHSMNubFRyrc=
@@ -196,6 +248,10 @@
 		</dict>
 		<key>banner_native_300x250_A.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Q5GFmluE8intPUBWydskg6FX3dc=
+			</data>
 			<key>hash2</key>
 			<data>
 			VV5u79BJVXXYnXiUGoUsaogSaEJbkT3ubd49/8923eU=
@@ -203,6 +259,10 @@
 		</dict>
 		<key>banner_native_300x250_B.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iF0UW40GD47nDjrIOGIhcs1t+tE=
+			</data>
 			<key>hash2</key>
 			<data>
 			e5hOzM/PCcaHaNVDHpkOZYMC1dF+a/chbtXgJcqvWHM=
@@ -210,6 +270,10 @@
 		</dict>
 		<key>banner_native_320x100_A.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			bfiCTHaUfJZwyPVpAZxKiVgllpU=
+			</data>
 			<key>hash2</key>
 			<data>
 			iPXAJZ2yTru7SUOHhFNXDL3/91n0GnFmWXor90uy63Q=
@@ -217,6 +281,10 @@
 		</dict>
 		<key>banner_native_320x100_B.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e4w/q0YC+hes/e8PGXyU3Ujyh1U=
+			</data>
 			<key>hash2</key>
 			<data>
 			EEWT0n74+cXnT2k64FnoU30PVi5hedQD/iowMNnUf6c=
@@ -224,6 +292,10 @@
 		</dict>
 		<key>banner_native_320x100_C.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			iH638eyVPPMYwn9D18Rs4zSimbg=
+			</data>
 			<key>hash2</key>
 			<data>
 			Sb2g9d2PzCfV8VBT4Lv0FXpYKRSwLn6y6Z4R5CNENtc=
@@ -231,6 +303,10 @@
 		</dict>
 		<key>banner_native_320x50_A.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			s9isWu9mKiVeWZUrgJ/j7HLpI0Y=
+			</data>
 			<key>hash2</key>
 			<data>
 			uhT847Ipqy/myr2K5wnmqGxWgiRFdR3J9g+u607OYuQ=
@@ -238,6 +314,10 @@
 		</dict>
 		<key>companion_native_324x58_A.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			WHMAB1/pK8sm4AI7SxuUCZlXcv4=
+			</data>
 			<key>hash2</key>
 			<data>
 			m5MXqyxXQq9HxhAbtWgciT5lIHFgsqwwbTLD0mpGBCw=
@@ -245,6 +325,10 @@
 		</dict>
 		<key>companion_native_324x58_B.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			QXIq/yrLDAgN+eYuAHVgF5tjkNg=
+			</data>
 			<key>hash2</key>
 			<data>
 			T1/yxJpMqtzR1Cw7GMh0cKUOCZDrheyk3EhIgq6f6bs=
@@ -252,6 +336,10 @@
 		</dict>
 		<key>interstitial_native_320x480_A.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			IEPljdQuOwprRxckY1xqr199uhA=
+			</data>
 			<key>hash2</key>
 			<data>
 			bIzLJRmers6XKdUlikDYinpTWOjY491O4AoVBNojSok=
@@ -259,6 +347,10 @@
 		</dict>
 		<key>interstitial_native_320x480_B.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			F9l7QXh+P1m3BP8SI8Sva75ajxw=
+			</data>
 			<key>hash2</key>
 			<data>
 			N1TT409jTmh99Ug5fsMVXgXkvkbqpID9menaoyKbEoc=

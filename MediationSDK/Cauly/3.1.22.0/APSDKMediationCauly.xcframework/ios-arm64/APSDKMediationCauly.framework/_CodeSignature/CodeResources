@@ -45,6 +45,10 @@
 	<dict>
 		<key>Headers/APSDKMediationCauly-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			GLzS8YWEae3F8vgdDQax8fr+eYs=
+			</data>
 			<key>hash2</key>
 			<data>
 			Ms4TrFCfDi0bmjhLyLS+XOGwy54hT4PgUWsvtjrz2Vg=
@@ -52,6 +56,10 @@
 		</dict>
 		<key>Headers/APSDKMediationCauly.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			N50QHjOvXVPqstBJjsokO2qZyAs=
+			</data>
 			<key>hash2</key>
 			<data>
 			7K/2ktWOvcK1XwlnRe/mELIiI2r4dUDwQZcRJDjVNew=
@@ -59,6 +67,10 @@
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			hZnzs/0C8HrkePHgi3hfMafB0sY=
+			</data>
 			<key>hash2</key>
 			<data>
 			X4yjzLi6II8dRaEz3WbHetdYqtbVawkv5MBEePDoXsA=
@@ -66,6 +78,10 @@
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			hyLOxl2CoT6yVnrJ0g7xw/BD0j0=
+			</data>
 			<key>hash2</key>
 			<data>
 			hB2Ti+76S33duNXcwhzsY8d9+Q4IXjaCNPWaxo93RuU=
@@ -73,6 +89,10 @@
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ZF9iCb27FMjv67h5NBA2XOuXcac=
+			</data>
 			<key>hash2</key>
 			<data>
 			8f5WhepgQrgML4YFrpWT06mLizVd9VbOW0Sjg3UPGDU=
@@ -80,6 +100,10 @@
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			hyLOxl2CoT6yVnrJ0g7xw/BD0j0=
+			</data>
 			<key>hash2</key>
 			<data>
 			hB2Ti+76S33duNXcwhzsY8d9+Q4IXjaCNPWaxo93RuU=
@@ -87,6 +111,10 @@
 		</dict>
 		<key>Modules/APSDKMediationCauly.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Y5QhLESmyq7OmRSlAG6ERZBjouc=
+			</data>
 			<key>hash2</key>
 			<data>
 			tYmXPuNaqEEMYELr1IoHEqwb0InnlQ19R9LHSsE9psM=
@@ -94,6 +122,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			O887Nio4tnwGgq2VE0cL14KjYdo=
+			</data>
 			<key>hash2</key>
 			<data>
 			4ZOWK3tREwgDuba2wxjZZHM1CdCd5f9i1tWyex9GjFs=

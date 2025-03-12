@@ -2059,8 +2059,8 @@
         "children": [
           {
             "kind": "Var",
-            "name": "admobNativewAdView",
-            "printedName": "admobNativewAdView",
+            "name": "adopNativewAdView",
+            "printedName": "adopNativewAdView",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2078,8 +2078,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(py)admobNativewAdView",
-            "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvp",
+            "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(py)adopNativewAdView",
+            "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC011adopNativewD4ViewSo09GADNativedH0CSgvp",
             "moduleName": "APSDKMediationADOP",
             "declAttributes": [
               "HasInitialValue",
@@ -2111,8 +2111,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)admobNativewAdView",
-                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvg",
+                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)adopNativewAdView",
+                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC011adopNativewD4ViewSo09GADNativedH0CSgvg",
                 "moduleName": "APSDKMediationADOP",
                 "implicit": true,
                 "declAttributes": [
@@ -2147,8 +2147,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)setAdmobNativewAdView:",
-                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvs",
+                "usr": "c:@M@APSDKMediationADOP@objc(cs)APSSPADOPNativeAdRenderable(im)setAdopNativewAdView:",
+                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC011adopNativewD4ViewSo09GADNativedH0CSgvs",
                 "moduleName": "APSDKMediationADOP",
                 "implicit": true,
                 "declAttributes": [
@@ -2169,8 +2169,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvM",
-                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC012admobNativewD4ViewSo09GADNativedH0CSgvM",
+                "usr": "s:18APSDKMediationADOP27APSSPADOPNativeAdRenderableC011adopNativewD4ViewSo09GADNativedH0CSgvM",
+                "mangledName": "$s18APSDKMediationADOP27APSSPADOPNativeAdRenderableC011adopNativewD4ViewSo09GADNativedH0CSgvM",
                 "moduleName": "APSDKMediationADOP",
                 "implicit": true,
                 "declAttributes": [

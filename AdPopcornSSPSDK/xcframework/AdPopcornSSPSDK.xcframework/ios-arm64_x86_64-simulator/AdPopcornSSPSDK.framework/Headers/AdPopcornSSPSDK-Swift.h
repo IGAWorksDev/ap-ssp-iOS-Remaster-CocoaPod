@@ -411,6 +411,10 @@ typedef SWIFT_ENUM(NSInteger, AnimationType, open) {
 };
 
 
+@interface AdPopcornBannerView (SWIFT_EXTENSION(AdPopcornSSPSDK))
+- (void)setAutoBgColor:(BOOL)istrue;
+@end
+
 
 enum NetworkError : NSInteger;
 
@@ -1054,6 +1058,10 @@ typedef SWIFT_ENUM(NSInteger, AnimationType, open) {
   AnimationTypeFadeIn = 5,
 };
 
+
+@interface AdPopcornBannerView (SWIFT_EXTENSION(AdPopcornSSPSDK))
+- (void)setAutoBgColor:(BOOL)istrue;
+@end
 
 
 enum NetworkError : NSInteger;

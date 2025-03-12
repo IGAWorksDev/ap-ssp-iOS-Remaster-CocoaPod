@@ -40,7 +40,7 @@ extension AdPopcornSSPSDK.AdPopcornBannerView : AdPopcornSSPSDK.BannerAdapterDel
   @_Concurrency.MainActor @preconcurrency final public func bannerViewImpression(message: Swift.String)
 }
 extension AdPopcornSSPSDK.AdPopcornBannerView {
-  @_Concurrency.MainActor @preconcurrency final public func setAutoBgColor(_ istrue: Swift.Bool = true)
+  @objc @_Concurrency.MainActor @preconcurrency final public func setAutoBgColor(_ istrue: Swift.Bool = true)
 }
 extension AdPopcornSSPSDK.AdPopcornBannerView {
   @objc public enum AnimationType : Swift.Int, Swift.CaseIterable {
