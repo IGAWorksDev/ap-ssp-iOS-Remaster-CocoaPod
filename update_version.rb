@@ -16,14 +16,14 @@ log_String = "pangle, UnityAds Banner 추가, error 수정"
 
 # 업데이트할 podspec 파일 경로
 versions = {
-  'APSDKMediationNAM.podspec' => '7.10.2.0.1',
+#  'APSDKMediationNAM.podspec' => '7.10.2.0.1',
 #  'APSDKMediationAdMob.podspec' => '11.2.0.0.1',
 #  'APSDKMediationAdFit.podspec' => '3.14.5.0.1',
 #  'APSDKMediationADOP.podspec' => '11.2.0.0.1',
 #  'APSDKMediationAppLovin.podspec' => '12.5.0.0.1',
 #  'APSDKMediationAppLovinMax.podspec' => '12.5.0.0.1',
 #  'APSDKMediationCauly.podspec' => '3.1.22.0.1',
-#  'APSDKMediationFBAudienceNetwork.podspec' => '6.15.1.0.1',
+  'APSDKMediationFBAudienceNetwork.podspec' => '6.15.1.0.1',
 #  'APSDKMediationFyber.podspec' => '8.3.0.0.1',
 #  'APSDKMediationMezzo.podspec' => '3.0.0.0.1',
 #  'APSDKMediationMintegral.podspec' => '7.6.9.0.1',

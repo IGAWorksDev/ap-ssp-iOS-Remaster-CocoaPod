@@ -1,0 +1,11 @@
+framework module APSDKMediationFBAudienceNetwork {
+  umbrella header "APSDKMediationFBAudienceNetwork.h"
+  export *
+
+  module * { export * }
+}
+
+module APSDKMediationFBAudienceNetwork.Swift {
+  header "APSDKMediationFBAudienceNetwork-Swift.h"
+  requires objc
+}
