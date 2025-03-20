@@ -9,7 +9,7 @@ require 'shellwords'
 
 # 업데이트할 버전 번호
 
-APSSPSDK_new_version = '0.0.26'
+APSSPSDK_new_version = '0.0.27'
 APSSPSDK_min_version = '>= 0.0.26'
 
 log_String = "pangle, UnityAds Banner 추가, error 수정"
@@ -23,7 +23,7 @@ versions = {
 #  'APSDKMediationAppLovin.podspec' => '12.5.0.0.1',
 #  'APSDKMediationAppLovinMax.podspec' => '12.5.0.0.1',
 #  'APSDKMediationCauly.podspec' => '3.1.22.0.1',
-  'APSDKMediationFBAudienceNetwork.podspec' => '6.15.1.0.1',
+#  'APSDKMediationFBAudienceNetwork.podspec' => '6.15.1.0.2',
 #  'APSDKMediationFyber.podspec' => '8.3.0.0.1',
 #  'APSDKMediationMezzo.podspec' => '3.0.0.0.1',
 #  'APSDKMediationMintegral.podspec' => '7.6.9.0.1',
@@ -34,22 +34,22 @@ versions = {
 
 
 
-#podspec_files = versions.keys + ['AdPopcornSSPSDK.podspec']
+podspec_files = versions.keys + ['AdPopcornSSPSDK.podspec']
 #
-## podspec version 수정하기
-#podspec_files.each do |podspec|
-#  contents = File.read(podspec)
-#
-#  if podspec == 'AdPopcornSSPSDK.podspec'
-#    contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{APSSPSDK_new_version}'")
-#  else
-#    contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{versions[podspec]}'")
-#  end
-#
-#  contents.gsub!(/s\.dependency\s+['"]AdPopcornSSPSDK['"],\s+['"][^'"]+['"]/, "s.dependency 'AdPopcornSSPSDK', '#{APSSPSDK_min_version}'")
-#  
-#  File.write(podspec, contents)
-#end
+# podspec version 수정하기
+podspec_files.each do |podspec|
+  contents = File.read(podspec)
+
+  if podspec == 'AdPopcornSSPSDK.podspec'
+    contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{APSSPSDK_new_version}'")
+  else
+    contents.gsub!(/s\.version\s+=\s+['"][\d\.]+['"]/, "s.version   = '#{versions[podspec]}'")
+  end
+
+  contents.gsub!(/s\.dependency\s+['"]AdPopcornSSPSDK['"],\s+['"][^'"]+['"]/, "s.dependency 'AdPopcornSSPSDK', '#{APSSPSDK_min_version}'")
+  
+  File.write(podspec, contents)
+end
 
 
 # podspec lint Test 해보기
@@ -60,12 +60,12 @@ versions = {
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@ podspec 파일 업데이트 @@@@@@@@@@@@@@@@@@@@@@@@@@
 
-podspec_files = versions.keys
-
-podspec_files.each do |podspec|
-    if podspec == 'APSDKMediationNAM.podspec'
-        system("pod trunk push #{podspec} --allow-warnings --skip-import-validation")
-    else
-        system("pod trunk push #{podspec} --allow-warnings")
-    end
-end
+#podspec_files = versions.keys
+#
+#podspec_files.each do |podspec|
+#    if podspec == 'APSDKMediationNAM.podspec'
+#        system("pod trunk push #{podspec} --allow-warnings --skip-import-validation")
+#    else
+#        system("pod trunk push #{podspec} --allow-warnings")
+#    end
+#end

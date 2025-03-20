@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+		ODZ/Zv04B6Z63+hvfaMJybicrTs=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+		ODZ/Zv04B6Z63+hvfaMJybicrTs=
 		</data>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+			ODZ/Zv04B6Z63+hvfaMJybicrTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kDXUSGUFFC4e1VRmBtT3EwLbkkgrpssOQ4PG98HVkfM=
+			CkUtHzbFRjf2dF9j/cRh+Oym8Kj/AgyrwX7VS5M8iH8=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -184,11 +184,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r5dSQr6Ly8SUgOPOWYeeOr1GPy4=
+			ODZ/Zv04B6Z63+hvfaMJybicrTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			kDXUSGUFFC4e1VRmBtT3EwLbkkgrpssOQ4PG98HVkfM=
+			CkUtHzbFRjf2dF9j/cRh+Oym8Kj/AgyrwX7VS5M8iH8=
 			</data>
 		</dict>
 		<key>Modules/AdPopcornSSPSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
